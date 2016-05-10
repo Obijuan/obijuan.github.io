@@ -5,7 +5,9 @@ body {
 
 h1 {
     color: lightblack;
+    background-color: lightblue;
     text-align: center;
+    padding: 50px 30px 50px 80px;
 }
 
 p {
