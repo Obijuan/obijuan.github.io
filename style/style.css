@@ -1,15 +1,44 @@
 body {
-    background-color: white;
-    font-family: "Arial";
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #DDDDDD;
+  margin: 0;
 }
 
-h1 {
-    color: lightblack;
-    background-color: lightblue;
-    text-align: center;
-    padding: 50px 30px 50px 80px;
+.container {
+
 }
 
-p {
-    font-size: 20px;
+.primary-header {
+  text-align: center;
+  color: #555555;
+  background: lightblue;
+  padding-bottom: 20px;
+  line-height: 2em;
+  height: 200px;
+}
+
+.manifesto {
+  margin: 0;
+  border: 0px;
+  padding-top: auto%;
+  padding-bottom: auto;
+  margin: 20px;
+}
+
+.primary-footer {
+  background: lightblue;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  height: 100px;
+}
+
+.picture {
+  height: 200px;
+  float: left;
+  margin: 10px;
+  padding-left: 40px;
+}
+
+.title {
+  padding-top: 5%;
 }
