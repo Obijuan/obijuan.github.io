@@ -1,10 +1,22 @@
+* {
+    box-sizing: border-box;
+  }
+  
+
+.container1 {
+    background-color: #303d4d;
+    color: #fff;
+    line-height: 6px;
+    font-size: 20px;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
 body {
     background-color:#111;
     text-align: center;
-    color: #fff;
     font-family: Roboto, Ubuntu, Verdana, Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    line-height: 6px;
+    color: #888;
 }
 
 /*-- Foto inicial --*/
