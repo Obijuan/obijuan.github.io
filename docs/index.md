@@ -25,7 +25,7 @@ layout: home
 # Juan González Gómez
 
 
-![](images/Obijuan.png)
+![](images/Juan_gonzalez_21-400x400.png)
 
 ¡Hola! Soy Obijuan... y en este microtutorial... 🙂  
 {: .fs-6 .fw-300 }  
@@ -37,8 +37,43 @@ layout: home
 ## Redes sociales
 
 * [![](images/logo-github.png)][Github]  
+* [![](images/logo-Youtube.png)][Youtube]
 * [![](images/logo-mastodon.png)][Mastodon]  
 * [![](images/logo-X.png)][X/Twitter]  
+
+
+## Aplicaciones
+
+* [Apio](https://github.com/FPGAwars/apio/wiki): Sintetiza fácilmente tus diseños en FPGAs Libres desde la línea de comandos  
+* [Icestudio](https://github.com/FPGAwars/icestudio/wiki): Herramienta gráfica para dibujar circuitos digitales y cargarlos en FPGAs Libres  
+
+## Cursos
+
+* Arquitectura de computadores. Procesador **RISC-V**
+  * [Laboratorio](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+  * [Teoría](https://github.com/myTeachingURJC/Arq-computadores-01/wiki)  
+* [Laboratorio de Tecnologías Audiovisuales en la Web](https://github.com/myTeachingURJC/2024-2025-LTAW/wiki)  (Curso 2024-2025)  
+* [Mecatrónica](https://github.com/myTeachingURJC/Mecatronica/wiki)  
+
+## Tutoriales
+
+* [Electrónica Digital para makers con FPGAs Libres]
+
+## Cuadernos técnicos
+
+* [Cuadernos técnicos sobre FPGAs Libres]
+
+## Colecciones para Icestudio
+
+* [IceK](https://github.com/FPGAwars/iceK/wiki): Constants
+* [IceWires](https://github.com/FPGAwars/iceWires/wiki): Wires and Buses 
+* [IceIO](https://github.com/FPGAwars/iceIO/wiki): FPGA IO-pins
+* [IceGates](https://github.com/FPGAwars/iceGates/wiki): Logic gates  
+* [IceMux](https://github.com/FPGAwars/iceMux/wiki): Muxes and Demuxes  
+* [IceCoders](https://github.com/FPGAwars/iceCoders/wiki): Binary Encoders and Decoders  
+* [IceFF](https://github.com/FPGAwars/iceFF/wiki): Flip-Flops
+* [IceRegs](https://github.com/FPGAwars/iceRegs/wiki): Registers
+* [IceSRegs](https://github.com/FPGAwars/iceSRegs/wiki): Shift registers  
 
 ## Cajón desastre
 
@@ -57,13 +92,18 @@ layout: home
 * [Mi página en la URJC](https://gestion2.urjc.es/pdi/ver/juan.gonzalez.gomez)   
 * [Mi página en IEARobotics](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main)  
 
-<!-- Enlaces de referencia -->
+<!------------- Enlaces de referencia -------------->
+<!--- Redes sociales -->
 [Github]: https://github.com/Obijuan/
 [Mastodon]: https://mstdn.social/@Obijuan
 [X/Twitter]: https://x.com/Obijuan_cube  
+[Youtube]: (https://www.youtube.com/@ObijuanCube)  
+
 [Learn-simulations]: https://github.com/Obijuan/Learn-simulations/wiki/Log
 [ICESTUDIO-DIGITAL]: https://github.com/Obijuan/Icestudio-Digital/wiki
 [Learn-web-wiki]: https://github.com/Obijuan/Learn-web-wiki/wiki
 [L1: Terminales: de la pluma al terminal]: https://github.com/Obijuan/Learn-computers/wiki/Terminales
 [Learn-Python]: https://github.com/Obijuan/Learn-python/wiki  
 [Learn-forth]: https://github.com/Obijuan/Learn-forth/wiki
+[Cuadernos técnicos sobre FPGAs Libres]: https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki  
+[Electrónica Digital para makers con FPGAs Libres]: https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki  
