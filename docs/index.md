@@ -46,12 +46,23 @@ layout: home
 
 ## Cajón desastre
 
-* [Mi página en la URJC](https://gestion2.urjc.es/pdi/ver/juan.gonzalez.gomez)  
+| Tipo        | Nombre             | Descripción |
+|-------------|--------------------|-------------|
+| Nota técnica|[Learn-Python]      | Sesiones sobre programación en python con VSCode |
+| Log         |[Learn-simulations] | Exprimentos con el visualizador 3D Fury y el motor físico pybullet |  
+| Proyecto    |[ICESTUDIO-DIGITAL] | Axiomatización de la electrónica digital práctica, con FPGAs Libres |
+| Log         |[Learn-web-wiki]    | Notas y pruebas sobre la web y las wikis  |
+| Nota técnica|[L1: Terminales: de la pluma al terminal] |  Viaje por los terminales de texto, desde sus orígenes más artesanales hasta su forma actual en el sistema operativo Linux |
+
+## Enlaces
+* [Mi página en la URJC](https://gestion2.urjc.es/pdi/ver/juan.gonzalez.gomez)   
 
 <!-- Enlaces de referencia -->
 [Github]: https://github.com/Obijuan/
 [Mastodon]: https://mstdn.social/@Obijuan
 [X/Twitter]: https://x.com/Obijuan_cube  
-
-
-
+[Learn-simulations]: https://github.com/Obijuan/Learn-simulations/wiki/Log
+[ICESTUDIO-DIGITAL]: https://github.com/Obijuan/Icestudio-Digital/wiki
+[Learn-web-wiki]: https://github.com/Obijuan/Learn-web-wiki/wiki
+[L1: Terminales: de la pluma al terminal]: https://github.com/Obijuan/Learn-computers/wiki/Terminales
+[Learn-Python]: https://github.com/Obijuan/Learn-python/wiki  
