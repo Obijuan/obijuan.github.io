@@ -55,6 +55,7 @@ layout: home
 
 ## Enlaces
 * [Mi página en la URJC](https://gestion2.urjc.es/pdi/ver/juan.gonzalez.gomez)   
+* [Mi página en IEARobotics](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main)  
 
 <!-- Enlaces de referencia -->
 [Github]: https://github.com/Obijuan/
