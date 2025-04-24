@@ -30,7 +30,7 @@ layout: home
 ¡Hola! Soy Obijuan... y en este microtutorial... 🙂  
 {: .fs-6 .fw-300 }  
 
-
+Esto es una prueba para ver qué está pasando...
 
 
 🚧 TODO 🚧
