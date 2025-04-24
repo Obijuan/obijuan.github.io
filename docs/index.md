@@ -36,15 +36,17 @@ layout: home
 
 ## Redes sociales
 
-* [![](images/logo-github.png)][Github] 
-* [Mastodon]
-* [X/Twitter]
+* [![](images/logo-github.png)][Github]  
+* [![](images/logo-mastodon.png)][Mastodon]  
+* [![](images/logo-X.png)][X/Twitter]  
 
-----
+
+🚧 TODO 🚧
+
 
 ## Cajón desastre
 
-🚧 TODO 🚧
+* [Mi página en la URJC](https://gestion2.urjc.es/pdi/ver/juan.gonzalez.gomez)  
 
 <!-- Enlaces de referencia -->
 [Github]: https://github.com/Obijuan/
