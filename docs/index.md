@@ -44,12 +44,12 @@ layout: home
 
 ## Cajón desastre
 
-
+🚧 TODO 🚧
 
 <!-- Enlaces de referencia -->
 [Github]: https://github.com/Obijuan/
 [Mastodon]: https://mstdn.social/@Obijuan
 [X/Twitter]: https://x.com/Obijuan_cube  
 
-🚧 TODO 🚧
+
 
