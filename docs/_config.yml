@@ -1,0 +1,15 @@
+title: Obijuan
+description: Probando Jekyll y el tema just-the-docs-template
+theme: just-the-docs
+
+url: https://obijuan.github.io/Learn-web-wiki/
+
+# Quitar/poner el buscador true/false
+search_enabled: true
+
+# Poner una nota a pie de página
+footer_content: "By Obijuan. Probando..."
+
+# CAMBIAR EL COLOR DEL TEMA!!!! light/dark
+color_scheme: dark
+
