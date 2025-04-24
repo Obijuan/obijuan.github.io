@@ -40,10 +40,6 @@ layout: home
 * [![](images/logo-mastodon.png)][Mastodon]  
 * [![](images/logo-X.png)][X/Twitter]  
 
-
-🚧 TODO 🚧
-
-
 ## Cajón desastre
 
 | Tipo        | Nombre             | Descripción |
@@ -53,6 +49,9 @@ layout: home
 | Proyecto    |[ICESTUDIO-DIGITAL] | Axiomatización de la electrónica digital práctica, con FPGAs Libres |
 | Log         |[Learn-web-wiki]    | Notas y pruebas sobre la web y las wikis  |
 | Nota técnica|[L1: Terminales: de la pluma al terminal] |  Viaje por los terminales de texto, desde sus orígenes más artesanales hasta su forma actual en el sistema operativo Linux |
+| Log         |[Learn-forth]       | Notas y experimentos sobre programación en Forth |
+
+
 
 ## Enlaces
 * [Mi página en la URJC](https://gestion2.urjc.es/pdi/ver/juan.gonzalez.gomez)   
@@ -66,3 +65,4 @@ layout: home
 [Learn-web-wiki]: https://github.com/Obijuan/Learn-web-wiki/wiki
 [L1: Terminales: de la pluma al terminal]: https://github.com/Obijuan/Learn-computers/wiki/Terminales
 [Learn-Python]: https://github.com/Obijuan/Learn-python/wiki  
+[Learn-forth]: https://github.com/Obijuan/Learn-forth/wiki
