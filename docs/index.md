@@ -112,7 +112,7 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 [Github]: https://github.com/Obijuan/
 [Mastodon]: https://mstdn.social/@Obijuan
 [X/Twitter]: https://x.com/Obijuan_cube  
-[Youtube]: (https://www.youtube.com/@ObijuanCube)  
+[Youtube]: https://www.youtube.com/@ObijuanCube  
 
 <!--- LOGs --->
 [Learn-simulations]: https://github.com/Obijuan/Learn-simulations/wiki/Log
