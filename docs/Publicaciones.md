@@ -9,6 +9,8 @@ layout: home
 
 * Guoyuan Li; Peter Verdru; Wei Li; Houxiang Zhang; Juan González-Gómez, ["A screw-less solution for snake-like robot assembly and sensor integration,"](https://ieeexplore.ieee.org/abstract/document/8316565) 2017 International Conference on Advanced Mechatronic Systems (ICAMechS), Xiamen, China, 2017, pp. 139-144, DOI: 10.1109/ICAMechS.2017.8316565.
 
+* G. Li, R. Urbina, H. Zhang and J. G. Gomez, ["Concept design and simulation of a water proofing modular robot for amphibious locomotion,"](https://ieeexplore.ieee.org/document/8316566) 2017 International Conference on Advanced Mechatronic Systems (ICAMechS), Xiamen, China, 2017, pp. 145-150, doi: 10.1109/ICAMechS.2017.8316566.
+
 * Valero-Gómez, A., González-Gómez, J. & Treviño, R. ["A new paradigm for open robotics research and education with the C++ OOML"](https://doi.org/10.1007/s10514-013-9324-5). Autonomous Robots 34, 233–249 (2013).  DOI: 10.1007/s10514-013-9324-5 
 
 * Ranganath, A., González-Gómez, J., Moreno Lorente, L. ["Morphology Dependent Distributed Controller for Locomotion in Modular Robots
@@ -20,6 +22,8 @@ layout: home
 
 * C. García-Saura, J. González-Gómez (2012), ["LOW COST EDUCATIONAL PLATFORM FOR ROBOTICS, USING OPEN-SOURCE 3D PRINTERS AND OPEN-SOURCE HARDWARE"](https://library.iated.org/view/GARCIASAURA2012LOW), ICERI2012 Proceedings, pp. 2699-2706
 
+* Gonzalez-Gomez, J., Valero-Gomez, A., Prieto-Moreno, A., Abderrahim, M. (2012). ["A New Open Source 3D-Printable Mobile Robotic Platform for Education"](https://link.springer.com/chapter/10.1007/978-3-642-27482-4_8). In: Rückert, U., Joaquin, S., Felix, W. (eds) Advances in Autonomous Mini Robots. Springer, Berlin, Heidelberg. doi: 10.1007/978-3-642-27482-4_8 (**Artículo con 110 citas según Google Scholar**)
+
 * C. Bensalah, M. Abderrahim and J. G. Gomez, ["A new finger inverse kinematics method for an anthropomorphic hand,"](https://ieeexplore.ieee.org/abstract/document/6181470) 2011 IEEE International Conference on Robotics and Biomimetics, Karon Beach, Thailand, 2011, pp. 1314-1319, doi: 10.1109/ROBIO.2011.6181470
 
 * J. Gonzalez-Gomez, J. G. Victores, A. Valero-Gomez and M. Abderrahim, ["Motion control of differential wheeled robots with joint limit constraints,"](https://ieeexplore.ieee.org/abstract/document/6181351) 2011 IEEE International Conference on Robotics and Biomimetics, Karon Beach, Thailand, 2011, pp. 596-601, doi: 10.1109/ROBIO.2011.6181351.
@@ -28,8 +32,36 @@ layout: home
 
 * A Ranganath, J Gonzalez-Gomez, LM Lorente	["A distributed neural controller for locomotion in linear modular robotic configurations"](https://www.avinashranganath.com/files/DistributedNeuralControllerForLocomotionInLinearModularRoboticConfigurations.pdf). Proceedings of the 8th Workshop of RoboCity2030, 129-144
 
-* Gonzalez-Gomez, J., Valero-Gomez, A., Prieto-Moreno, A., Abderrahim, M. (2012). ["A New Open Source 3D-Printable Mobile Robotic Platform for Education"](https://link.springer.com/chapter/10.1007/978-3-642-27482-4_8). In: Rückert, U., Joaquin, S., Felix, W. (eds) Advances in Autonomous Mini Robots. Springer, Berlin, Heidelberg. doi: 10.1007/978-3-642-27482-4_8 (Artículo con 110 citas según Google Scholar)
+* Urziceanu Ionut, Pablo Varona, Francisco de Borja Rodriguez, Juan Gonzalez-Gomez, Fernando Hererro Carron, Mircea Nitulescu (2011), ["Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot"](https://ace.ucv.ro/analele/2011_vol2/14_Urziceanu_Ionut.pdf). Annals of the University of Craiova, International journal. Series: Automation, Computers, Electronics and Mechatronics, 2011, Vol 8(36), no. 2, pp. 82-92.
 
+* H. Zhang, W. Wang, J. Gonzalez-Gomez, and J. Zhang, ‘A Bio-Inspired Small-Sized Wall-Climbing Caterpillar Robot’, Mechatronic Systems Applications. InTech, Mar. 01, 2010. doi: 10.5772/8918
+
+* Juan Gonzalez-Gomez, Javier Gonzalez-quijano, Houxiang Zhang, Mohamed Abderrahim, "Toward the sense of touch in snake modular robots for search and rescue operations". In Proc of the ICRA 2010 workshop on modular robots: State of the art. pp. 63-68, May-3rd, Anchorage, Alaska
+
+* G. Salvietti, H. X. Zhang, J. Gonzalez-Gòmez, D. Prattichizzo and J. W. Zhang, ["Task priority grasping and locomotion control of modular robot,"](https://ieeexplore.ieee.org/abstract/document/5420861) 2009 IEEE International Conference on Robotics and Biomimetics (ROBIO), Guilin, China, 2009, pp. 1069-1074, doi: 10.1109/ROBIO.2009.5420861.
+
+* De Blas Foix, Xavier & Gonzalez-Gomez, Juan & Gómez, Ricardo. (2009). [Validity Of New Chronopic V.3 Open Hardware To Measure Time On Jump Related Tests: 1583](http://dx.doi.org/10.1249/01.MSS.0000354748.26079.1a). Medicine and Science in Sports and Exercise - MED SCI SPORT EXERCISE. 41. Doi, 10.1249/01.MSS.0000354748.26079.1a. 
+
+* H. Zhang, J. Gonzalez-Gomez and J. Zhang, ["A new application of modular robots on analysis of caterpillar-like locomotion,"](https://ieeexplore.ieee.org/abstract/document/4957149) 2009 IEEE International Conference on Mechatronics, Malaga, Spain, 2009, pp. 1-6, doi: 10.1109/ICMECH.2009.4957149
+
+* H. X. Zhang, J. Gonzalez-Gomez, S. Y. Chen and J. W. Zhang, ["Embedded intelligent capability of a modular robotic system,"](https://ieeexplore.ieee.org/abstract/document/4913319) 2008 IEEE International Conference on Robotics and Biomimetics, Bangkok, Thailand, 2009, pp. 2061-2066, doi: 10.1109/ROBIO.2009.4913319
+
+
+* Zhang, H., Wang, W., González-Gómez, J., & Zhang, J. (2009). ["Design and Realization of a Novel Modular Climbing Caterpillar Using Low-Frequency Vibrating Passive Suckers"](https://doi.org/10.1163/156855309X442990). Advanced Robotics, 23(7–8), 889–906. doi: 10.1163/156855309X442990
+
+* Houxiang Zhang, Juan Gonzalez-Gomez, Zhizhu Me, Sheng Cheng and Jianwei Zhang, ["Development of a low-cost flexible modular robot GZ-I,"](https://ieeexplore.ieee.org/abstract/document/4601663) 2008 IEEE/ASME International Conference on Advanced Intelligent Mechatronics, Xian, 2008, pp. 223-228, doi: 10.1109/AIM.2008.4601663. 
+
+* H. X. Zhang et al., ["A novel modular climbing caterpillar using low-frequency vibrating passive suckers,"](https://ieeexplore.ieee.org/abstract/document/4412523) 2007 IEEE/ASME international conference on advanced intelligent mechatronics, Zurich, Switzerland, 2007, pp. 1-6, doi: 10.1109/AIM.2007.4412523
+
+*  J. Gonzalez-Gomez, H. Zhang, and E. Boemo, ["Locomotion Principles of 1D Topology Pitch and Pitch-Yaw-Connecting Modular Robots"](https://www.intechopen.com/chapters/460), Bioinspiration and Robotics Walking and Climbing Robots. I-Tech Education and Publishing, Sep. 01, 2007. doi: 10.5772/5513.
+
+* J. Gonzalez-Gomez, Houxiang Zhang, Eduardo Boemo and Jianwei Zhang, ["Locomotion Capabilities of a Modular Robot with Eight Pitch-Yaw-Connecting Modules"](https://repositorio.uam.es/handle/10486/666993),Proc. of the 9th International Conference on Climbing and Walking Robots. Clawar06, pp. 150-157. Brussels, September 2006
+
+* Gonzalez-Gomez, J., Gonzalez, I., Gomez-Arribas, F., Boemo, E. (2006). ["Evaluation of a Locomotion Algorithm for Worm-Like Robots on FPGA-Embedded Processors"](https://link.springer.com/chapter/10.1007/11802839_4). In: Bertels, K., Cardoso, J.M.P., Vassiliadis, S. (eds) Reconfigurable Computing: Architectures and Applications. ARC 2006. Lecture Notes in Computer Science, vol 3985. Springer, Berlin, Heidelberg. doi: 10.1007/11802839_4
+
+* Gonzalez-Gomez, J., Boemo, E. (2006). ["Motion of Minimal Configurations of a Modular Robot: Sinusoidal, Lateral Rolling and Lateral Shift"](https://doi.org/10.1007/3-540-26415-9_80). In: Tokhi, M.O., Virk, G.S., Hossain, M.A. (eds) Climbing and Walking Robots. Springer, Berlin, Heidelberg.
+
+* Gonzalez-Gomez, J., Aguayo, E., Boemo, E. (2005). ["Locomotion of a Modular Worm-like Robot Using a FPGA-based Embedded MicroBlaze Soft-processor"](https://link.springer.com/chapter/10.1007/3-540-29461-9_85). In: Climbing and Walking Robots. Springer, Berlin, Heidelberg. https://doi.org/10.1007/3-540-29461-9_85
 
 
 🚧 TODO 🚧  
