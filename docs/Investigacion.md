@@ -126,10 +126,10 @@ layout: default
 
 
 <details markdown="block">
-  <summary>(2006) 🏅 Motion of Minimal Configurations of a Modular Robot: Sinusoidal, Lateral Rolling and Lateral Shift</summary>  
+  <summary>(2006) 🏆 Motion of Minimal Configurations of a Modular Robot: Sinusoidal, Lateral Rolling and Lateral Shift</summary>  
 * Gonzalez-Gomez, J., Boemo, E. (2006). ["Motion of Minimal Configurations of a Modular Robot: Sinusoidal, Lateral Rolling and Lateral Shift"](https://doi.org/10.1007/3-540-26415-9_80). In: Tokhi, M.O., Virk, G.S., Hossain, M.A. (eds) Climbing and Walking Robots. Springer, Berlin, Heidelberg. Doi: 10.1007/3-540-26415-9_80
   * [Citas según google scholar: 36](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=11539521283850101037)
-  * This paper received the “🏅Industrial Robot Highly Commended Award”
+  * This paper received the “🏆 Industrial Robot Highly Commended Award”
   * Publicaciones destacadas que citan el artículo
    * Ocean Eng., 227 (2021)
    * International Journal of Advanced Robotic Systems (2017)
