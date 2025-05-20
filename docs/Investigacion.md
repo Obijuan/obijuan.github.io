@@ -1,5 +1,5 @@
 ---
-title: Publicaciones
+title: Investigación
 layout: default
 ---
 
@@ -24,7 +24,7 @@ layout: default
 # Investigación
 
 * Mi nombre científico es Juan González-Gómez
-* **Áreas de Interés**: Robótica, locomoción, mecatrónica, sistemas empotrados, microcontroaldores, arquitectura de ordenadores, FPGAs, Tecnologías Libres
+* **Áreas de Interés**: Robótica, locomoción, mecatrónica, sistemas empotrados, microcontroladores, arquitectura de ordenadores, FPGAs, Tecnologías Libres
 * [Perfile en Google Scholar](https://scholar.google.com/citations?user=khh9100AAAAJ)  
 * [https://orcid.org/0000-0002-4038-0808](https://orcid.org/0000-0002-4038-0808)  
 
