@@ -1,5 +1,5 @@
 title: Obijuan
-description: Probando Jekyll y el tema just-the-docs-template
+description: Página personal de Obijuan
 theme: just-the-docs
 
 url: https://obijuan.github.io/Learn-web-wiki/
@@ -8,7 +8,7 @@ url: https://obijuan.github.io/Learn-web-wiki/
 search_enabled: true
 
 # Poner una nota a pie de página
-footer_content: "By Obijuan. Probando..."
+footer_content: "By Obijuan"
 
 # CAMBIAR EL COLOR DEL TEMA!!!! light/dark
 color_scheme: dark

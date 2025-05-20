@@ -1,11 +1,35 @@
 ---
 title: Publicaciones
-layout: home
+layout: default
 ---
 
-# Publicaciones
+<!-- BOTON PARA CAMBIAR EL TEMA CLARO/OSCURO -->
+<button class="btn js-toggle-light-mode">Tema claro</button>
 
-[Perfile en Google Scholar](https://scholar.google.com/citations?user=khh9100AAAAJ)  
+<script>
+  const toggleDarkMode = document.querySelector('.js-toggle-light-mode');
+  jtd.setTheme('dark');
+
+  jtd.addEvent(toggleDarkMode, 'click', function(){
+    if (jtd.getTheme() === 'dark') {
+      jtd.setTheme('light');
+      toggleDarkMode.textContent = 'Tema oscuro';
+    } else {
+      jtd.setTheme('dark');
+      toggleDarkMode.textContent = 'Tema claro';
+    }
+  });
+</script>
+
+# Investigación
+
+* Mi nombre científico es Juan González-Gómez
+* **Áreas de Interés**: Robótica, locomoción, mecatrónica, sistemas empotrados, microcontroaldores, arquitectura de ordenadores, FPGAs, Tecnologías Libres
+* [Perfile en Google Scholar](https://scholar.google.com/citations?user=khh9100AAAAJ)  
+* [https://orcid.org/0000-0002-4038-0808](https://orcid.org/0000-0002-4038-0808)  
+
+
+# Publicaciones
 
 * Guoyuan Li; Peter Verdru; Wei Li; Houxiang Zhang; Juan González-Gómez, ["A screw-less solution for snake-like robot assembly and sensor integration,"](https://ieeexplore.ieee.org/abstract/document/8316565) 2017 International Conference on Advanced Mechatronic Systems (ICAMechS), Xiamen, China, 2017, pp. 139-144, DOI: 10.1109/ICAMechS.2017.8316565.
 
@@ -55,13 +79,92 @@ layout: home
 
 *  J. Gonzalez-Gomez, H. Zhang, and E. Boemo, ["Locomotion Principles of 1D Topology Pitch and Pitch-Yaw-Connecting Modular Robots"](https://www.intechopen.com/chapters/460), Bioinspiration and Robotics Walking and Climbing Robots. I-Tech Education and Publishing, Sep. 01, 2007. doi: 10.5772/5513.
 
+
+<details markdown="block">
+  <summary>(2006) Locomotion Capabilities of a Modular Robot with Eight Pitch-Yaw-Connecting Modules</summary>  
 * J. Gonzalez-Gomez, Houxiang Zhang, Eduardo Boemo and Jianwei Zhang, ["Locomotion Capabilities of a Modular Robot with Eight Pitch-Yaw-Connecting Modules"](https://repositorio.uam.es/handle/10486/666993),Proc. of the 9th International Conference on Climbing and Walking Robots. Clawar06, pp. 150-157. Brussels, September 2006
+  * [Citas según google scholar: 96](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=7933238640921871857)
+  * Publicaciones destacadas que citan el artículo
+    * 2xRobotics and Autonomous Systems (2012)
+    * Artificial Intelligence (2015)
+    * Advanced Robotics (2x2009)
+    * Journal of Intelligent & Robotic Systems (2015)
+    * Journal of field robotics (2008, 2014)
+    * Autonomous Robots (2009)
+    * The International Journal of Robotics Research (2015)
+    * Bioinspiration & Biomimetics (2017, 2018)
+    * IEEE International Conference on Robotics and Automation (ICRA, 2010, 2x2012, 3x2013, 3x2015, 2017)
+    * Integrated Computer-Aided Engineering. 2018
+    * Automation in Construction (2012)
+    * IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob) (2012)
+    * IEEE International Conference on Mechatronics and Automation (2015)
+    * 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS, 2007, 2014)
+    * 2014 IEEE International Symposium on Safety, Security, and Rescue Robotics (2014)
+    * 2023 9th International Conference on Mechatronics and Robotics Engineering (ICMRE) (2023)
+    * 2015 IEEE International Conference on Robotics and Biomimetics (ROBIO) (2x2007, 2008, 2015)
+    * Advances in Mechanical Engineering (2014)
+    * 2013 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (2013)
+    * Journal of the Korean Society for Precision Engineering (2021)
+    * Intelligent Robotics and Applications. ICIRA 2010
+    * ROBOT 2017: Third Iberian Robotics Conference. ROBOT 2017. Advances in Intelligent Systems and Computing (2017)
+    * 2008 3rd IEEE Conference on Industrial Electronics and Applications (2008)
+    * 2012 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR, 2012)
+    * Assistive Robotics, pp. 612-619 (2015)
+    * 2007 International Conference on Control, Automation and Systems (ICCAS, 2007)
+    * 2008 IEEE International Conference on Automation, Quality and Testing, Robotics (2008)
+    * International Journal of Information AcquisitionVol. 05, No. 02, pp. 111-126 (2008) 
+    * 2012 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI),
+    * ASME/IFToMM International Conference on Reconfigurable Mechanisms and Robots, ReMAR (2009)
+    * Journal of Institute of Control, Robotics and Systems (2008)
+</details>
 
+
+<details markdown="block">
+  <summary>(2006) Evaluation of a Locomotion Algorithm for Worm-Like Robots on FPGA-Embedded Processors</summary>  
 * Gonzalez-Gomez, J., Gonzalez, I., Gomez-Arribas, F., Boemo, E. (2006). ["Evaluation of a Locomotion Algorithm for Worm-Like Robots on FPGA-Embedded Processors"](https://link.springer.com/chapter/10.1007/11802839_4). In: Bertels, K., Cardoso, J.M.P., Vassiliadis, S. (eds) Reconfigurable Computing: Architectures and Applications. ARC 2006. Lecture Notes in Computer Science, vol 3985. Springer, Berlin, Heidelberg. doi: 10.1007/11802839_4
+</details>
 
-* Gonzalez-Gomez, J., Boemo, E. (2006). ["Motion of Minimal Configurations of a Modular Robot: Sinusoidal, Lateral Rolling and Lateral Shift"](https://doi.org/10.1007/3-540-26415-9_80). In: Tokhi, M.O., Virk, G.S., Hossain, M.A. (eds) Climbing and Walking Robots. Springer, Berlin, Heidelberg.
 
-* Gonzalez-Gomez, J., Aguayo, E., Boemo, E. (2005). ["Locomotion of a Modular Worm-like Robot Using a FPGA-based Embedded MicroBlaze Soft-processor"](https://link.springer.com/chapter/10.1007/3-540-29461-9_85). In: Climbing and Walking Robots. Springer, Berlin, Heidelberg. https://doi.org/10.1007/3-540-29461-9_85
+<details markdown="block">
+  <summary>(2006) 🏅 Motion of Minimal Configurations of a Modular Robot: Sinusoidal, Lateral Rolling and Lateral Shift</summary>  
+* Gonzalez-Gomez, J., Boemo, E. (2006). ["Motion of Minimal Configurations of a Modular Robot: Sinusoidal, Lateral Rolling and Lateral Shift"](https://doi.org/10.1007/3-540-26415-9_80). In: Tokhi, M.O., Virk, G.S., Hossain, M.A. (eds) Climbing and Walking Robots. Springer, Berlin, Heidelberg. Doi: 10.1007/3-540-26415-9_80
+  * [Citas según google scholar: 36](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=11539521283850101037)
+  * This paper received the “🏅Industrial Robot Highly Commended Award”
+  * Publicaciones destacadas que citan el artículo
+   * Ocean Eng., 227 (2021)
+   * International Journal of Advanced Robotic Systems (2017)
+   * Journal of Intelligent & Robotic Systems (2019)
+   * 2 Robotics and Autonomous Systems (2012, 2014)
+   * Industrial Robot (2006)
+   * IEEE Symposium Series on Computational Intelligence (SSCI, 2023)
+   * Intelligent Robotics and Applications (ICIRA, 2010) 
+   * International Journal of Advanced Robotic Systems (2017)
+   * 2008 IEEE International Conference on Robotics and Biomimetics (2008)
+   * International Conference on Computational and Experimental Science and Engineering (ICCESEN 2016)
+   * Ingeniare. Revista chilena de ingeniería (2014)
+   * International Journal of Advanced Computer Science and Applications (2019)
+</details>
+
+<details markdown="block">
+  <summary>(2005) Locomotion of a Modular Worm-like Robot Using a FPGA-based Embedded MicroBlaze Soft-processor</summary>  
+* Gonzalez-Gomez, J., Aguayo, E., Boemo, E. (2005). ["Locomotion of a Modular Worm-like Robot Using a FPGA-based Embedded MicroBlaze Soft-processor"](https://link.springer.com/chapter/10.1007/3-540-29461-9_85). In: Climbing and Walking Robots. Springer, Berlin, Heidelberg. doi: 10.1007/3-540-29461-9_85
+  * [Citas según google scholar: 44](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=4031571374279331794)
+  * This paper received the “🏅Industrial Robot Highly Commended Award”
+  * Publicaciones destacadas que citan el artículo
+    * Journal of Field Robotics
+    * Journal of Intelligent & Robotic Systems 
+    * Industrial Robot
+    * 20th International Conference on Control, Automation and Systems (ICCAS)
+    * Journal of Bionic Engineering
+    * IEEE Conference on Industrial Electronics and Applications (ICIEA)
+    * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+    * IEEE International Symposium on Embedded Computing
+    * SPIE 7321, Bio-Inspired/Biomimetic Sensor Technologies and Applications
+    * International Conference on Recent Trends and Challenges in Computational Models (ICRTCCM)
+    * SPIE 7546, Second International Conference on Digital Image Processing    
+</details>
+
+
 
 
 🚧 TODO 🚧  
