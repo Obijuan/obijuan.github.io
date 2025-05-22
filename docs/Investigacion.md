@@ -73,11 +73,85 @@ layout: default
 
 * Zhang, H., Wang, W., González-Gómez, J., & Zhang, J. (2009). ["Design and Realization of a Novel Modular Climbing Caterpillar Using Low-Frequency Vibrating Passive Suckers"](https://doi.org/10.1163/156855309X442990). Advanced Robotics, 23(7–8), 889–906. doi: 10.1163/156855309X442990
 
-* Houxiang Zhang, Juan Gonzalez-Gomez, Zhizhu Me, Sheng Cheng and Jianwei Zhang, ["Development of a low-cost flexible modular robot GZ-I,"](https://ieeexplore.ieee.org/abstract/document/4601663) 2008 IEEE/ASME International Conference on Advanced Intelligent Mechatronics, Xian, 2008, pp. 223-228, doi: 10.1109/AIM.2008.4601663. 
+<details markdown="block">
+<summary>(2008) Development of a low-cost flexible modular robot GZ-I</summary>
+* Houxiang Zhang, Juan Gonzalez-Gomez, Zhizhu Me, Sheng Cheng and Jianwei Zhang, ["Development of a low-cost flexible modular robot GZ-I,"](https://ieeexplore.ieee.org/abstract/document/4601663) 2008 IEEE/ASME International Conference on Advanced Intelligent Mechatronics, Xian, 2008, pp. 223-228, doi: 10.1109/AIM.2008.4601663
+  * [Citas según google scholar: 66](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=117311230424210860,16143945972660947718)
+  * Publicaciones destacadas que citan el artículo
+    * Robotics and Autonomous Systems (2012)
+    * Journal of Field robotics (2022)
+    * The International Journal of Robotics Research (2024)
+    * Journal of Intelligent & Robotic Systems (2016)
+    * Robotics and Autonomous Systems (2014)
+    * IEEE Transactions on Robotics (2018)
+    * Advances in Mechanical Engineering (2016)
+    * Autonomous Robotis (2015, 2016)
+    * IEEE International Conference on Robotics and Automation (ICRA, 2012)
+    * International Journal of Intelligent Robotics and Applications (217)
+    * Journal of Bionic Engineering (2018)
+    * International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (2017)
+    *  International Journal of Advanced Robotic Systems (2014)
+    
 
-* H. X. Zhang et al., ["A novel modular climbing caterpillar using low-frequency vibrating passive suckers,"](https://ieeexplore.ieee.org/abstract/document/4412523) 2007 IEEE/ASME international conference on advanced intelligent mechatronics, Zurich, Switzerland, 2007, pp. 1-6, doi: 10.1109/AIM.2007.4412523
+</details>
 
+
+<details markdown="block">
+<summary>(2007) 🏆 A novel modular climbing caterpillar using low-frequency vibrating passive suckers</summary>
+* H. X. Zhang; J. Gonzalez-Gomez; S.Y. Chen; W. Wang; R. Liu; D. Li; J. W. Zhang, ["A novel modular climbing caterpillar using low-frequency vibrating passive suckers,"](https://ieeexplore.ieee.org/abstract/document/4412523) 2007 IEEE/ASME international conference on advanced intelligent mechatronics, Zurich, Switzerland, 2007, pp. 1-6, doi: 10.1109/AIM.2007.4412523
+  * [Citas según google scholar: 29](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=3941588708448459685)
+  * 🏆 This paper was finalist for the AIM 2007 Best Paper Award
+  * Publicaciones destacadas que citan el artículo
+    * International Journal of Precision Engineering and Manufacturing (2010)
+    * Industrial Robot (2009)
+    * IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM, 2011)
+    * Bio-Inspired Locomotion Control of Limbless Robots (2023)
+    * Journal of Mechanisms and Robotics (2016)
+    * Advances in Mechanical Engineering (2013)
+    * AIR '15: Proceedings of the 2015 Conference on Advances In Robotics (2015)
+    * IEEE International Conference on Robotics and Biomimetics (ROBIO,2008)
+    * International Journal of Design & Nature and Ecodynamics (2012)
+    * ISR 2010 (41st International Symposium on Robotics) and ROBOTIK 2010
+    * Advanced Materials Research (2011)
+    * 2012 IEEE International Conference on Mechatronics and Automation
+
+</details>
+
+
+
+<details markdown="block">
+<summary>(2007) Locomotion Principles of 1D Topology Pitch and Pitch-Yaw-Connecting Modular Robots</summary>  
 *  J. Gonzalez-Gomez, H. Zhang, and E. Boemo, ["Locomotion Principles of 1D Topology Pitch and Pitch-Yaw-Connecting Modular Robots"](https://www.intechopen.com/chapters/460), Bioinspiration and Robotics Walking and Climbing Robots. I-Tech Education and Publishing, Sep. 01, 2007. doi: 10.5772/5513.
+  * [Citas según google scholar: 59](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=11852853694557538991)
+  * Publicaciones destacadas que citan el artículo
+    * Snake Robots. Modelling, Mechatronics, and Control (2013)
+    * Advanced Robotics (2x2009)
+    * Autonomous Robots (2009)
+    * IEEE Transactions on Robotics (2011)
+    * The International Journal of Robotics Research (2015)
+    * Multibody System Dynamics (2022)
+    * IEEE International Conference on Robotics and Automation (ICRA, 2010, 2x2013)
+    * Integrated Computer-Aided Engineering (2018)
+    * Applied Science (2019)
+    * 2019 5th International Conference on Control, Automation and Robotics (ICCAR)
+    * International Journal of Advanced Robotic Systems (2017, 2020)
+    * ICR 2017. Lecture Notes in Computer Science (2017)
+    * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS, 2011)
+    * IEEE International Conference on Information and Automation (ICIA, 2014)
+    * Journal of the Korean Society for Precision Engineering (2021)
+    * Advances in Computing. CCC 2017
+    * Robomech Journal (2023)
+    * A Visual Programming Approach for Co-designed Robots. Robotica (2021)
+    * IEEE International Conference on Robotics and Biomimetics (ROBIO 2008, 2x2010)
+    * IFAC-PapersOnLine (2016)
+    * Multi-sensor Module Design and Operation of Snake Robot for Narrow Space Exploration (2024)
+    * Bio-Inspired Locomotion Control of Limbless Robots (2023)
+    * International Conference on Advanced Mechatronic Systems (ICAMechS, 2017)
+    * IEEE International Conference on Industrial Technology (ICIT, 2015)
+
+</details>
+
+
 
 
 <details markdown="block">
@@ -149,19 +223,19 @@ layout: default
   <summary>(2005) Locomotion of a Modular Worm-like Robot Using a FPGA-based Embedded MicroBlaze Soft-processor</summary>  
 * Gonzalez-Gomez, J., Aguayo, E., Boemo, E. (2005). ["Locomotion of a Modular Worm-like Robot Using a FPGA-based Embedded MicroBlaze Soft-processor"](https://link.springer.com/chapter/10.1007/3-540-29461-9_85). In: Climbing and Walking Robots. Springer, Berlin, Heidelberg. doi: 10.1007/3-540-29461-9_85
   * [Citas según google scholar: 44](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=4031571374279331794)
-  * This paper received the “🏅Industrial Robot Highly Commended Award”
   * Publicaciones destacadas que citan el artículo
-    * Journal of Field Robotics
-    * Journal of Intelligent & Robotic Systems 
-    * Industrial Robot
-    * 20th International Conference on Control, Automation and Systems (ICCAS)
-    * Journal of Bionic Engineering
-    * IEEE Conference on Industrial Electronics and Applications (ICIEA)
-    * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-    * IEEE International Symposium on Embedded Computing
-    * SPIE 7321, Bio-Inspired/Biomimetic Sensor Technologies and Applications
-    * International Conference on Recent Trends and Challenges in Computational Models (ICRTCCM)
-    * SPIE 7546, Second International Conference on Digital Image Processing    
+    * Journal of Field Robotics (2023)
+    * Journal of Intelligent & Robotic Systems (2016) 
+    * Industrial Robot (2006)
+    * 20th International Conference on Control, Automation and Systems (ICCAS, 2020)
+    * Journal of Bionic Engineering (2015)
+    * IEEE Conference on Industrial Electronics and Applications (ICIEA, 2018)
+    * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS, 2018)
+    * IEEE International Symposium on Embedded Computing (2008)
+    * International Research Journal of Engineering and Technology (IRJET, 2020) 
+    * SPIE 7321, Bio-Inspired/Biomimetic Sensor Technologies and Applications (2009)
+    * International Conference on Recent Trends and Challenges in Computational Models (ICRTCCM, 2017)
+    * SPIE 7546, Second International Conference on Digital Image Processing (2010)     
 </details>
 
 
