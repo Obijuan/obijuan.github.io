@@ -62,16 +62,55 @@ layout: default
 
 * Juan Gonzalez-Gomez, Javier Gonzalez-quijano, Houxiang Zhang, Mohamed Abderrahim, "Toward the sense of touch in snake modular robots for search and rescue operations". In Proc of the ICRA 2010 workshop on modular robots: State of the art. pp. 63-68, May-3rd, Anchorage, Alaska
 
+<details markdown="block">
+<summary>(2009) Task priority grasping and locomotion control of modular robot</summary>
 * G. Salvietti, H. X. Zhang, J. Gonzalez-Gòmez, D. Prattichizzo and J. W. Zhang, ["Task priority grasping and locomotion control of modular robot,"](https://ieeexplore.ieee.org/abstract/document/5420861) 2009 IEEE International Conference on Robotics and Biomimetics (ROBIO), Guilin, China, 2009, pp. 1069-1074, doi: 10.1109/ROBIO.2009.5420861.
+  * [Citas según google scholar: 14](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=6775952751764348090)
+    * Publicaciones destacadas que citan el artículo
+      * Redundant Robots (2021)
+      * Machines 2024
+      * IEEE/ASME Transactions on Mechatronics (2022)
+      * IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) (2018)
+      * 4th IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob, 2012),
+      * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS, 2015, 2016),
+      * Journal of Robotics and Mechatronics (2015)
+      * IEEE International Conference on Mechatronics (ICM, 2013)
+</details>
 
+<details markdown="block">
+<summary>(2009) Validity Of New Chronopic V.3 Open Hardware To Measure Time On Jump Related Tests: 1583</summary>
 * De Blas Foix, Xavier & Gonzalez-Gomez, Juan & Gómez, Ricardo. (2009). [Validity Of New Chronopic V.3 Open Hardware To Measure Time On Jump Related Tests: 1583](http://dx.doi.org/10.1249/01.MSS.0000354748.26079.1a). Medicine and Science in Sports and Exercise - MED SCI SPORT EXERCISE. 41. Doi, 10.1249/01.MSS.0000354748.26079.1a. 
+</details>
 
+
+<details markdown="block">
+<summary>(2009) A new application of modular robots on analysis of caterpillar-like locomotion</summary>
 * H. Zhang, J. Gonzalez-Gomez and J. Zhang, ["A new application of modular robots on analysis of caterpillar-like locomotion,"](https://ieeexplore.ieee.org/abstract/document/4957149) 2009 IEEE International Conference on Mechatronics, Malaga, Spain, 2009, pp. 1-6, doi: 10.1109/ICMECH.2009.4957149
+  * [Citas según google scholar: 20](hhttps://scholar.google.com/scholar?oi=bibs&hl=es&cites=4144310798698425124)
+    * Publicaciones destacadas que citan el artículo
+      * International Journal of Advanced Robotic Systems (2017)
+      * IEEE International Conference on Robotics and Biomimetics (ROBIO, 2012)
+      * Actuators 2021
+      * Applied Science. 2019
+      * eLife (2024)
+      * Industrial Robot (2015)
+      * Proceedings of the 14th IFToMM World Congress (2015)
+      * Bio-Inspired Locomotion Control of Limbless Robots (2023)
+</details>
 
+
+
+<details markdown="block">
+<summary>(2009) Embedded intelligent capability of a modular robotic system</summary>
 * H. X. Zhang, J. Gonzalez-Gomez, S. Y. Chen and J. W. Zhang, ["Embedded intelligent capability of a modular robotic system,"](https://ieeexplore.ieee.org/abstract/document/4913319) 2008 IEEE International Conference on Robotics and Biomimetics, Bangkok, Thailand, 2009, pp. 2061-2066, doi: 10.1109/ROBIO.2009.4913319
+</details>
 
 
+<details markdown="block">
+<summary>(2009) Development of a low-cost flexible modular robot GZ-I</summary>
 * Zhang, H., Wang, W., González-Gómez, J., & Zhang, J. (2009). ["Design and Realization of a Novel Modular Climbing Caterpillar Using Low-Frequency Vibrating Passive Suckers"](https://doi.org/10.1163/156855309X442990). Advanced Robotics, 23(7–8), 889–906. doi: 10.1163/156855309X442990
+</details>
+
 
 <details markdown="block">
 <summary>(2008) Development of a low-cost flexible modular robot GZ-I</summary>
@@ -85,14 +124,18 @@ layout: default
     * Robotics and Autonomous Systems (2014)
     * IEEE Transactions on Robotics (2018)
     * Advances in Mechanical Engineering (2016)
-    * Autonomous Robotis (2015, 2016)
+    * Autonomous Robotis (2x2015, 2016)
     * IEEE International Conference on Robotics and Automation (ICRA, 2012)
     * International Journal of Intelligent Robotics and Applications (217)
     * Journal of Bionic Engineering (2018)
     * International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (2017)
-    *  International Journal of Advanced Robotic Systems (2014)
-    
-
+    * International Journal of Advanced Robotic Systems (2014)
+    * IEEE International Conference on Systems, Man and Cybernetics (2010)
+    * International Journal of Advanced Robotic Systems (2017)
+    * International Symposium on Computers in Education (SIIE)
+    * Journal of Sound and Vibration (2018)
+    * IEEE International Conference on Information and Automation (ICIA, 2013)
+    * Journal of Advanced Mechanical Design, Systems, and Manufacturing (2012)
 </details>
 
 
