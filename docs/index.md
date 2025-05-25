@@ -39,7 +39,9 @@ layout: home
 * [![](images/logo-github.png)][Github]  
 * [![](images/logo-Youtube.png)][Youtube]
 * [![](images/logo-mastodon.png)][Mastodon]  
+* [![](images/linkedin.png)][Linkedin]
 * [![](images/logo-X.png)][X/Twitter]  
+
 
 
 ## Aplicaciones
@@ -51,6 +53,8 @@ layout: home
 * [Simplez FPGA]. Implementación del procesador SIMPLEZ en la FPGA de la tarjeta Alhambra-II
 * [Nand2Tetris Icestudio]. Implementación del procesador HACK del famoso curso Nand2tetris, y todos sus bloques, en Icestudio
 * [Z80 FPGA]. Implementación del procesador Z80 en Icestudio
+* [RISC-V-FPGA]. Procesador RISC-V para FPGAs Libres, en Icestudio 
+* [RiscvForth]. Implementación de Forth para procesadores RISCV32
 
 ## Cursos
 
@@ -64,6 +68,8 @@ layout: home
 
 * [Electrónica Digital para makers con FPGAs Libres]. Aprende electrónica digital desde 0 con **Icestudio** en FPGAs Libres
 * [Diseño Digital para FPGAs, con herramientas libres]. Aprende a diseñar circuitos digitales con **Verilog** en FPGAs Libres
+* [Tutoriales de FreeCad]. Aprende a diseñar en 3D para impresoras 3D
+* [Videoblog]. VideoBlog: Píldoras de conocimiento  
 
 ## Cuadernos técnicos
 
@@ -98,10 +104,25 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 | [Learn-forth]       | Notas y experimentos sobre programación en Forth |
 | [Learn-logic]       | Notas sobre lógica formal y Metamath |
 | [Learn-RISCV]       | Notas sobre RISC-V |
+| [Learn-PyCompilerExercises] | Pruebas y ejercicios del libro "Writing Interpreters and Compilers for the Raspberry Pi using Python"  |
+| [Learn-Kicad]  | Mis notas sobre Kicad   |
+| [Learn-mearm]  | Pruebas y aprendizaje sobre el robot MeARM |  
+| [Learn-zx-spectrum-asm] | Experimentos y log de aprendizaje del libro "Ensamblador para ZX Spectrum ¿Hacemos un juego?" |  
+| [FemtoRV-learn] | Aprendizaje sobre el procesador FemtoRV processor de  Bruno Levy  |
+| [Mis notas] | Mis notas genéricas |
+| [Learn-RISCV-ESP32] | Aprendizaje sobre las herramientas para programar la la placa ESP32-C3-DevKitM-1 |  
+| [Learn-RISCV-nanoCH32V203] | Aprendizaje sobre las herramientas para programar el procesador RISCV-nanoCH32V203 |  
+| [Learn-Icestudio-dev] | Pruebas para aprender sobre todas las bibliotecas js usadas en el desarrollo de Icestudio | 
+| [Rust-learn] | Aprendizaje del lenguaje Rust |
+| [DEZ80] | Retos del curso de código máquina del Z80 de Fran Gallego |  
+| [Github-action-tests] | Repositorio para trabajar/aprender sobre las github actions | 
+
 
 ## Cajón de sastre
 
+* [Mis presentaciones](https://github.com/Obijuan/myslides/wiki)  
 * [Mis diseños 2D](https://github.com/Obijuan/my2Ddesigns/wiki)  
+
 
 ## Enlaces
 * [Mi página en la URJC](https://gestion2.urjc.es/pdi/ver/juan.gonzalez.gomez)   
@@ -113,6 +134,7 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 [Mastodon]: https://mstdn.social/@Obijuan
 [X/Twitter]: https://x.com/Obijuan_cube  
 [Youtube]: https://www.youtube.com/@ObijuanCube  
+[Linkedin]: https://www.linkedin.com/in/juan-gonzalez-g%C3%B3mez-6b69b210/
 
 <!--- LOGs --->
 [Learn-simulations]: https://github.com/Obijuan/Learn-simulations/wiki/Log
@@ -122,6 +144,18 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 [Learn-raspberry-pico2]: https://github.com/Obijuan/Learn-raspberry-pico2/wiki
 [Learn-logic]: https://github.com/Obijuan/Learn-logic/wiki
 [Learn-RISCV]: https://github.com/Obijuan/Learn-RISCV/wiki
+[Learn-PyCompilerExercises]: https://github.com/Obijuan/Learn-PyCompilerExercices/wiki
+[Learn-Kicad]: https://github.com/Obijuan/Learn-Kicad/wiki
+[Learn-mearm]: https://github.com/Obijuan/Learn-mearm/wiki
+[Learn-zx-spectrum-asm]: https://github.com/Obijuan/Learn-zx-spectrum-asm/wiki  
+[FemtoRV-learn]: https://github.com/Obijuan/FemtoRV-learn/wiki/LOG  
+[Mis notas]: https://github.com/Obijuan/mynotes/wiki  
+[Learn-RISCV-ESP32]: https://github.com/Obijuan/Learn-RISCV-ESP32-C3/wiki
+[Learn-RISCV-nanoCH32V203]: https://github.com/Obijuan/Learn-RISCV-nanoCH32V203/wiki
+[Learn-Icestudio-dev]: https://github.com/Obijuan/Learn-icestudio-dev  
+[Rust-learn]: https://github.com/Obijuan/Rust-learn/wiki
+[DEZ80]: https://github.com/Obijuan/DEZ80/wiki
+[Github-action-tests]: https://github.com/Obijuan/github-action-tests  
 
 <!-- Cuadernos técnicos -->
 [ICESTUDIO-DIGITAL]: https://github.com/Obijuan/Icestudio-Digital/wiki
@@ -133,10 +167,15 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 <!-- Tutoriales -->
 [Electrónica Digital para makers con FPGAs Libres]: https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki  
 [Diseño Digital para FPGAs, con herramientas libres]: https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki
+[Tutoriales de FreeCad]: https://github.com/Obijuan/tutoriales-freecad  
+[Videoblog]: https://github.com/Obijuan/videoblog/wiki  
 
 <!-- Proyectos -->
 [Simplez FPGA]: https://github.com/Obijuan/simplez-fpga/wiki
 [Nand2Tetris Icestudio]: https://github.com/Obijuan/nand2tetris-icestudio
 [Z80 FPGA]: https://github.com/Obijuan/Z80-FPGA
+[RISC-V-FPGA]: https://github.com/Obijuan/RISC-V-FPGA
+[RiscvForth]: https://github.com/Obijuan/RiscvForth
+
 
 
