@@ -125,6 +125,7 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 
 
 ## Enlaces
+* [Mi cuenta GitLab en la URJC](https://gitlab.etsit.urjc.es/obijuan1)  
 * [Mi página en la URJC](https://gestion2.urjc.es/pdi/ver/juan.gonzalez.gomez)   
 * [Mi página en IEARobotics](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Main)  
 
