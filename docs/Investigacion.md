@@ -29,27 +29,88 @@ layout: default
 * [https://orcid.org/0000-0002-4038-0808](https://orcid.org/0000-0002-4038-0808)  
 
 
-# Publicaciones
+# Publicaciones internacionales
 
-* Guoyuan Li; Peter Verdru; Wei Li; Houxiang Zhang; Juan González-Gómez, ["A screw-less solution for snake-like robot assembly and sensor integration,"](https://ieeexplore.ieee.org/abstract/document/8316565) 2017 International Conference on Advanced Mechatronic Systems (ICAMechS), Xiamen, China, 2017, pp. 139-144, DOI: 10.1109/ICAMechS.2017.8316565.
+<details markdown="block">
+<summary>(2017) A screw-less solution for snake-like robot assembly and sensor integration </summary>
+* Guoyuan Li; Peter Verdru; Wei Li; Houxiang Zhang; Juan González-Gómez, ["A screw-less solution for snake-like robot assembly and sensor integration,"](https://ieeexplore.ieee.org/abstract/document/8316565) 2017 International Conference on Advanced Mechatronic Systems (ICAMechS), Xiamen, China, 2017, pp. 139-144, DOI: 10.1109/ICAMechS.2017.8316565
+</details>
 
-* G. Li, R. Urbina, H. Zhang and J. G. Gomez, ["Concept design and simulation of a water proofing modular robot for amphibious locomotion,"](https://ieeexplore.ieee.org/document/8316566) 2017 International Conference on Advanced Mechatronic Systems (ICAMechS), Xiamen, China, 2017, pp. 145-150, doi: 10.1109/ICAMechS.2017.8316566.
 
+<details markdown="block">
+<summary>(2017) Concept design and simulation of a water proofing modular robot for amphibious locomotion </summary>
+* G. Li, R. Urbina, H. Zhang and J. G. Gomez, ["Concept design and simulation of a water proofing modular robot for amphibious locomotion,"](https://ieeexplore.ieee.org/document/8316566) 2017 International Conference on Advanced Mechatronic Systems (ICAMechS), Xiamen, China, 2017, pp. 145-150, doi: 10.1109/ICAMechS.2017.8316566
+</details>
+
+
+<details markdown="block">
+<summary>(2013) A new paradigm for open robotics research and education with the C++ OOML </summary>
 * Valero-Gómez, A., González-Gómez, J. & Treviño, R. ["A new paradigm for open robotics research and education with the C++ OOML"](https://doi.org/10.1007/s10514-013-9324-5). Autonomous Robots 34, 233–249 (2013).  DOI: 10.1007/s10514-013-9324-5 
+</details>
 
+
+<details markdown="block">
+<summary>(2012) Morphology Dependent Distributed Controller for Locomotion in Modular Robots </summary>  
 * Ranganath, A., González-Gómez, J., Moreno Lorente, L. ["Morphology Dependent Distributed Controller for Locomotion in Modular Robots
 "](https://biecoll.ub.uni-bielefeld.de/index.php/robotdoc/issue/view/38). Proceedings of the Post-Graduate Conference on Robotics and Development of Cognition, 10-12 September 2012 Lausanne, Switzerland 
+</details>
 
-* A. Valero-Gómez, J. González-Gómez, V. González-Pacheco and M. A. Salichs, ["Printable creativity in plastic valley UC3M,"](https://ieeexplore.ieee.org/abstract/document/6201151) Proceedings of the 2012 IEEE Global Engineering Education Conference (EDUCON), Marrakech, Morocco, 2012, pp. 1-9, doi: 10.1109/EDUCON.2012.6201151.
+<details markdown="block">
+<summary>(2012) Printable creativity in plastic valley UC3M </summary>  
+* A. Valero-Gómez, J. González-Gómez, V. González-Pacheco and M. A. Salichs, ["Printable creativity in plastic valley UC3M,"](https://ieeexplore.ieee.org/abstract/document/6201151) Proceedings of the 2012 IEEE Global Engineering Education Conference (EDUCON), Marrakech, Morocco, 2012, pp. 1-9, doi: 10.1109/EDUCON.2012.6201151
+* [Citas según google scholar: 18](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=11054451899512555043)
+    * Publicaciones destacadas que citan el artículo
+      * Additive Manufacturing, 2019
+      * Virtual and Physical Prototyping, 2013
+      * Annals of biomedical engineering, 2013
+      * Journal of Intelligent & Robotic Systems, 2016
+      * Recent Trends in Mechatronics Towards Industry 4.0, 2020
+      * Journal of Electronic Packaging, 2015
+      * Additive manufacturing technologies from an optimization perspective (2019)
+      * Design Education (2024)
+      * INTED2018 Proceedings (2018)
+</details>
 
-* A. Valero-Gómez, J. González-Gómez, M. Almagro and M. A. Salichs, ["Boosting mechanical design with the C++ OOML and open source 3D printers,"](https://ieeexplore.ieee.org/abstract/document/6201114) Proceedings of the 2012 IEEE Global Engineering Education Conference (EDUCON), Marrakech, Morocco, 2012, pp. 1-7, doi: 10.1109/EDUCON.2012.6201114.
+<details markdown="block">
+<summary>(2012) Boosting mechanical design with the C++ OOML and open source 3D printers </summary>  
+* A. Valero-Gómez, J. González-Gómez, M. Almagro and M. A. Salichs, ["Boosting mechanical design with the C++ OOML and open source 3D printers,"](https://ieeexplore.ieee.org/abstract/document/6201114) Proceedings of the 2012 IEEE Global Engineering Education Conference (EDUCON), Marrakech, Morocco, 2012, pp. 1-7, doi: 10.1109/EDUCON.2012.6201114
+* [Citas según google scholar: 12](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=7182809676631199301)
+    * Publicaciones destacadas que citan el artículo
+      * Journal of Manufacturing and Materials Processing, 2017
+      * Designs, 2017
+      * Applied Sciences, 2019
+      * International Design Engineering Technical Conferences and Computers and Information in Engineering Conference. American Society of Mechanical Engineers, 2013
+      * Proceedings of the 33rd Chinese Control Conference (2014)
+      * Food and Machinery, 2015
+      * Computer Applications in Electrical Engineering, 2014
+      * 
+</details>
 
+
+<details markdown="block">
+<summary>(2012) Low cost educational platform for robotics, using open-source 3D printers and open-source hardware </summary>  
 * C. García-Saura, J. González-Gómez (2012), ["LOW COST EDUCATIONAL PLATFORM FOR ROBOTICS, USING OPEN-SOURCE 3D PRINTERS AND OPEN-SOURCE HARDWARE"](https://library.iated.org/view/GARCIASAURA2012LOW), ICERI2012 Proceedings, pp. 2699-2706
+* [Citas según google scholar: 22](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=5647909449214468596)
+    * Publicaciones destacadas que citan el artículo
+      * Education Sciences (2023)
+      * International Journal of Computer Applications (2019)
+      * Social Robotics: 5th International Conference, ICSR (2013)
+      * IFAC Proceedings Volumes (2013)
+      * Computers in Human Behavior (2018)
+      * IEEE Frontiers in Education Conference (FIE, 2014) 
+      * Robotics in Education: RiE 2021 
+      * International Conference on Robotics in Education (RiE. 2023)
+      * International Conference on Education, Management, Computer and Society. Atlantis Press, 2016.
+      * Robotics in Education: RiE 2021
+      * Smart Learning with Educational Robotics: Using Robots to Scaffold Learning Outcomes, 2019
+      * International Conference on Education, Management, Computer and Society. Atlantis Press, 2016
+
+</details>
 
 
 <details markdown="block">
 <summary>(2012) A New Open Source 3D-Printable Mobile Robotic Platform for Education </summary>  
-* Gonzalez-Gomez, J., Valero-Gomez, A., Prieto-Moreno, A., Abderrahim, M. (2012). ["A New Open Source 3D-Printable Mobile Robotic Platform for Education"](https://link.springer.com/chapter/10.1007/978-3-642-27482-4_8). In: Rückert, U., Joaquin, S., Felix, W. (eds) Advances in Autonomous Mini Robots. Springer, Berlin, Heidelberg. doi: 10.1007/978-3-642-27482-4_8 (**Artículo con 110 citas según Google Scholar**)
+* Gonzalez-Gomez, J., Valero-Gomez, A., Prieto-Moreno, A., Abderrahim, M. (2012). ["A New Open Source 3D-Printable Mobile Robotic Platform for Education"](https://link.springer.com/chapter/10.1007/978-3-642-27482-4_8). In: Rückert, U., Joaquin, S., Felix, W. (eds) Advances in Autonomous Mini Robots. Springer, Berlin, Heidelberg. doi: 10.1007/978-3-642-27482-4_8 
 * [Citas según google scholar: 110](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=14212620813713328439)
     * Publicaciones destacadas que citan el artículo
       * Additive Manufacturing (2019)
