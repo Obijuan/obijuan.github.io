@@ -32,6 +32,45 @@ layout: default
 
 # Publicaciones internacionales
 
+
+## Revistas
+
+<details markdown="block">
+<summary>(2013) A new paradigm for open robotics research and education with the C++ OOML </summary>
+* Valero-Gómez, A., González-Gómez, J. & Treviño, R. ["A new paradigm for open robotics research and education with the C++ OOML"](https://doi.org/10.1007/s10514-013-9324-5). Autonomous Robots 34, 233–249 (2013).  DOI: 10.1007/s10514-013-9324-5 
+  * Abreviatura JCR: AUTON ROBOT
+  * ISSN: 0929-5593
+  * JIF (2013): 1.75
+  * JIF Ranking: 8/21. Categoría: Robotics
+  * Q2 / T2
+</details>
+
+<details markdown="block">
+<summary>(2009) Design and Realization of a Novel Modular Climbing Caterpillar Using Low-Frequency Vibrating Passive Suckers</summary>
+
+* Zhang, H., Wang, W., González-Gómez, J., & Zhang, J. (2009). ["Design and Realization of a Novel Modular Climbing Caterpillar Using Low-Frequency Vibrating Passive Suckers"](https://doi.org/10.1163/156855309X442990). Advanced Robotics, 23(7–8), 889–906. doi: 10.1163/156855309X442990
+
+  * JCR Abreviation: ADV ROBOTICS
+  * JIF (2009): 0.629
+  * ISSN: 0169-1864
+  * JIF Ranking: 14/16 (Categoría Robotics)
+  * Q4 / T3
+  * Numero de citas: 34
+</details>
+
+<details markdown="block">
+<summary>(2009) Validity Of New Chronopic V.3 Open Hardware To Measure Time On Jump Related Tests: 1583</summary>
+
+* De Blas Foix, Xavier & Gonzalez-Gomez, Juan & Gómez, Ricardo. (2009). [Validity Of New Chronopic V.3 Open Hardware To Measure Time On Jump Related Tests: 1583](http://dx.doi.org/10.1249/01.MSS.0000354748.26079.1a). Medicine and Science in Sports and Exercise - MED SCI SPORT EXERCISE. 41. Doi, 10.1249/01.MSS.0000354748.26079.1a. 
+  * JCR Abreviation: MED SCI SPORT EXER
+  * JIF (2009): 3.707
+  * ISSN: 0195-9131
+  * JIF Ranking: 2/73 (Sport sciences)
+  * Q1
+  * Número de citas: 6
+</details>
+
+## Pendientes de procesar
 <details markdown="block">
 <summary>(2017) A screw-less solution for snake-like robot assembly and sensor integration </summary>
 * Guoyuan Li; Peter Verdru; Wei Li; Houxiang Zhang; Juan González-Gómez, ["A screw-less solution for snake-like robot assembly and sensor integration,"](https://ieeexplore.ieee.org/abstract/document/8316565) 2017 International Conference on Advanced Mechatronic Systems (ICAMechS), Xiamen, China, 2017, pp. 139-144, DOI: 10.1109/ICAMechS.2017.8316565
@@ -43,11 +82,6 @@ layout: default
 * G. Li, R. Urbina, H. Zhang and J. G. Gomez, ["Concept design and simulation of a water proofing modular robot for amphibious locomotion,"](https://ieeexplore.ieee.org/document/8316566) 2017 International Conference on Advanced Mechatronic Systems (ICAMechS), Xiamen, China, 2017, pp. 145-150, doi: 10.1109/ICAMechS.2017.8316566
 </details>
 
-
-<details markdown="block">
-<summary>(2013) A new paradigm for open robotics research and education with the C++ OOML </summary>
-* Valero-Gómez, A., González-Gómez, J. & Treviño, R. ["A new paradigm for open robotics research and education with the C++ OOML"](https://doi.org/10.1007/s10514-013-9324-5). Autonomous Robots 34, 233–249 (2013).  DOI: 10.1007/s10514-013-9324-5 
-</details>
 
 
 <details markdown="block">
@@ -267,12 +301,6 @@ layout: default
       * IEEE International Conference on Mechatronics (ICM, 2013)
 </details>
 
-<details markdown="block">
-<summary>(2009) Validity Of New Chronopic V.3 Open Hardware To Measure Time On Jump Related Tests: 1583</summary>
-
-* De Blas Foix, Xavier & Gonzalez-Gomez, Juan & Gómez, Ricardo. (2009). [Validity Of New Chronopic V.3 Open Hardware To Measure Time On Jump Related Tests: 1583](http://dx.doi.org/10.1249/01.MSS.0000354748.26079.1a). Medicine and Science in Sports and Exercise - MED SCI SPORT EXERCISE. 41. Doi, 10.1249/01.MSS.0000354748.26079.1a. 
-</details>
-
 
 <details markdown="block">
 <summary>(2009) A new application of modular robots on analysis of caterpillar-like locomotion</summary>
@@ -299,11 +327,7 @@ layout: default
 </details>
 
 
-<details markdown="block">
-<summary>(2009) Development of a low-cost flexible modular robot GZ-I</summary>
 
-* Zhang, H., Wang, W., González-Gómez, J., & Zhang, J. (2009). ["Design and Realization of a Novel Modular Climbing Caterpillar Using Low-Frequency Vibrating Passive Suckers"](https://doi.org/10.1163/156855309X442990). Advanced Robotics, 23(7–8), 889–906. doi: 10.1163/156855309X442990
-</details>
 
 
 <details markdown="block">
