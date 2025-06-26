@@ -70,136 +70,85 @@ layout: default
   * Número de citas: 6
 </details>
 
-## Pendientes de procesar
+## Capítulos de libro
+
+<details markdown="block">
+<summary>(2012) A New Open Source 3D-Printable Mobile Robotic Platform for Education </summary>  
+* Gonzalez-Gomez, J., Valero-Gomez, A., Prieto-Moreno, A., Abderrahim, M. (2012). ["A New Open Source 3D-Printable Mobile Robotic Platform for Education"](https://link.springer.com/chapter/10.1007/978-3-642-27482-4_8). In: Rückert, U., Joaquin, S., Felix, W. (eds) Advances in Autonomous Mini Robots. Springer, Berlin, Heidelberg. doi: 10.1007/978-3-642-27482-4_8 
+  * [Citas según google scholar: 110](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=14212620813713328439)
+  * FWCI: 49.37
+  * Citation percentile (by year/subfield): 99.46
+  * Print ISBN: 978-3-642-27481-7
+  * Online ISBN: 978-3-642-27482-4
+</details>
+
+<details markdown="block">
+<summary>(2011) A Distributed Neural Controller for Locomotion in Linear Modular Robotic Configurations </summary>  
+
+* A Ranganath, J Gonzalez-Gomez, LM Lorente (2011), ["A Distributed Neural Controller for Locomotion in Linear Modular Robotic Configurations"](https://www.avinashranganath.com/files/DistributedNeuralControllerForLocomotionInLinearModularRoboticConfigurations.pdf), Book chapter (VII), ISBN: 978-84-7484-238-8. Centro de automática y Robótica CSIC-UPM, pp. 129-144.
+* ISBN: 978-84-7484-238-8
+</details>
+
+<details markdown="block">
+<summary>(2010) A Bio-Inspired Small-Sized Wall-Climbing Caterpillar Robot </summary>
+
+* H. Zhang, W. Wang, J. Gonzalez-Gomez, and J. Zhang, ‘A Bio-Inspired Small-Sized Wall-Climbing Caterpillar Robot’, Mechatronic Systems Applications. InTech, Mar. 01, 2010. doi: 10.5772/8918
+  * [Citas según google scholar: 11](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=9336606143984759468)
+  * FWCI: 1.95
+  * Citation percentile (by year/subfield): 86.96
+</details>
+
+
+
+## Congresos
+
 <details markdown="block">
 <summary>(2017) A screw-less solution for snake-like robot assembly and sensor integration </summary>
 * Guoyuan Li; Peter Verdru; Wei Li; Houxiang Zhang; Juan González-Gómez, ["A screw-less solution for snake-like robot assembly and sensor integration,"](https://ieeexplore.ieee.org/abstract/document/8316565) 2017 International Conference on Advanced Mechatronic Systems (ICAMechS), Xiamen, China, 2017, pp. 139-144, DOI: 10.1109/ICAMechS.2017.8316565
+  * URL del los proceedings: https://ieeexplore.ieee.org/xpl/conhome/8308013/proceeding
+  * Este congreso NO está indexado en CORE
 </details>
-
 
 <details markdown="block">
 <summary>(2017) Concept design and simulation of a water proofing modular robot for amphibious locomotion </summary>
 * G. Li, R. Urbina, H. Zhang and J. G. Gomez, ["Concept design and simulation of a water proofing modular robot for amphibious locomotion,"](https://ieeexplore.ieee.org/document/8316566) 2017 International Conference on Advanced Mechatronic Systems (ICAMechS), Xiamen, China, 2017, pp. 145-150, doi: 10.1109/ICAMechS.2017.8316566
+  * URL del los proceedings: https://ieeexplore.ieee.org/xpl/conhome/8308013/proceeding
+  * Este congreso NO está indexado en CORE
 </details>
-
-
 
 <details markdown="block">
 <summary>(2012) Morphology Dependent Distributed Controller for Locomotion in Modular Robots </summary>  
 * Ranganath, A., González-Gómez, J., Moreno Lorente, L. ["Morphology Dependent Distributed Controller for Locomotion in Modular Robots
 "](https://biecoll.ub.uni-bielefeld.de/index.php/robotdoc/issue/view/38). Proceedings of the Post-Graduate Conference on Robotics and Development of Cognition, 10-12 September 2012 Lausanne, Switzerland 
+  * Este congreso NO está indexado en CORE
 </details>
 
 <details markdown="block">
 <summary>(2012) Printable creativity in plastic valley UC3M </summary>  
 * A. Valero-Gómez, J. González-Gómez, V. González-Pacheco and M. A. Salichs, ["Printable creativity in plastic valley UC3M,"](https://ieeexplore.ieee.org/abstract/document/6201151) Proceedings of the 2012 IEEE Global Engineering Education Conference (EDUCON), Marrakech, Morocco, 2012, pp. 1-9, doi: 10.1109/EDUCON.2012.6201151
 * [Citas según google scholar: 18](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=11054451899512555043)
-    * Publicaciones destacadas que citan el artículo
-      * Additive Manufacturing, 2019
-      * Virtual and Physical Prototyping, 2013
-      * Annals of biomedical engineering, 2013
-      * Journal of Intelligent & Robotic Systems, 2016
-      * Recent Trends in Mechatronics Towards Industry 4.0, 2020
-      * Journal of Electronic Packaging, 2015
-      * Additive manufacturing technologies from an optimization perspective (2019)
-      * Design Education (2024)
-      * INTED2018 Proceedings (2018)
+  * Este congreso NO está indexado en CORE
 </details>
 
 <details markdown="block">
 <summary>(2012) Boosting mechanical design with the C++ OOML and open source 3D printers </summary>  
 * A. Valero-Gómez, J. González-Gómez, M. Almagro and M. A. Salichs, ["Boosting mechanical design with the C++ OOML and open source 3D printers,"](https://ieeexplore.ieee.org/abstract/document/6201114) Proceedings of the 2012 IEEE Global Engineering Education Conference (EDUCON), Marrakech, Morocco, 2012, pp. 1-7, doi: 10.1109/EDUCON.2012.6201114
 * [Citas según google scholar: 12](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=7182809676631199301)
-    * Publicaciones destacadas que citan el artículo
-      * Journal of Manufacturing and Materials Processing, 2017
-      * Designs, 2017
-      * Applied Sciences, 2019
-      * International Design Engineering Technical Conferences and Computers and Information in Engineering Conference. American Society of Mechanical Engineers, 2013
-      * Proceedings of the 33rd Chinese Control Conference (2014)
-      * Food and Machinery, 2015
-      * Computer Applications in Electrical Engineering, 2014
-      * 
+* Este congreso NO está indexado en CORE
 </details>
-
 
 <details markdown="block">
 <summary>(2012) Low cost educational platform for robotics, using open-source 3D printers and open-source hardware </summary>  
 * C. García-Saura, J. González-Gómez (2012), ["LOW COST EDUCATIONAL PLATFORM FOR ROBOTICS, USING OPEN-SOURCE 3D PRINTERS AND OPEN-SOURCE HARDWARE"](https://library.iated.org/view/GARCIASAURA2012LOW), ICERI2012 Proceedings, pp. 2699-2706
 * [Citas según google scholar: 22](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=5647909449214468596)
-    * Publicaciones destacadas que citan el artículo
-      * Education Sciences (2023)
-      * International Journal of Computer Applications (2019)
-      * Social Robotics: 5th International Conference, ICSR (2013)
-      * IFAC Proceedings Volumes (2013)
-      * Computers in Human Behavior (2018)
-      * IEEE Frontiers in Education Conference (FIE, 2014) 
-      * Robotics in Education: RiE 2021 
-      * International Conference on Robotics in Education (RiE. 2023)
-      * International Conference on Education, Management, Computer and Society. Atlantis Press, 2016.
-      * Robotics in Education: RiE 2021
-      * Smart Learning with Educational Robotics: Using Robots to Scaffold Learning Outcomes, 2019
-      * International Conference on Education, Management, Computer and Society. Atlantis Press, 2016
-
+* Este congreso NO está indexado en CORE
 </details>
-
-
-<details markdown="block">
-<summary>(2012) A New Open Source 3D-Printable Mobile Robotic Platform for Education </summary>  
-* Gonzalez-Gomez, J., Valero-Gomez, A., Prieto-Moreno, A., Abderrahim, M. (2012). ["A New Open Source 3D-Printable Mobile Robotic Platform for Education"](https://link.springer.com/chapter/10.1007/978-3-642-27482-4_8). In: Rückert, U., Joaquin, S., Felix, W. (eds) Advances in Autonomous Mini Robots. Springer, Berlin, Heidelberg. doi: 10.1007/978-3-642-27482-4_8 
-* [Citas según google scholar: 110](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=14212620813713328439)
-    * Publicaciones destacadas que citan el artículo
-      * Additive Manufacturing (2019)
-      * nature biotechnology  (2014)
-      * Journal of Membrane Science (2017)
-      * Mechatronics (2013)
-      * IEEE International Workshop on Advanced Robotics and its Social Impacts (2015, ARSO)
-      * Education Sciences (2023)  
-      * Virtual and Physical Prototyping (2013)
-      * Veterinary Radiology & Ultrasound (214)
-      * The International Journal of Advanced Manufacturing Technology (2015)
-      * Progress in Additive Manufacturing (2017, 2018)
-      * Technologies (2017)
-      * Eurasia Journal of Mathematics, Science and Technology Education (2018)
-      * Journal of Manufacturing and Materials Processing (2017)
-      * Electronics (2018)
-      * Journal of Frugal Innovation (2015)
-      * HardwareX (2x2017)
-      * 360 of Engineering Education, (2014)
-      * International Journal of Technology and Design Education (2016)
-      * Journal of Intelligent & Robotic Systems (2x2015)
-      * Revista Iberoamericana de Educación a Distancia ()
-      * IEEE Robotics & Automation Magazine (2023)
-      * Designs (2020)
-      * Computers in Human Behavior (2018)
-      * ASEE Annual Conference & Exposition (2015)
-      * Machines (2024)
-      * Life Science Journal (2013)
-      * Journal of Sensors (2015)
-      * Springer Handbook of Additive Manufacturing (2023)
-      * Radiation Measurements (2019)
-      * Industrial Robot (2015)
-      * Advances in Autonomous Robotics Systems (2014)
-      * Recent Trends in Mechatronics Towards Industry 4.0 (2021)
-      * IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications (MESA, 2016)
-      * Journal of Electronic Packaging (2015)
-      * Inclusive Robotics for a Better Society (2019)
-      * Journal of Innovative Trends in Engineering (2018)
-      * International Journal of Materials and Product Technology (2016)
-      * Mechatronics (2018)
-      * IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM, 2020)
-      * IECON 2015 - 41st Annual Conference of the IEEE Industrial Electronics Society,
-      * Living Machines 2014
-      * Advances In Additive Manufacturing Conference (2023)
-      * In 2014 IEEE aerospace conference 
-      * In 2015 ASEE Annual Conference & Exposition 
-      * International Journal of Innovation and Learning (2020)
-      * International Journal of Technology, Policy and Management (2015)
-</details>
-
 
 <details markdown="block">
 <summary>(2011) A new finger inverse kinematics method for an anthropomorphic hand </summary>  
 * C. Bensalah, M. Abderrahim and J. G. Gomez, ["A new finger inverse kinematics method for an anthropomorphic hand,"](https://ieeexplore.ieee.org/abstract/document/6181470) 2011 IEEE International Conference on Robotics and Biomimetics, Karon Beach, Thailand, 2011, pp. 1314-1319, doi: 10.1109/ROBIO.2011.6181470
+* Indexado en CORE
+* Rank: B
 </details>
 
 
@@ -208,81 +157,23 @@ layout: default
 
 * J. Gonzalez-Gomez, J. G. Victores, A. Valero-Gomez and M. Abderrahim, ["Motion control of differential wheeled robots with joint limit constraints,"](https://ieeexplore.ieee.org/abstract/document/6181351) 2011 IEEE International Conference on Robotics and Biomimetics, Karon Beach, Thailand, 2011, pp. 596-601, doi: 10.1109/ROBIO.2011.6181351.
   * [Citas según google scholar: 11](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=9425027559490395448)
-    * Publicaciones destacadas que citan el artículo
-      * International Journal of Automation and Computing (2021)
-      * International Journal of Engineering (2014)
-      * International Journal of Scientific and Research Publication (2013)
-      * International Conference on Robotics: Current Trends and Future Challenges (2016)
-      * International Journal of Mechanical Engineering and Robotic Research (2014)
-      * International Conference on Control, Automation and Information Sciences (2016, ICCAIS)
-      * Robotica (2015)
-      * Global Journal of Engineering Science and Research Management (2014)
-      * 13th International Conference on Control, Automation and Systems (ICCAS 2013)
+* Indexado en CORE
+* Rank: B
 </details>
 
 <details markdown="block">
 <summary>(2011) Central pattern generator control of a differential wheeled robot </summary>  
 
 * I. Urziceanu, F. Herrero-Carrón, J. González-Gómez, M. Niţulescu, F. de Borja Rodríguez and P. Varona, ["Central pattern generator control of a differential wheeled robot,"](https://ieeexplore.ieee.org/abstract/document/6085747) 15th International Conference on System Theory, Control and Computing, Sinaia, Romania, 2011, pp. 1-6.
+* Este congreso NO está indexado en CORE
 </details>
-
-
-<details markdown="block">
-<summary>(2011) A Distributed Neural Controller for Locomotion in Linear Modular Robotic Configurations </summary>  
-
-* A Ranganath, J Gonzalez-Gomez, LM Lorente (2011), ["A Distributed Neural Controller for Locomotion in Linear Modular Robotic Configurations"](https://www.avinashranganath.com/files/DistributedNeuralControllerForLocomotionInLinearModularRoboticConfigurations.pdf), Book chapter (VII), ISBN: 978-84-7484-238-8. Centro de automática y Robótica CSIC-UPM, pp. 129-144.
-</details>
-
-
-<details markdown="block">
-<summary>(2011) Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot </summary>  
-
-* Urziceanu Ionut, Pablo Varona, Francisco de Borja Rodriguez, Juan Gonzalez-Gomez, Fernando Hererro Carron, Mircea Nitulescu (2011), ["Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot"](https://ace.ucv.ro/analele/2011_vol2/14_Urziceanu_Ionut.pdf). Annals of the University of Craiova, International journal. Series: Automation, Computers, Electronics and Mechatronics, 2011, Vol 8(36), no. 2, pp. 82-92.  ISSN: 18410626  
-</details>
-
-<details markdown="block">
-<summary>(2010) A Bio-Inspired Small-Sized Wall-Climbing Caterpillar Robot </summary>
-
-* H. Zhang, W. Wang, J. Gonzalez-Gomez, and J. Zhang, ‘A Bio-Inspired Small-Sized Wall-Climbing Caterpillar Robot’, Mechatronic Systems Applications. InTech, Mar. 01, 2010. doi: 10.5772/8918
-  * [Citas según google scholar: 11](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=9336606143984759468)
-    * Publicaciones destacadas que citan el artículo
-      * Drones 2025
-      * Robotics and Autonomous Systems (2020)
-      * 11th IEEE International Conference on Control & Automation (ICCA, 2014)
-      * 2016 IEEE 55th Conference on Decision and Control (2016, CDC)
-      * 2012 IEEE International Conference on Robotics and Biomimetics (ROBIO, 2012)
-</details>
-
 
 <details markdown="block">
 <summary>(2010) Toward the sense of touch in snake modular robots for search and rescue operations </summary>
 
 * Juan Gonzalez-Gomez, Javier Gonzalez-quijano, Houxiang Zhang, Mohamed Abderrahim, "Toward the sense of touch in snake modular robots for search and rescue operations". In Proc of the ICRA 2010 workshop on modular robots: State of the art. pp. 63-68, May-3rd, Anchorage, Alaska
   * [Citas según google scholar: 36](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=2817297044232205007)
-    * Publicaciones destacadas que citan el artículo
-      * Robotics and Autonomous Systems (2012)
-      * Applied science (2017)
-      * Advances in Industrial Control (AIC, 2013)
-      * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS, 2014)
-      * Journal of Intelligent & Robotic Systems (2016)
-      * IEEE Access (2018)
-      * 2022 International Conference on Robotics and Automation (ICRA, 2022)
-      * Robotics 2024
-      * 14th International Conference on Control, Automation, Robotics and Vision (ICARCV) (2016)
-      * IEEE 4th International Conference on Soft Robotics (RoboSoft, 2021),
-      * AIP Conference Procedings (2024)
-      * IFAC-PapersOnLine (2022)
-      * Hybrid Artificial Intelligence Systems. HAIS 2014. Lecture Notes in Computer Science (2014)
-      * arXiv:2309.08865 [cs.RO] (2023)
-      * Moratuwa Engineering Research Conference (MERCon) (2016)
-      * Mechatronics (2011)
-      * Neurocomputing (2018)
-      * Advanced Robotics (2012)
-      * Networking and Internet Architecture [cs.NI] (2018)
-      * IEEE Smart World Congress (SWC) (2023)
-      * ACTA TECHNICA NAPOCENSIS - Series: APPLIED MATHEMATICS, MECHANICS, and ENGINEERING (2023)
-      * International Research Journal of Engineering and Technology (IRJET) (2019)
-      * 2019 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications (2019)
+  * No indexado en CORE
 </details>
 
 <details markdown="block">
@@ -290,17 +181,19 @@ layout: default
 
 * G. Salvietti, H. X. Zhang, J. Gonzalez-Gómez, D. Prattichizzo and J. W. Zhang, ["Task priority grasping and locomotion control of modular robot,"](https://ieeexplore.ieee.org/abstract/document/5420861) 2009 IEEE International Conference on Robotics and Biomimetics (ROBIO), Guilin, China, 2009, pp. 1069-1074, doi: 10.1109/ROBIO.2009.5420861.
   * [Citas según google scholar: 14](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=6775952751764348090)
-    * Publicaciones destacadas que citan el artículo
-      * Redundant Robots (2021)
-      * Machines 2024
-      * IEEE/ASME Transactions on Mechatronics (2022)
-      * IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) (2018)
-      * 4th IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob, 2012),
-      * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS, 2015, 2016),
-      * Journal of Robotics and Mechatronics (2015)
-      * IEEE International Conference on Mechatronics (ICM, 2013)
+  * Indexado en CORE
+  * Rank: B
 </details>
 
+## Pendientes de procesar
+
+<details markdown="block">
+<summary>(2011) Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot </summary>  
+
+* Urziceanu Ionut, Pablo Varona, Francisco de Borja Rodriguez, Juan Gonzalez-Gomez, Fernando Hererro Carron, Mircea Nitulescu (2011), ["Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot"](https://ace.ucv.ro/analele/2011_vol2/14_Urziceanu_Ionut.pdf). Annals of the University of Craiova, International journal. Series: Automation, Computers, Electronics and Mechatronics, 2011, Vol 8(36), no. 2, pp. 82-92.  ISSN: 18410626  
+* https://ace.ucv.ro/anale/
+* No indexada en JCR
+</details>
 
 <details markdown="block">
 <summary>(2009) A new application of modular robots on analysis of caterpillar-like locomotion</summary>
