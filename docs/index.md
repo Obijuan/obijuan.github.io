@@ -77,8 +77,8 @@ layout: home
 * [Diseño Digital para FPGAs, con herramientas libres]. Aprende a diseñar circuitos digitales con **Verilog** en FPGAs Libres
 * [Tutoriales de FreeCad]. Aprende a diseñar en 3D para impresoras 3D
 * [Videoblog]. VideoBlog: Píldoras de conocimiento  
-* [CTIF-2018-FPGAs]: Curso de DISEÑO DE SISTEMAS DIGITALES EN VERILOG USANDO FPGAS LIBRES. Centro: CTIF Madrid-capital, 2018 
-* [CTIF-2018-FREECAD]: Curso de FreeCAD del CTIF Madrid-capital, 2018 
+* [CTIF-2018-FPGAs]. Curso de DISEÑO DE SISTEMAS DIGITALES EN VERILOG USANDO FPGAS LIBRES. Centro: CTIF Madrid-capital, 2018 
+* [CTIF-2018-FREECAD]. Curso de FreeCAD del CTIF Madrid-capital, 2018 
 
 ## Cuadernos técnicos
 
