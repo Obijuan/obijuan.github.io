@@ -55,6 +55,13 @@ layout: home
 * [Z80 FPGA]. Implementación del procesador Z80 en Icestudio
 * [RISC-V-FPGA]. Procesador RISC-V para FPGAs Libres, en Icestudio 
 * [RiscvForth]. Implementación de Forth para procesadores RISCV32
+* [EDSAC-icestudio]. Implementación del computador EDSAC en Icestudio 
+* [Icebot]. Robot imprimible minimalista, para la placa con FPGA Icezum Alhambra
+* [SAP-1-FPGA]. Implementación del procesador SAP-1 (Simple as Possible) en Icestudio
+* [Obiscad]. Herramientas para OpenScad
+* [iceFactory]. Biblioteca Javascript para generar bloques para Icestudio 
+* [ACC]. ACC (Apollo CPU Core) en Verilog, para FPGAs libres
+* [ArduSnake]. Biblioteca de robots modulares para Arduino
 
 ## Cursos
 
@@ -70,6 +77,8 @@ layout: home
 * [Diseño Digital para FPGAs, con herramientas libres]. Aprende a diseñar circuitos digitales con **Verilog** en FPGAs Libres
 * [Tutoriales de FreeCad]. Aprende a diseñar en 3D para impresoras 3D
 * [Videoblog]. VideoBlog: Píldoras de conocimiento  
+* [CTIF-2018-FPGAs]: Curso de DISEÑO DE SISTEMAS DIGITALES EN VERILOG USANDO FPGAS LIBRES. Centro: CTIF Madrid-capital, 2018 
+* [CTIF-2018-FREECAD]: Curso de FreeCAD del CTIF Madrid-capital, 2018 
 
 ## Cuadernos técnicos
 
@@ -79,6 +88,8 @@ layout: home
 * [Learn-Python]. Sesiones sobre programación en python con VSCode 
 * [FreeCAD Mechanical]. Láminas del libre AutoCAD Mechanical migradas a FreeCAD
 * [FPGA-keyboard]. Documentación sobre teclados de PC. Control desde una FPGA Libre
+* [Rusell]. Cimientos de los circuitos digitales en FPGAs libres
+* [FPGA-PS2]. Controlador de teclados PS2 para FPGAs
 
 ## Colecciones para Icestudio
 
@@ -113,15 +124,17 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 | [Learn-RISCV-ESP32] | Aprendizaje sobre las herramientas para programar la la placa ESP32-C3-DevKitM-1 |  
 | [Learn-RISCV-nanoCH32V203] | Aprendizaje sobre las herramientas para programar el procesador RISCV-nanoCH32V203 |  
 | [Learn-Icestudio-dev] | Pruebas para aprender sobre todas las bibliotecas js usadas en el desarrollo de Icestudio | 
-| [Rust-learn] | Aprendizaje del lenguaje Rust |
+| [Learn-Rust] | Aprendizaje del lenguaje Rust |
 | [DEZ80] | Retos del curso de código máquina del Z80 de Fran Gallego |  
 | [Github-action-tests] | Repositorio para trabajar/aprender sobre las github actions | 
 
 
 ## Cajón de sastre
 
-* [Mis presentaciones](https://github.com/Obijuan/myslides/wiki)  
+* [Mis diseños 3D](https://github.com/Obijuan/3D-parts/wiki)
+* [Diseños de Obijuan](https://github.com/Obijuan/obijuan-designs). Exportados de Thingiverse
 * [Mis diseños 2D](https://github.com/Obijuan/my2Ddesigns/wiki)  
+* [Mis presentaciones](https://github.com/Obijuan/myslides/wiki)  
 
 
 ## Enlaces
@@ -154,7 +167,7 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 [Learn-RISCV-ESP32]: https://github.com/Obijuan/Learn-RISCV-ESP32-C3/wiki
 [Learn-RISCV-nanoCH32V203]: https://github.com/Obijuan/Learn-RISCV-nanoCH32V203/wiki
 [Learn-Icestudio-dev]: https://github.com/Obijuan/Learn-icestudio-dev  
-[Rust-learn]: https://github.com/Obijuan/Rust-learn/wiki
+[Learn-Rust]: https://github.com/Obijuan/Learn-Rust
 [DEZ80]: https://github.com/Obijuan/DEZ80/wiki
 [Github-action-tests]: https://github.com/Obijuan/github-action-tests  
 
@@ -164,12 +177,16 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 [Cuadernos técnicos sobre FPGAs Libres]: https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki  
 [FreeCAD Mechanical]: https://github.com/Obijuan/Freecad-Mechanical/wiki
 [FPGA-keyboard]: https://github.com/Obijuan/FPGA-keyboard
+[Rusell]: https://github.com/Obijuan/Russell/wiki  
+[FPGA-PS2]: https://github.com/Obijuan/PS2-KeyBoard-FPGA/wiki
 
 <!-- Tutoriales -->
 [Electrónica Digital para makers con FPGAs Libres]: https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki  
 [Diseño Digital para FPGAs, con herramientas libres]: https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki
 [Tutoriales de FreeCad]: https://github.com/Obijuan/tutoriales-freecad  
 [Videoblog]: https://github.com/Obijuan/videoblog/wiki  
+[CTIF-2018-FPGAs]: https://github.com/Obijuan/CTIF-Madrid-2018-FPGAs-Libres/wiki
+[CTIF-2018-FREECAD]: https://github.com/Obijuan/CTIF-Madrid-2018-FreeCAD/wiki
 
 <!-- Proyectos -->
 [Simplez FPGA]: https://github.com/Obijuan/simplez-fpga/wiki
@@ -177,6 +194,14 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 [Z80 FPGA]: https://github.com/Obijuan/Z80-FPGA
 [RISC-V-FPGA]: https://github.com/Obijuan/RISC-V-FPGA
 [RiscvForth]: https://github.com/Obijuan/RiscvForth
+[EDSAC-icestudio]: https://github.com/Obijuan/EDSAC-icestudio
+[Icebot]: https://github.com/Obijuan/icebot/wiki
+[SAP-1-FPGA]: https://github.com/Obijuan/SAP-1-FPGA/wiki  
+[Obiscad]: https://github.com/Obijuan/obiscad
+[iceFactory]: https://github.com/Obijuan/iceFactory  
+[ACC]: https://github.com/Obijuan/ACC/wiki
+[ArduSnake]: https://github.com/Obijuan/ArduSnake
+
 
 
 
