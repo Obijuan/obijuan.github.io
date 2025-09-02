@@ -1,0 +1,85 @@
+---
+title: Experiencia laboral
+layout: default
+---
+
+<!-- BOTON PARA CAMBIAR EL TEMA CLARO/OSCURO -->
+<button class="btn js-toggle-light-mode">Tema claro</button>
+
+<script>
+  const toggleDarkMode = document.querySelector('.js-toggle-light-mode');
+  jtd.setTheme('dark');
+
+  jtd.addEvent(toggleDarkMode, 'click', function(){
+    if (jtd.getTheme() === 'dark') {
+      jtd.setTheme('light');
+      toggleDarkMode.textContent = 'Tema oscuro';
+    } else {
+      jtd.setTheme('dark');
+      toggleDarkMode.textContent = 'Tema claro';
+    }
+  });
+</script>
+
+# Experiencia Laboral
+
+🚧 TODO 🚧
+
+*  2004-10 to 2009-09 | Profesor Ayudante NO doctor (Ingeniería Informática) 
+
+<details markdown="block">
+<summary>(2003-Sep) (1 año) Profesor asociado. Escuela Politécnica Superior. UAM</summary>
+* Profesor asociado en el Departamento de **Ingeniería Informática** de la **Escuela Politécnica Superior** de la Universidad Autónoma de Madrid. Curso 2003/2004
+* Asignaturas impartidas:
+    * Electrónica Digital
+    * Diseño de circuitos
+    * Robótica
+</details>
+
+<details markdown="block">
+<summary>(2001-Nov) (3 años) Ingeniero de Telecomunicaciones Autónomo</summary>
+* Ejercicio libre de la profesión, como Ingeniero autónomo, haciendo proyectos de electrónica y telecomunicaciones
+</details>
+
+<details markdown="block">
+<summary>(2001-Sep) (2 años) Profesor asociado. Facultad de Informática (UPSAM) </summary>
+* **Profesor asociado** en el **departamento de Electrónica y Comunicaciónes** de la Facultad de **Ingeniería Informática** de la la **Universidad Pontificia de Salamanca en Madrid** (UPSAM)
+* Asignaturas impartidas:
+  * Sistemas Digitales
+  * Fundamentos de Computadoras
+  * Laboratorio de Arquitectura e Ingeniería de Computadores
+</details>
+
+<details markdown="block">
+<summary>(2000-Nov) (1 año) Ingeniero de I+D en la empresa Pulsar Technologies</summary> 
+* Trabajador por cuenta agena en la empresa [Pulsar Technologies](https://pulsartec.es/en/specialists-in-technology-solutions/) en el **departamento de Investigación y Desarrollo**, desarrollando **sistemas empotrados** basados en el microcontrolador 68328 (DragonBall) de Motorola y el sistema operativo **uClinux**, con capacidad para comunicarse vía mensajes cortos SMS de GSM e Internet (web, mail) con un sistema central. Los sistemas diseñados leen información de otros dispositivos conectados a una intranet mediante SNMP y envían la información a un ordenador remoto para ser procesada. 
+</details>
+
+<details markdown="block">
+<summary>(1998-Nov) (2 años) Socio fundador y trabajador en Microbótica S.L</summary>
+* Empresa dedicada a la ingeniería en los campos de **electrónica**, **robótica** y **telecomunicaciones**, con desarrollos propios de hardware y software. 
+* **Proyectos** en los que he trabajado:
+    * **Diseño y fabricación** del **sistema de desarrollo Tower**, basado en las tarjetas [CT6811](http://www.iearobotics.com/proyectos/ct6811/ct6811.html), [CT293](http://www.iearobotics.com/proyectos/ct293/ct293.html) y CT256, comercializadas por Microbótica. Se trata de un sistema entrenador basado en el microcontrolador 6811 de Motorola que permite desarrollar sistemas autónomos (que funcionan independientemente del PC) de una manera muy sencilla. El sistema Tower obtuvo el premio ``Mejor idea aplicada'' en la ETSETB de la UPC y se utilizó en diversas **universidades** y **centros de investigación** públicos y privados como: CASA, INTA, CSIC, Lucent, Alcatel, UPM, UPC, UAM, Universidad Carlos III, UMálaga, UPV, UPAlmería, ULas Palmas, Universidad Antonio Nebrija, Universidad Pontificia de Salamanca
+
+    * **Diseño, fabricación y comercialización** del [microbot Tritt](http://www.iearobotics.com/proyectos/tritt/tritt.html), basado en las tarjetas anteriores. Es un pequeño robot de aprendizaje, muy fácil de construir y programar, que se utilizó en las principales **universidades** Españolas en laboratorios de sistemas digitales, programación en ensamblador y robótica
+
+    * **Diseño y fabricación** de la tarjeta [PCBOT](http://www.iearobotics.com/proyectos/pcbot/pcbot.html), para la empresa Microlog S.L. Sistema digital dotado de 8 entradas digitales, 8 salidas a través de relé y la posibilidad de mover hasta 4 motores. Conectado al PC permite controlar circuitos externos mediante un sencillo intérprete de comandos que los alumnos de FP y universidades utilizan para aprender las bases del control mediante un PC
+
+    * **Desarrollo de un Driver bajo UnixWare** (SCO Unix) para el control de la tarjeta TAC, compatible con la norma MVIP y H100 que permite realizar conmutaciones de canales de voz digitales, multiconferencias y generación/detección de tonos mediante un DSP. Proyecto realizado junto con la UAM y la empresa FEDETEC, subvencionado por la comunidad de Madrid
+
+    * **Sistema de seguridad** para la asociación IEEE[11] (Institute of Electrical and Electronic Engineers) de la ETSI Telecomunicación de la UPM. Consiste en el control de acceso mediante tarjeta-chip y el registro de entradas en una base de datos.
+</details>
+
+<details markdown="block">
+<summary>(1999-Julio) (9 meses) Alférez de Complemento (SEFOCUMA) en el Ejército de Tierra</summary>
+* [SEFOCUMA](https://es.wikipedia.org/wiki/Servicio_para_la_Formaci%C3%B3n_de_Cuadros_de_Mando). Servicio de formación de cuadros de mandos
+* Cuerpo de caballería. Ejército de tierra
+* **Formación militar general** en el [Acuartelamiento Alférez Rojas Navarrete](https://ejercito.defensa.gob.es/unidades/Alicante/cg_moe/Localizacion/como_llegar.html) (CEFIVE-1). Rabasa, Alicante
+* **Formación militar específica**: [Academia de Caballería](https://ejercito.defensa.gob.es/unidades/Valladolid/acab/), en Valladolid
+* **Fase de prácticas como Alférez**: [CIMOV 2](https://ejercito.defensa.gob.es/unidades/Cadiz/cefot2/), en el acuartelamiento de Camposoto, en San Fernando (Cádiz)
+    - Trabajo realizado: Formación de aspirantes a soldados
+        - Formación militar
+        - Instrucción
+        - Armamento
+        - Topografía
+</details>
