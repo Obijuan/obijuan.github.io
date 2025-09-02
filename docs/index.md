@@ -62,6 +62,7 @@ layout: home
 * [iceFactory]. Biblioteca Javascript para generar bloques para Icestudio 
 * [ACC]. ACC (Apollo CPU Core) en Verilog, para FPGAs libres
 * [ArduSnake]. Biblioteca de robots modulares para Arduino
+* [Venus-RISCV-examples]. Ejemplos en ensamblador del RISCV para el simulador VENUS del VSCode
 
 ## Cursos
 
@@ -109,6 +110,7 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 
 | Nombre                  | Descripción |
 |-------------------------|-------------|
+| [Learn-Bresenham]       | Experimentos, documentación y pruebas con el Algoritmo de Bresenham |
 | [Learn-raspberry-pico2] | Experimentos con la Raspberry pico2 y RISC-V |
 | [Learn-simulations] | Exprimentos con el visualizador 3D Fury y el motor físico pybullet |  
 | [Learn-web-wiki]    | Notas y pruebas sobre la web y las wikis  |
@@ -151,6 +153,7 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 [Linkedin]: https://www.linkedin.com/in/juan-gonzalez-g%C3%B3mez-6b69b210/
 
 <!--- LOGs --->
+[Learn-Bresenham]: https://github.com/Obijuan/Learn-bresenham/wiki 
 [Learn-simulations]: https://github.com/Obijuan/Learn-simulations/wiki/Log
 [Learn-web-wiki]: https://github.com/Obijuan/Learn-web-wiki/wiki
 [Learn-Python]: https://github.com/Obijuan/Learn-python/wiki  
@@ -189,6 +192,7 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 [CTIF-2018-FREECAD]: https://github.com/Obijuan/CTIF-Madrid-2018-FreeCAD/wiki
 
 <!-- Proyectos -->
+[Venus-RISCV-examples]: https://github.com/Obijuan/Venus-RISCV-examples
 [Simplez FPGA]: https://github.com/Obijuan/simplez-fpga/wiki
 [Nand2Tetris Icestudio]: https://github.com/Obijuan/nand2tetris-icestudio
 [Z80 FPGA]: https://github.com/Obijuan/Z80-FPGA
