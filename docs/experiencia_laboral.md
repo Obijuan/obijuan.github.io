@@ -25,7 +25,38 @@ layout: default
 
 🚧 TODO 🚧
 
-*  2004-10 to 2009-09 | Profesor Ayudante NO doctor (Ingeniería Informática) 
+ Sigma tecnologies, S.L: Madrid, Madrid, ES
+2012-10 to 2012-12 | Ingeniero I+D 
+
+<details markdown="block">
+<summary>(2012-Mar) (5 meses) Investigador. CAR-UPM</summary>
+* Investigador en el Centro de Automática y Robótica (CAR). Grupo de Robótica y Cibernética. Escuela Politécnica Superior de Industriales. UPM
+</details>
+
+<details markdown="block">
+<summary>(2010-Feb) (2 años) Profesor visitante. Escuela Politécnica Superior. UC3M</summary> 
+* **Profesor visitante** en el departamento de **Ingeniería de sistemas y automática**. Escuela Politécnica Superior de la **Universidad Carlos III de Madrid** (UC3M)
+* Asignaturas impartidas:
+  * Informática Industrial
+  * Robótica
+  * Automatización Industrial
+  * Control y programación de Robots
+</details>
+
+<details markdown="block">
+<summary>(2009-Nov) (4 meses) Investigador. UFV</summary>
+* Investigador en el Centro de innovación experimental del conocimiento (CEIEC) de la Universidad Fracisco Vitoria (UFV)
+</details>
+
+<details markdown="block">
+<summary>(2004-Sep) (5 años) Profesor Ayudante. Escuela Politécnica Superior. UAM</summary>
+* **Profesor ayudante**. Departamento de **Ingeniería Informática** de la **Escuela Politécnica Superior** de la Universidad Autónoma de Madrid. Cursos 2003/2004, 2004/2005, 2005/2006, 2007/2008 y 2008/2009
+* Asignaturas impartidas:
+  * Robótica móvil,
+  * Electrónica digital
+  * Diseño de circuitos 
+  * Arquitectura de computadores 
+</details>
 
 <details markdown="block">
 <summary>(2003-Sep) (1 año) Profesor asociado. Escuela Politécnica Superior. UAM</summary>
