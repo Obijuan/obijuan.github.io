@@ -25,8 +25,22 @@ layout: default
 
 🚧 TODO 🚧
 
- Sigma tecnologies, S.L: Madrid, Madrid, ES
-2012-10 to 2012-12 | Ingeniero I+D 
+
+<details markdown="block">
+<summary>(2013-06) (3 años) Director del departamento de Robótica e innovación. BQ</summary>
+* **Director** del **departamento de robótica e innovación** de [BQ](https://es.wikipedia.org/wiki/BQ_(empresa)).
+* **Desarrollo de impresoras 3D** y **robots educativos** (printbots) imprimibles y libres
+</details>
+
+<details markdown="block">
+<summary>(2012-Dic) (6 meses) Ingeniero de I+D en Deutecno, S.L</summary>
+* **Ingeniero de I+D**. Programación de sistemas de adquisición de datos para aplicaciones industriales (Tarjeta DCON). Sistema de control de la temperatura de hornos industriales
+</details>
+
+<details markdown="block">
+<summary>(2012-Nov) (2 meses) Ingeniero I+D. Sigma Technologies, S.L </summary>
+* **Ingeniero de I+D**. Proyecto RoboDraw/RoboTouch. Diseño de un robot imprimible tipo scara para la automatización de pruebas en tablets
+</details>
 
 <details markdown="block">
 <summary>(2012-Mar) (5 meses) Investigador. CAR-UPM</summary>
@@ -90,15 +104,15 @@ layout: default
 <summary>(1998-Nov) (2 años) Socio fundador y trabajador en Microbótica S.L</summary>
 * Empresa dedicada a la ingeniería en los campos de **electrónica**, **robótica** y **telecomunicaciones**, con desarrollos propios de hardware y software. 
 * **Proyectos** en los que he trabajado:
-    * **Diseño y fabricación** del **sistema de desarrollo Tower**, basado en las tarjetas [CT6811](http://www.iearobotics.com/proyectos/ct6811/ct6811.html), [CT293](http://www.iearobotics.com/proyectos/ct293/ct293.html) y CT256, comercializadas por Microbótica. Se trata de un sistema entrenador basado en el microcontrolador 6811 de Motorola que permite desarrollar sistemas autónomos (que funcionan independientemente del PC) de una manera muy sencilla. El sistema Tower obtuvo el premio ``Mejor idea aplicada'' en la ETSETB de la UPC y se utilizó en diversas **universidades** y **centros de investigación** públicos y privados como: CASA, INTA, CSIC, Lucent, Alcatel, UPM, UPC, UAM, Universidad Carlos III, UMálaga, UPV, UPAlmería, ULas Palmas, Universidad Antonio Nebrija, Universidad Pontificia de Salamanca
+  * **Diseño y fabricación** del **sistema de desarrollo Tower**, basado en las tarjetas [CT6811](http://www.iearobotics.com/proyectos/ct6811/ct6811.html), [CT293](http://www.iearobotics.com/proyectos/ct293/ct293.html) y CT256, comercializadas por Microbótica. Se trata de un sistema entrenador basado en el microcontrolador 6811 de Motorola que permite desarrollar sistemas autónomos (que funcionan independientemente del PC) de una manera muy sencilla. El sistema Tower obtuvo el premio ``Mejor idea aplicada'' en la ETSETB de la UPC y se utilizó en diversas **universidades** y **centros de investigación** públicos y privados como: CASA, INTA, CSIC, Lucent, Alcatel, UPM, UPC, UAM, Universidad Carlos III, UMálaga, UPV, UPAlmería, ULas Palmas, Universidad Antonio Nebrija, Universidad Pontificia de Salamanca
 
-    * **Diseño, fabricación y comercialización** del [microbot Tritt](http://www.iearobotics.com/proyectos/tritt/tritt.html), basado en las tarjetas anteriores. Es un pequeño robot de aprendizaje, muy fácil de construir y programar, que se utilizó en las principales **universidades** Españolas en laboratorios de sistemas digitales, programación en ensamblador y robótica
+  * **Diseño, fabricación y comercialización** del [microbot Tritt](http://www.iearobotics.com/proyectos/tritt/tritt.html), basado en las tarjetas anteriores. Es un pequeño robot de aprendizaje, muy fácil de construir y programar, que se utilizó en las principales **universidades** Españolas en laboratorios de sistemas digitales, programación en ensamblador y robótica
 
-    * **Diseño y fabricación** de la tarjeta [PCBOT](http://www.iearobotics.com/proyectos/pcbot/pcbot.html), para la empresa Microlog S.L. Sistema digital dotado de 8 entradas digitales, 8 salidas a través de relé y la posibilidad de mover hasta 4 motores. Conectado al PC permite controlar circuitos externos mediante un sencillo intérprete de comandos que los alumnos de FP y universidades utilizan para aprender las bases del control mediante un PC
+  * **Diseño y fabricación** de la tarjeta [PCBOT](http://www.iearobotics.com/proyectos/pcbot/pcbot.html), para la empresa Microlog S.L. Sistema digital dotado de 8 entradas digitales, 8 salidas a través de relé y la posibilidad de mover hasta 4 motores. Conectado al PC permite controlar circuitos externos mediante un sencillo intérprete de comandos que los alumnos de FP y universidades utilizan para aprender las bases del control mediante un PC
 
-    * **Desarrollo de un Driver bajo UnixWare** (SCO Unix) para el control de la tarjeta TAC, compatible con la norma MVIP y H100 que permite realizar conmutaciones de canales de voz digitales, multiconferencias y generación/detección de tonos mediante un DSP. Proyecto realizado junto con la UAM y la empresa FEDETEC, subvencionado por la comunidad de Madrid
+  * **Desarrollo de un Driver bajo UnixWare** (SCO Unix) para el control de la tarjeta TAC, compatible con la norma MVIP y H100 que permite realizar conmutaciones de canales de voz digitales, multiconferencias y generación/detección de tonos mediante un DSP. Proyecto realizado junto con la UAM y la empresa FEDETEC, subvencionado por la comunidad de Madrid
 
-    * **Sistema de seguridad** para la asociación IEEE[11] (Institute of Electrical and Electronic Engineers) de la ETSI Telecomunicación de la UPM. Consiste en el control de acceso mediante tarjeta-chip y el registro de entradas en una base de datos.
+  * **Sistema de seguridad** para la asociación IEEE[11] (Institute of Electrical and Electronic Engineers) de la ETSI Telecomunicación de la UPM. Consiste en el control de acceso mediante tarjeta-chip y el registro de entradas en una base de datos.
 </details>
 
 <details markdown="block">
