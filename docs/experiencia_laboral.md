@@ -21,35 +21,76 @@ layout: default
   });
 </script>
 
+# Trabajo actual
+
+
+**(2025-Sep)**: **Investigador Postdoctoral** en el [departamento de Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación](https://servicios.urjc.es/pdi/departamento/Y158
+) de la Universidad Rey Juan Carlos (URJC)
+  * [Escuela de Ingeniería de Fuenlabrada](https://www.urjc.es/universidad/facultades/escuela-de-ingenieria-de-fuenlabrada) 
+  * Pertenezco al [grupo GSYC](https://gsyc.urjc.es/) 
+  * A **tiempo completo** 
+  * Asignaturas impartidas:
+    * [Arquitectura de computadores](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+    * [Laboratorio de tecnologías audiovisuales en la Web](https://github.com/myTeachingURJC/2024-2025-LTAW/wiki) (LTAW)
+
+
 # Experiencia Laboral
 
-🚧 TODO 🚧
 
+## Mundo académico/investigación
 
 <details markdown="block">
-<summary>(2013-06) (3 años) Director del departamento de Robótica e innovación. BQ</summary>
-* **Director** del **departamento de robótica e innovación** de [BQ](https://es.wikipedia.org/wiki/BQ_(empresa)).
-* **Desarrollo de impresoras 3D** y **robots educativos** (printbots) imprimibles y libres
+<summary>(2024-Sep) (1 año) Profesor Ayudante Doctor (LOSU). Escuela de Ingeniería de Fuenlabrada. URJC</summary>
+* **Profesor Ayudante Doctor (LOSU)** en el [departamento de Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación](https://servicios.urjc.es/pdi/departamento/Y158
+) de la Universidad Rey Juan Carlos (URJC)
+* Escuela de Ingeniería de Fuenlabrada 
+* Pertenezco al grupo GSYC
+* Asignaturas impartidas:
+  * [Arquitectura de computadores](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+  * [Laboratorio de tecnologías audiovisuales en la Web](https://github.com/myTeachingURJC/2024-2025-LTAW/wiki) (LTAW)
+  * [Mecatrónica](https://github.com/myTeachingURJC/Mecatronica/wiki)  
 </details>
 
 <details markdown="block">
-<summary>(2012-Dic) (6 meses) Ingeniero de I+D en Deutecno, S.L</summary>
-* **Ingeniero de I+D**. Programación de sistemas de adquisición de datos para aplicaciones industriales (Tarjeta DCON). Sistema de control de la temperatura de hornos industriales
+<summary>(2022-Sep) (2 años) Profesor visitante. Escuela de Ingeniería de Fuenlabrada. URJC</summary>
+* **Profesor Ayudante Doctor** en el [departamento de Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación](https://servicios.urjc.es/pdi/departamento/Y158
+) de la Universidad Rey Juan Carlos (URJC)
+* Escuela de Ingeniería de Fuenlabrada 
+* Pertenezco al grupo GSYC
+* A **tiempo completo**
+* Asignaturas impartidas:
+  * [Arquitectura de computadores](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+  * [Laboratorio de tecnologías audiovisuales en la Web](https://github.com/myTeachingURJC/2024-2025-LTAW/wiki) (LTAW)
+  * [Mecatrónica](https://github.com/myTeachingURJC/Mecatronica/wiki)  
 </details>
 
 <details markdown="block">
-<summary>(2012-Nov) (2 meses) Ingeniero I+D. Sigma Technologies, S.L </summary>
-* **Ingeniero de I+D**. Proyecto RoboDraw/RoboTouch. Diseño de un robot imprimible tipo scara para la automatización de pruebas en tablets
+<summary>(2017-Sep) (5 años) Profesor ayudante doctor. Escuela de Ingeniería de Fuenlabrada. URJC</summary>
+* **Profesor Ayudante Doctor** en el [departamento de Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación](https://servicios.urjc.es/pdi/departamento/Y158
+) de la Universidad Rey Juan Carlos (URJC)
+* Escuela de Ingeniería de Fuenlabrada 
+* Pertenezco al grupo GSYC
+* A **tiempo completo**
+* Asignaturas impartidas:
+  * [Arquitectura de computadores](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+  * [Arquitectura de Internet](https://github.com/Obijuan/URJC-Gsyc-2018-Arquitectura-Internet/wiki)  
+  * [Construcción de Servicios y Aplicaciones Audiovisuales en Internet](https://github.com/myTeachingURJC/2020-2021-CSAAI/wiki) (CSAAI)
+  * [Laboratorio de tecnologías audiovisuales en la Web](https://github.com/myTeachingURJC/2024-2025-LTAW/wiki) (LTAW)
+  * [Programación en Entornos de Red](https://github.com/Obijuan/URJC-Gsyc-2018-Programacion-en-Entornos-de-Red/wiki)  
+  * [Programming in Network Environments](https://github.com/myTeachingURJC/2019-2020-PNE/wiki)  
+  * [Mecatrónica](https://github.com/myTeachingURJC/Mecatronica/wiki)  
 </details>
 
 <details markdown="block">
 <summary>(2012-Mar) (5 meses) Investigador. CAR-UPM</summary>
 * Investigador en el Centro de Automática y Robótica (CAR). Grupo de Robótica y Cibernética. Escuela Politécnica Superior de Industriales. UPM
+* A **tiempo completo**
 </details>
 
 <details markdown="block">
 <summary>(2010-Feb) (2 años) Profesor visitante. Escuela Politécnica Superior. UC3M</summary> 
 * **Profesor visitante** en el departamento de **Ingeniería de sistemas y automática**. Escuela Politécnica Superior de la **Universidad Carlos III de Madrid** (UC3M)
+* A **tiempo completo**
 * Asignaturas impartidas:
   * Informática Industrial
   * Robótica
@@ -60,11 +101,13 @@ layout: default
 <details markdown="block">
 <summary>(2009-Nov) (4 meses) Investigador. UFV</summary>
 * Investigador en el Centro de innovación experimental del conocimiento (CEIEC) de la Universidad Fracisco Vitoria (UFV)
+* A **tiempo completo**
 </details>
 
 <details markdown="block">
 <summary>(2004-Sep) (5 años) Profesor Ayudante. Escuela Politécnica Superior. UAM</summary>
 * **Profesor ayudante**. Departamento de **Ingeniería Informática** de la **Escuela Politécnica Superior** de la Universidad Autónoma de Madrid. Cursos 2003/2004, 2004/2005, 2005/2006, 2007/2008 y 2008/2009
+* A **Tiempo completo**
 * Asignaturas impartidas:
   * Robótica móvil,
   * Electrónica digital
@@ -75,6 +118,7 @@ layout: default
 <details markdown="block">
 <summary>(2003-Sep) (1 año) Profesor asociado. Escuela Politécnica Superior. UAM</summary>
 * Profesor asociado en el Departamento de **Ingeniería Informática** de la **Escuela Politécnica Superior** de la Universidad Autónoma de Madrid. Curso 2003/2004
+* A **tiempo parcial**
 * Asignaturas impartidas:
     * Electrónica Digital
     * Diseño de circuitos
@@ -82,22 +126,48 @@ layout: default
 </details>
 
 <details markdown="block">
-<summary>(2001-Nov) (3 años) Ingeniero de Telecomunicaciones Autónomo</summary>
-* Ejercicio libre de la profesión, como Ingeniero autónomo, haciendo proyectos de electrónica y telecomunicaciones
-</details>
-
-<details markdown="block">
-<summary>(2001-Sep) (2 años) Profesor asociado. Facultad de Informática (UPSAM) </summary>
+<summary>(2001-Sep) (2 años) Profesor asociado. Facultad de Informática. UPSAM </summary>
 * **Profesor asociado** en el **departamento de Electrónica y Comunicaciónes** de la Facultad de **Ingeniería Informática** de la la **Universidad Pontificia de Salamanca en Madrid** (UPSAM)
+* A **Tiempo parcial**
 * Asignaturas impartidas:
   * Sistemas Digitales
   * Fundamentos de Computadoras
   * Laboratorio de Arquitectura e Ingeniería de Computadores
 </details>
 
+
+
+## Mundo empresarial
+
 <details markdown="block">
-<summary>(2000-Nov) (1 año) Ingeniero de I+D en la empresa Pulsar Technologies</summary> 
+<summary>(2013-06) (3 años) Director del departamento de Robótica e innovación. BQ</summary>
+* **Director** del **departamento de robótica e innovación** de [BQ](https://es.wikipedia.org/wiki/BQ_(empresa)).
+* **Desarrollo de impresoras 3D** y **robots educativos** (printbots) imprimibles y libres
+* A **Tiempo completo**
+</details>
+
+<details markdown="block">
+<summary>(2012-Dic) (6 meses) Ingeniero de I+D en Deutecno, S.L</summary>
+* **Ingeniero de I+D**. Programación de sistemas de adquisición de datos para aplicaciones industriales (Tarjeta DCON). Sistema de control de la temperatura de hornos industriales
+* **A tiempo completo**
+</details>
+
+<details markdown="block">
+<summary>(2012-Nov) (2 meses) Ingeniero I+D. Sigma Technologies, S.L </summary>
+* **Ingeniero de I+D**. Proyecto RoboDraw/RoboTouch. Diseño de un robot imprimible tipo scara para la automatización de pruebas en tablets
+* **A tiempo parcial**
+</details>
+
+<details markdown="block">
+<summary>(2001-Nov) (3 años) Ingeniero de Telecomunicaciones Autónomo</summary>
+* Ejercicio libre de la profesión, como Ingeniero autónomo, haciendo proyectos de electrónica y telecomunicaciones
+* A **tiempo parcial**
+</details>
+
+<details markdown="block">
+<summary>(2000-Nov) (1 año) Ingeniero de I+D en Pulsar Technologies</summary> 
 * Trabajador por cuenta agena en la empresa [Pulsar Technologies](https://pulsartec.es/en/specialists-in-technology-solutions/) en el **departamento de Investigación y Desarrollo**, desarrollando **sistemas empotrados** basados en el microcontrolador 68328 (DragonBall) de Motorola y el sistema operativo **uClinux**, con capacidad para comunicarse vía mensajes cortos SMS de GSM e Internet (web, mail) con un sistema central. Los sistemas diseñados leen información de otros dispositivos conectados a una intranet mediante SNMP y envían la información a un ordenador remoto para ser procesada. 
+* A **tiempo completo**
 </details>
 
 <details markdown="block">
@@ -115,6 +185,16 @@ layout: default
   * **Sistema de seguridad** para la asociación IEEE[11] (Institute of Electrical and Electronic Engineers) de la ETSI Telecomunicación de la UPM. Consiste en el control de acceso mediante tarjeta-chip y el registro de entradas en una base de datos.
 </details>
 
+
+## Otros
+
+<details markdown="block">
+<summary>(2016-Julio) (8 meses) Fablab Manager en La Rueca asociación</summary> 
+* Fablab manager en el [Tecnolab](https://github.com/tecnolab) de [la Rueca Asociación](https://larueca.org/), una organización sin ánimo de lucro
+* A **Tiempo completo**
+* Cursos de tecnología para jóvenes en riesgo de exclusión social, con impresoras 3D, cortadoras láser y de vinilo
+</details>
+
 <details markdown="block">
 <summary>(1999-Julio) (9 meses) Alférez de Complemento (SEFOCUMA) en el Ejército de Tierra</summary>
 * [SEFOCUMA](https://es.wikipedia.org/wiki/Servicio_para_la_Formaci%C3%B3n_de_Cuadros_de_Mando). Servicio de formación de cuadros de mandos
@@ -128,3 +208,4 @@ layout: default
         - Armamento
         - Topografía
 </details>
+
