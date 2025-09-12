@@ -22,7 +22,7 @@ layout: home
 </script>
 
 
-# Juan González Gómez
+# Juan González Gómez (Obijuan)
 
 
 ![](images/Juan_gonzalez_21-400x400.png)
