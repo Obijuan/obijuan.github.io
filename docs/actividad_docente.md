@@ -23,12 +23,76 @@ layout: default
 
 # Actividad Docente
 
+## Universidad Carlos III de Madrid (UC3M)
 🚧 TODO 🚧
 
 ## Universidad Autónoma de Madrid (UAM)
 * **Centro**: [Escuela Politécnica Superior](http://www.eps.uam.es/)
 * **Departamento**: Ingeniería Informática
 * [Más información en IeaRobotics](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Docencia)  
+
+### Curso 2008-2009
+* **Plaza**: Profesor Ayudante
+<details markdown="block">
+<summary>Laboratorio de Fundamentos de Computadores</summary>
+  * **COORDINADOR**
+  * Grado: Ingeniería Superior de Telecomunicaciones
+  * Curso: 2
+  * Asignatura Troncal
+  * Créditos: 3
+  * Grupos impartidos: 2
+</details>
+
+<details markdown="block">
+<summary>Laboratorio de Arquitectura de Computadores</summary>
+  * Grado: Ingeniería Informática
+  * Curso: 3
+  * Asignatura Troncal
+  * Créditos: 3
+  * Grupos impartidos: 1
+</details>
+
+### Curso 2007-2008
+* **Plaza**: Profesor Ayudante
+<details markdown="block">
+<summary>Laboratorio de Fundamentos de Computadores</summary>
+  * **COORDINADOR**
+  * Grado: Ingeniería Superior de Telecomunicaciones
+  * Curso: 2
+  * Asignatura Troncal
+  * Créditos: 3
+  * Grupos impartidos: 2
+</details>
+
+<details markdown="block">
+<summary>Laboratorio de Arquitectura de Computadores</summary>
+  * Grado: Ingeniería Informática
+  * Curso: 3
+  * Asignatura Troncal
+  * Créditos: 3
+  * Grupos impartidos: 1
+</details>
+
+### Curso 2006-2007
+* **Plaza**: Profesor Ayudante
+<details markdown="block">
+<summary>Laboratorio de Fundamentos de Computadores</summary>
+  * **COORDINADOR**
+  * Grado: Ingeniería Superior de Telecomunicaciones
+  * Curso: 2
+  * Asignatura Troncal
+  * Créditos: 3
+  * Grupos impartidos: 2
+</details>
+
+<details markdown="block">
+<summary>Laboratorio de Arquitectura de Computadores</summary>
+  * Grado: Ingeniería Informática
+  * Curso: 3
+  * Asignatura Troncal
+  * Créditos: 3
+  * Grupos impartidos: 1
+</details>
 
 
 ### Curso 2005-2006
