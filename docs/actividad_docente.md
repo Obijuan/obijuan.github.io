@@ -24,7 +24,37 @@ layout: default
 # Actividad Docente
 
 ## Universidad Carlos III de Madrid (UC3M)
+* **Centro**: [Escuela Politécnica Superior](https://www.uc3m.es/eps/inicio)
+* **Departamento**: [Ingeniería de Sistemas y Automática](https://www.uc3m.es/departamento-ingenieria-sistemas-automatica/inicio)
+* **Puesto**: Profesor visitante  
+* [Más información en IeaRobotics](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Docencia)  
+
 🚧 TODO 🚧
+
+
+### Curso 2000-2010
+
+<details markdown="block">
+<summary>Informática Industrial</summary>
+  * Grado: Ingeniería Industrial
+  * Curso: 3º
+  * Asignatura troncal
+  * Créditos: 5
+  * Prácticas de laboratorio (28h)
+</details>
+
+<details markdown="block">
+<summary>Robótica</summary>
+  * Grado: Ingeniería Informática
+  * Curso: 5º
+  * Asignatura optativa
+  * Créditos: 6
+  * Teoría (50h)
+  * Más información:
+    * [Caso de estudio 1: Robots móviles](http://www.iearobotics.com/wiki/index.php?title=Curso_2010._Asignatura_de_Rob%C3%B3tica._UC3M._Robots_m%C3%B3viles)
+    * [Caso de estudio 2: Robots modulares](http://www.iearobotics.com/wiki/index.php?title=Curso_2010._Asignatura_de_Rob%C3%B3tica._UC3M._Robots_modulares)  
+</details>
+
 
 ## Universidad Autónoma de Madrid (UAM)
 * **Centro**: [Escuela Politécnica Superior](http://www.eps.uam.es/)
