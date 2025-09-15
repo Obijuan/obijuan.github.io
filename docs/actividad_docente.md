@@ -67,7 +67,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 </details>
 
 <details markdown="block">
-<summary>Construcción de Servicios y Aplicaciones Audiovisuales en Internet</summary>
+<summary>Construcción de Servicios y Aplicaciones Audiovisuales en Internet (CSAAI)</summary>
 * Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
 * **COORDINADOR**
 * Curso: 3º (Mañana)
