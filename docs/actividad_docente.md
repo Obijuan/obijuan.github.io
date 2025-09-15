@@ -23,6 +23,73 @@ layout: default
 
 # Actividad Docente
 
+
+🚧 TODO 🚧
+## Universidad Rey Juan Carlos (URJC)
+* **Centro**: [Escuela de Ingeniería de Fuenlabrada](https://www.urjc.es/eif)
+* **Departamento**: [
+Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
+](https://servicios.urjc.es/pdi/departamento/Y158)  
+* **Area de conocimiento**: Ingeniería Telemática
+
+### Curso 2017-2018
+* **Plaza**: Profesor Ayudante Doctor
+<details markdown="block">
+<summary>Programming in Network Environments</summary>
+* Grado: [Biomedical Engineering](https://www.urjc.es/estudios/grado/2462-biomedial-engineering)
+* Curso: 1 (Tarde)
+* Campus de Alcorcón
+* Idioma: Inglés
+* Asignatura Obligatoria
+* Laboratorio
+* Horas impartidas: 30 (Laboratorio)
+* Segundo semestre
+</details>
+
+<details markdown="block">
+<summary>Programación en Entornos de Red</summary>
+* Grado: [Ingeniería Biomédica](https://www.urjc.es/estudios/2001-ingenieria-biomedica)
+* Curso: 1 (Tarde)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 28 (Laboratorio)
+* Segundo semestre
+</details>
+
+<details markdown="block">
+<summary>Laboratorio de Tecnologías Audiovisuales en la Web (LTAW)</summary>
+* Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* Curso: 4 (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Optativa
+* Horas impartidas: 43 (Teoría y práctica)
+* Segundo semestre
+</details>
+
+<details markdown="block">
+<summary>Construcción de Servicios y Aplicaciones Audiovisuales en Internet</summary>
+* Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* **COORDINADOR**
+* Curso: 3º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 87 (Teoría y práctica)
+* Segundo semestre
+</details>
+
+<details markdown="block">
+<summary>Arquitectura de Internet</summary>
+* Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* Curso: 1º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 28 (Práctica)
+* Segundo semestre
+</details>
+
+
+
+
 ## Universidad Carlos III de Madrid (UC3M)
 * **Centro**: [Escuela Politécnica Superior](https://www.uc3m.es/eps/inicio)
 * **Departamento**: [Ingeniería de Sistemas y Automática](https://www.uc3m.es/departamento-ingenieria-sistemas-automatica/inicio)
@@ -33,7 +100,6 @@ layout: default
 
 
 ### Curso 2000-2010
-
 <details markdown="block">
 <summary>Informática Industrial</summary>
   * Grado: Ingeniería Industrial
@@ -47,6 +113,7 @@ layout: default
 <summary>Robótica</summary>
   * Grado: Ingeniería Informática
   * Curso: 5º
+  * Campus de Colmenarejo
   * Asignatura optativa
   * Créditos: 6
   * Teoría (50h)
@@ -268,4 +335,5 @@ layout: default
   * Créditos: 4.5
   * Grupo: EM12 y ET13
 </details>
+
 
