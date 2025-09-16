@@ -24,13 +24,77 @@ layout: default
 # Actividad Docente
 
 
-🚧 TODO 🚧
+
 ## Universidad Rey Juan Carlos (URJC)
 * **Centro**: [Escuela de Ingeniería de Fuenlabrada](https://www.urjc.es/eif)
 * **Departamento**: [
 Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 ](https://servicios.urjc.es/pdi/departamento/Y158)  
 * **Area de conocimiento**: Ingeniería Telemática
+
+🚧 TODO 🚧
+
+### Curso 2018-2019
+* **Plaza**: Profesor Ayudante Doctor
+<details markdown="block">
+<summary>Programming in Network Environments (PNE)</summary>
+* Grado: [Biomedical Engineering](https://www.urjc.es/estudios/grado/2462-biomedial-engineering)
+* Curso: 1 (Tarde)
+* Campus de Alcorcón
+* Idioma: Inglés
+* Asignatura Obligatoria
+* Laboratorio
+* Horas impartidas: 60 (Teoría y Laboratorio)
+* Segundo semestre
+* [Material docente](https://github.com/myTeachingURJC/2018-19-PNE/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Laboratorio de Tecnologías Audiovisuales en la Web (LTAW)</summary>
+* Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* Curso: 4 (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Optativa
+* Horas impartidas: 43.5 (Teoría y práctica)
+* Segundo semestre
+* [Material docente](https://github.com/myTeachingURJC/2018-19-LTAW/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Construcción de Servicios y Aplicaciones Audiovisuales en Internet (CSAAI)</summary>
+* Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* **COORDINADOR**
+* Curso: 3º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 87 (Teoría y práctica)
+* Segundo semestre
+* [Material docente](https://github.com/myTeachingURJC/2018-19-CSAAI/wiki)
+</details>
+
+<details markdown="block">
+<summary>Arquitectura de Internet</summary>
+* Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* Curso: 1º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 28 (Práctica)
+* Segundo semestre
+* [Material docente](https://github.com/Obijuan/URJC-Gsyc-2018-Arquitectura-Internet/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Arquitectura de Computadores</summary>
+* Grado: [Ingeniería de Robótica Software](https://www.urjc.es/estudios/grado/3099-ingenieria-de-robotica-software)
+* Curso: 1º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 28 (Práctica)
+* Segundo semestre
+* Material Docente:
+  * [Laboratorio](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+</details>
+
 
 ### Curso 2017-2018
 * **Plaza**: Profesor Ayudante Doctor
@@ -54,6 +118,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 * Asignatura Obligatoria
 * Horas impartidas: 28 (Laboratorio)
 * Segundo semestre
+* [Material Docente](https://github.com/Obijuan/URJC-Gsyc-2018-Programacion-en-Entornos-de-Red/wiki)  
 </details>
 
 <details markdown="block">
@@ -75,7 +140,8 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 * Asignatura Obligatoria
 * Horas impartidas: 87 (Teoría y práctica)
 * Segundo semestre
-</details>
+* [Material docente](https://github.com/Obijuan/URJC-Gsyc-2018-CSAAI-App-audiovisuales-internet/wiki)
+</details>  
 
 <details markdown="block">
 <summary>Arquitectura de Internet</summary>
@@ -85,6 +151,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 * Asignatura Obligatoria
 * Horas impartidas: 28 (Práctica)
 * Segundo semestre
+* [Material docente](https://github.com/Obijuan/URJC-Gsyc-2018-Arquitectura-Internet/wiki)  
 </details>
 
 
@@ -337,3 +404,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 </details>
 
 
+# TODO
+<details markdown="block">
+<summary></summary>
+</details>
