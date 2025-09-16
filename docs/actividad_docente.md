@@ -34,6 +34,92 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 
 🚧 TODO 🚧
 
+### Curso 2019-2020
+* **Plaza**: Profesor Ayudante Doctor
+<details markdown="block">
+<summary>Programming in Network Environments (PNE)</summary>
+* Grado: [Biomedical Engineering](https://www.urjc.es/estudios/grado/2462-biomedial-engineering)
+* Curso: 1 (Tarde)
+* Campus de Alcorcón
+* Idioma: Inglés
+* Asignatura Obligatoria
+* Horas impartidas: 90 (Teoría y Laboratorio)
+* Segundo semestre
+* [Material docente](https://github.com/myTeachingURJC/2019-2020-PNE/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Laboratorio de Tecnologías Audiovisuales en la Web (LTAW)</summary>
+* Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* Curso: 4 (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Optativa
+* Horas impartidas: 42 (Teoría y práctica)
+* Segundo semestre
+* [Material docente](https://github.com/myTeachingURJC/2019-2020-LTAW/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Construcción de Servicios y Aplicaciones Audiovisuales en Internet (CSAAI)</summary>
+* Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* **COORDINADOR**
+* Curso: 3º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 87 (Teoría y práctica)
+* Segundo semestre
+* [Material docente](https://github.com/myTeachingURJC/2019-2020-CSAAI/wiki)
+</details>
+
+<details markdown="block">
+<summary>Arquitectura de Internet</summary>
+* Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* Curso: 1º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 28 (Práctica)
+* Segundo semestre
+* [Material docente](https://github.com/Obijuan/URJC-Gsyc-2018-Arquitectura-Internet/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Arquitectura de Computadores</summary>
+* Grado: [Ingeniería de Robótica Software](https://www.urjc.es/estudios/grado/3099-ingenieria-de-robotica-software)
+* Curso: 1º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 28 (Práctica)
+* Segundo semestre
+* Material Docente:
+  * [Laboratorio](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Arquitectura de Computadores</summary>
+* Grado: [Ingeniería en Sistemas de Telecomunicación](https://www.urjc.es/estudios/grado/636-ingenieria-en-sistemas-de-la-telecomunicacion)
+* Curso: 3º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 28 (Práctica)
+* Primer semestre
+* Material Docente:
+  * [Laboratorio](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Arquitectura de Sistemas Audiovisuales II</summary>
+* Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* Curso: 4º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 28 (Práctica)
+* Primer semestre
+* Material Docente:
+  * [Laboratorio](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+</details>
+
+
+
 ### Curso 2018-2019
 * **Plaza**: Profesor Ayudante Doctor
 <details markdown="block">
@@ -43,7 +129,6 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 * Campus de Alcorcón
 * Idioma: Inglés
 * Asignatura Obligatoria
-* Laboratorio
 * Horas impartidas: 60 (Teoría y Laboratorio)
 * Segundo semestre
 * [Material docente](https://github.com/myTeachingURJC/2018-19-PNE/wiki)  
@@ -427,8 +512,3 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
   * Grupo: EM12 y ET13
 </details>
 
-
-# TODO
-<details markdown="block">
-<summary></summary>
-</details>
