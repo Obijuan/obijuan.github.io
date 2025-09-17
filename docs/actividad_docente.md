@@ -32,7 +32,203 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 ](https://servicios.urjc.es/pdi/departamento/Y158)  
 * **Area de conocimiento**: Ingeniería Telemática
 
+
 🚧 TODO 🚧
+
+### Curso 2023-2024
+* **Plaza**: Profesor Visitante
+<details markdown="block">
+<summary>Laboratorio de Tecnologías Audiovisuales en la Web (LTAW)</summary>
+* Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* Curso: 4 (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Optativa
+* Horas impartidas: 64 (Teoría y práctica)
+* Segundo semestre
+* [Material docente](https://github.com/myTeachingURJC/2023-2024-LTAW)  
+</details>
+
+<details markdown="block">
+<summary>Arquitectura de Sistemas Audiovisuales II</summary>
+* Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* Curso: 4º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 60 (Teoría y Práctica)
+* Primer semestre
+* Material Docente:
+  * [Laboratorio](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+  * [Teoría](https://github.com/myTeachingURJC/Arq-computadores-01/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Arquitectura de Computadores</summary>
+* Grado: [Ingeniería de Robótica Software](https://www.urjc.es/estudios/grado/3099-ingenieria-de-robotica-software)
+* Curso: 1º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 30 (Teoría)
+* Segundo semestre
+* Material Docente:
+  * [Teoría](https://github.com/myTeachingURJC/Arq-computadores-01/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Arquitectura de Computadores</summary>
+* Grado: [Ingeniería en Sistemas de Telecomunicación](https://www.urjc.es/estudios/grado/636-ingenieria-en-sistemas-de-la-telecomunicacion)
+* Curso: 3º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 31.8 (Práctica)
+* Primer semestre
+* Material Docente:
+  * [Laboratorio](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Mecatrónica</summary>
+* Grado: [Ingeniería de Robótica Software](https://www.urjc.es/estudios/grado/3099-ingenieria-de-robotica-software)
+* Curso: 4º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Optativa
+* Horas impartidas: 60 (Teoría y Práctica)
+* Primer semestre
+* [Material Docente](https://github.com/myTeachingURJC/Mecatronica/wiki/Mecatr%C3%B3nica-2023_2024)  
+</details>
+
+
+### Curso 2022-2023
+* **Plaza**: Profesor Visitante
+
+<details markdown="block">
+<summary>Laboratorio de Tecnologías Audiovisuales en la Web (LTAW)</summary>
+* Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* Curso: 4 (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Optativa
+* Horas impartidas: 59 (Teoría y práctica)
+* Segundo semestre
+* [Material docente](https://github.com/myTeachingURJC/2022-2023-LTAW/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Arquitectura de Computadores</summary>
+* Grado: [Ingeniería de Robótica Software](https://www.urjc.es/estudios/grado/3099-ingenieria-de-robotica-software)
+* Curso: 1º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 59 (Teoría y Práctica)
+* Segundo semestre
+* Material Docente:
+  * [Laboratorio](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+  * [Teoría](https://github.com/myTeachingURJC/Arq-computadores-01/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Arquitectura de Computadores</summary>
+* Grado: [Ingeniería en Sistemas de Telecomunicación](https://www.urjc.es/estudios/grado/636-ingenieria-en-sistemas-de-la-telecomunicacion)
+* Curso: 3º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 28 (Práctica)
+* Primer semestre
+* Material Docente:
+  * [Laboratorio](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Arquitectura de Sistemas Audiovisuales II</summary>
+* Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* Curso: 4º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 59 (Teoría y Práctica)
+* Primer semestre
+* Material Docente:
+  * [Laboratorio](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+  * [Teoría](https://github.com/myTeachingURJC/Arq-computadores-01/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Mecatrónica</summary>
+* Grado: [Ingeniería de Robótica Software](https://www.urjc.es/estudios/grado/3099-ingenieria-de-robotica-software)
+* Curso: 4º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Optativa
+* Horas impartidas: 59 (Teoría y Práctica)
+* Primer semestre
+* [Material Docente](https://github.com/myTeachingURJC/Mecatronica/wiki/Mecatr%C3%B3nica-2022_2023)  
+</details>
+
+
+
+
+
+### Curso 2021-2022
+* **Plaza**: Profesor Ayudante Doctor
+
+<details markdown="block">
+<summary>Laboratorio de Tecnologías Audiovisuales en la Web (LTAW)</summary>
+* Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* Curso: 4 (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Optativa
+* Horas impartidas: 87 (Teoría y práctica)
+* Segundo semestre
+* [Material docente](https://github.com/myTeachingURJC/2021-2022-LTAW/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Arquitectura de Computadores</summary>
+* Grado: [Ingeniería de Robótica Software](https://www.urjc.es/estudios/grado/3099-ingenieria-de-robotica-software)
+* Curso: 1º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 87 (Teoría y Práctica)
+* Segundo semestre
+* Material Docente:
+  * [Laboratorio](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+  * [Teoría](https://github.com/myTeachingURJC/Arq-computadores-01/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Arquitectura de Computadores</summary>
+* Grado: [Ingeniería en Sistemas de Telecomunicación](https://www.urjc.es/estudios/grado/636-ingenieria-en-sistemas-de-la-telecomunicacion)
+* Curso: 3º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 28 (Práctica)
+* Primer semestre
+* Material Docente:
+  * [Laboratorio](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Arquitectura de Sistemas Audiovisuales II</summary>
+* Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* Curso: 4º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Obligatoria
+* Horas impartidas: 87 (Teoría y Práctica)
+* Primer semestre
+* Material Docente:
+  * [Laboratorio](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+  * [Teoría](https://github.com/myTeachingURJC/Arq-computadores-01/wiki)  
+</details>
+
+<details markdown="block">
+<summary>Mecatrónica</summary>
+* Grado: [Ingeniería de Robótica Software](https://www.urjc.es/estudios/grado/3099-ingenieria-de-robotica-software)
+* Curso: 4º (Mañana)
+* Campus de Fuenlabrada
+* Asignatura Optativa
+* Horas impartidas: 87 (Teoría y Práctica)
+* Primer semestre
+* [Material Docente](https://github.com/myTeachingURJC/Mecatronica/wiki/Mecatr%C3%B3nica-2021_2022)  
+</details>
+
+
+
 
 ### Curso 2020-2021
 * **Plaza**: Profesor Ayudante Doctor
@@ -105,6 +301,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 * Primer semestre
 * Material Docente:
   * [Laboratorio](https://github.com/myTeachingURJC/2019-20-LAB-AO/wiki)  
+  * [Teoría](https://github.com/myTeachingURJC/Arq-computadores-01/wiki)  
 </details>
 
 
@@ -284,6 +481,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 <details markdown="block">
 <summary>Programming in Network Environments</summary>
 * Grado: [Biomedical Engineering](https://www.urjc.es/estudios/grado/2462-biomedial-engineering)
+* [Guía docente](https://gestion3.urjc.es/guiasdocentes/pdfGuia.jsp?txtAsignatura=2374010&txtTitulacion=2374&txtCursoAcademico=2025-26) de la asignatura (Teaching guide)
 * Curso: 1 (Tarde)
 * Campus de Alcorcón
 * Idioma: Inglés
@@ -296,6 +494,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 <details markdown="block">
 <summary>Programación en Entornos de Red</summary>
 * Grado: [Ingeniería Biomédica](https://www.urjc.es/estudios/2001-ingenieria-biomedica)
+* [Guía docente](https://gestion3.urjc.es/guiasdocentes/pdfGuia.jsp?txtAsignatura=2229009&txtTitulacion=2229&txtCursoAcademico=2025-26)  
 * Curso: 1 (Tarde)
 * Campus de Fuenlabrada
 * Asignatura Obligatoria
@@ -307,6 +506,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 <details markdown="block">
 <summary>Laboratorio de Tecnologías Audiovisuales en la Web (LTAW)</summary>
 * Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* [Guía docente](https://gestion3.urjc.es/guiasdocentes/pdfGuia.jsp?txtAsignatura=2039035&txtTitulacion=2039&txtCursoAcademico=2025-26)  
 * Curso: 4 (Mañana)
 * Campus de Fuenlabrada
 * Asignatura Optativa
@@ -317,6 +517,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 <details markdown="block">
 <summary>Construcción de Servicios y Aplicaciones Audiovisuales en Internet (CSAAI)</summary>
 * Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* [Guía docente](https://gestion3.urjc.es/guiasdocentes/pdfGuia.jsp?txtAsignatura=2039027&txtTitulacion=2039&txtCursoAcademico=2025-26)  
 * **COORDINADOR**
 * Curso: 3º (Mañana)
 * Campus de Fuenlabrada
@@ -329,6 +530,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 <details markdown="block">
 <summary>Arquitectura de Internet</summary>
 * Grado: [Ingeniería en Sistemas Audiovisuales y Multimedia](https://www.urjc.es/estudios/grado/637-ingenieria-en-sistemas-audiovisuales-y-multimedia)
+* [Guía docente](https://gestion3.urjc.es/guiasdocentes/pdfGuia.jsp?txtAsignatura=2039008&txtTitulacion=2039&txtCursoAcademico=2025-26)  
 * Curso: 1º (Mañana)
 * Campus de Fuenlabrada
 * Asignatura Obligatoria
