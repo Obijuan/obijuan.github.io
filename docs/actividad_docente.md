@@ -667,6 +667,14 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 * Primer cuatrimestre
 </details>
 
+<details markdown="block">
+<summary>Seminario: Diseño e Impresión de Piezas 3D con herramientas Open Source</summary>
+* Máster en Robótica y Automatización
+* Primer cuatrimestre
+* Más información
+</details>
+
+
 ### Curso 2010-2011
 
 <details markdown="block">
