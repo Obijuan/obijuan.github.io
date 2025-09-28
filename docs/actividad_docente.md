@@ -638,15 +638,110 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 * **Puesto**: Profesor visitante  
 * [Más información en IeaRobotics](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Docencia)  
 
-🚧 TODO 🚧
+
+### Curso 2011-2012
+
+<details markdown="block">
+<summary>Automatización Industrial I</summary>
+* [Automatización Industrial](https://aplicaciones.uc3m.es/cpa/generaFicha?est=221&asig=14191&idioma=1)  
+* Código asignatura: 14191
+* Plan 165
+* Grado: Grado en Ingeniería Electrónica y Automática
+* Curso: 3º
+* Campus de Leganés
+* Asignatura troncal
+* Créditos: 6
+* Tipo de docencia: Teoría y práctica
+* Primer cuatrimestre
+</details>
+
+<details markdown="block">
+<summary>Robótica</summary>
+* [Robótica](https://aplicaciones.uc3m.es/cpa/generaFicha?est=223&plan=444&asig=14039&idioma=1)  
+* Grado: Ingeniería Industrial y Automática
+* Curso: 4º
+* Campus de Leganés
+* Asignatura 
+* Créditos: 6
+* Tipo de docencia: Prácticas
+* Primer cuatrimestre
+</details>
+
+### Curso 2010-2011
+
+<details markdown="block">
+<summary>Robótica</summary>
+  * Grado: Ingeniería Informática
+  * Curso: 5º
+  * Campus de Colmenarejo
+  * Segundo cuatrimestre
+  * Asignatura optativa
+  * Créditos: 6
+  * Teoría (50h)  
+</details>
+
+<details markdown="block">
+<summary>Robótica Industrial</summary>
+* [Robótica Industrial](https://aplicaciones.uc3m.es/cpa/generaFicha?est=223&asig=14048&idioma=1) 
+* Código asignatura: 14048 
+* Plan 444
+* Grado: Grado en Ingeniería Electrónica y Automática
+* Curso: 3º
+* Campus de Leganés
+* Asignatura troncal
+* Créditos: 6
+* Tipo de docencia: Teoría y Práctica
+* Segundo semestre
+</details>
 
 
-### Curso 2000-2010
+<details markdown="block">
+<summary>Control y Programación de Robots</summary>
+* Grado: Ingeniería Industrial
+* Curso: 5º
+* Campus de Leganés
+* Asignatura optativa
+* Créditos: 6
+* Tipo de docencia: Teoría y Práctica
+* Primer cuatrimestre
+</details>
+
+<details markdown="block">
+<summary>Industrial Automation</summary>
+* Grado: Ingeniería Mecánica
+* Curso: 2º
+* Idioma: Inglés
+* Campus de Leganés
+* Asignatura troncal
+* Créditos: 6 
+* Tipo de docencia: Laboratorio
+* Primer semestre
+</details>
+
+
+<details markdown="block">
+<summary>Automatización Industrial I</summary>
+* [Automatización Industrial](https://aplicaciones.uc3m.es/cpa/generaFicha?est=221&asig=14191&idioma=1)  
+* Código asignatura: 14191
+* Plan 165
+* Grado: Ingeniería Mecánica
+* Curso: 3º
+* Campus de Leganés
+* Asignatura troncal
+* Créditos: 6
+* Tipo de docencia: Teoría y Laboratorio
+* Primer semestre
+</details>
+
+
+### Curso 2009-2010
 <details markdown="block">
 <summary>Informática Industrial</summary>
   * Grado: Ingeniería Industrial
+  * Campus de Leganés
   * Curso: 3º
   * Asignatura troncal
+  * Segundo cuatrimestre
   * Créditos: 5
   * Prácticas de laboratorio (28h)
 </details>
@@ -656,6 +751,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
   * Grado: Ingeniería Informática
   * Curso: 5º
   * Campus de Colmenarejo
+  * Segundo cuatrimestre
   * Asignatura optativa
   * Créditos: 6
   * Teoría (50h)
