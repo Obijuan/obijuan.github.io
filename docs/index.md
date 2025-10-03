@@ -50,6 +50,8 @@ layout: home
 * [Icestudio](https://github.com/FPGAwars/icestudio/wiki): Herramienta gráfica para dibujar circuitos digitales y cargarlos en FPGAs Libres  
 
 ## Proyectos
+* [icerv-dasm](https://github.com/Obijuan/icerv-dasm). Mini desensamblador y simulador para RISCV escrito en RUST
+* [JANEL-OS](https://github.com/Obijuan/JANEL-OS). Mini-kernel para la multiplexación de 2 tareas en el Risc-V de la Raspberry Pi pico2    
 * [Simplez FPGA]. Implementación del procesador SIMPLEZ en la FPGA de la tarjeta Alhambra-II
 * [Nand2Tetris Icestudio]. Implementación del procesador HACK del famoso curso Nand2tetris, y todos sus bloques, en Icestudio
 * [Z80 FPGA]. Implementación del procesador Z80 en Icestudio
@@ -110,6 +112,8 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 
 | Nombre                  | Descripción |
 |-------------------------|-------------|
+| [Web iceprog](https://github.com/Obijuan/Web-iceprog/wiki) | Experimentos con la grabación FPGAs usando WEBUSB |  
+| [Píxeles Unicode](https://github.com/Obijuan/unicode_pixel_screen/wiki) | Experimentos con píxeles en modo texto |
 | [Learn-Bresenham]       | Experimentos, documentación y pruebas con el Algoritmo de Bresenham |
 | [Learn-raspberry-pico2] | Experimentos con la Raspberry pico2 y RISC-V |
 | [Learn-simulations] | Exprimentos con el visualizador 3D Fury y el motor físico pybullet |  
