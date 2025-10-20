@@ -642,28 +642,40 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 ### Curso 2011-2012
 
 <details markdown="block">
-<summary>Automatización Industrial I</summary>
+<summary>Robótica</summary>
 * [Automatización Industrial](https://aplicaciones.uc3m.es/cpa/generaFicha?est=221&asig=14191&idioma=1)  
 * Código asignatura: 14191
 * Plan 165
-* Grado: Grado en Ingeniería Electrónica y Automática
-* Curso: 3º
+* Grado: Ingeniería Industrial y Automática
+* Curso: 4º
 * Campus de Leganés
 * Asignatura troncal
 * Créditos: 6
-* Tipo de docencia: Teoría y práctica
+* Tipo de docencia: Práctica (6h)
 * Primer cuatrimestre
 </details>
 
 <details markdown="block">
-<summary>Robótica</summary>
+<summary>Automatización Industrial I</summary>
 * [Robótica](https://aplicaciones.uc3m.es/cpa/generaFicha?est=223&plan=444&asig=14039&idioma=1)  
-* Grado: Ingeniería Industrial y Automática
-* Curso: 4º
+* Grado: Ingeniería Electrónica y Automática
+* Curso: 2º
 * Campus de Leganés
 * Asignatura 
 * Créditos: 6
-* Tipo de docencia: Prácticas
+* Tipo de docencia: Teoría y Prácticas (33h)
+* Primer cuatrimestre
+</details>
+
+<details markdown="block">
+<summary>Automatización Industrial I</summary>
+* [Robótica](https://aplicaciones.uc3m.es/cpa/generaFicha?est=223&plan=444&asig=14039&idioma=1)  
+* Grado: Ingeniería Electrónica y Automática
+* Curso: 2º
+* Campus de Leganés
+* Asignatura 
+* Créditos: 6
+* Tipo de docencia: Teoría (27h)
 * Primer cuatrimestre
 </details>
 
@@ -698,7 +710,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 * Campus de Leganés
 * Asignatura troncal
 * Créditos: 6
-* Tipo de docencia: Teoría y Práctica
+* Tipo de docencia: Teoría (21h)
 * Segundo semestre
 </details>
 
@@ -710,7 +722,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 * Campus de Leganés
 * Asignatura optativa
 * Créditos: 6
-* Tipo de docencia: Teoría y Práctica
+* Tipo de docencia: Teoría (36h)
 * Primer cuatrimestre
 </details>
 
@@ -722,7 +734,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 * Campus de Leganés
 * Asignatura troncal
 * Créditos: 6 
-* Tipo de docencia: Laboratorio
+* Tipo de docencia: Laboratorio (12h)
 * Primer semestre
 </details>
 
@@ -732,12 +744,12 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 * [Automatización Industrial](https://aplicaciones.uc3m.es/cpa/generaFicha?est=221&asig=14191&idioma=1)  
 * Código asignatura: 14191
 * Plan 165
-* Grado: Ingeniería Mecánica
-* Curso: 3º
+* Grado: Ingeniería Eléctrica
+* Curso: 2º
 * Campus de Leganés
 * Asignatura troncal
 * Créditos: 6
-* Tipo de docencia: Teoría y Laboratorio
+* Tipo de docencia: Teoría (21h)
 * Primer semestre
 </details>
 
