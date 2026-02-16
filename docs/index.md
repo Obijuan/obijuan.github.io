@@ -74,6 +74,11 @@ layout: home
 * [Laboratorio de Tecnologías Audiovisuales en la Web](https://github.com/myTeachingURJC/2024-2025-LTAW/wiki)  (Curso 2024-2025)  
 * [Mecatrónica](https://github.com/myTeachingURJC/Mecatronica/wiki)  
 
+## WebApps
+
+* [WebFPGA-tools](https://obijuan.github.io/Web-iceprog/wiki/web-iceprog/webFPGA-tools-03/): Herramientas web para la Alhambra-II: Reset, lectura de la flash, borrado, grabación de bitstreams...  
+* [FPGA RetroHub](https://obijuan.github.io/Web-iceprog/wiki/web-iceprog/fpga-retrohub/): Configura la Alhambra-II para convertirla en máquinas retro fácilmente: ZX-Spectrum, Amstrad CPC, Arcade Defender y Space invaders  
+
 ## Tutoriales
 
 * [Electrónica Digital para makers con FPGAs Libres]. Aprende electrónica digital desde 0 con **Icestudio** en FPGAs Libres
