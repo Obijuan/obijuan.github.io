@@ -117,6 +117,9 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 
 | Nombre                  | Descripción |
 |-------------------------|-------------|
+| [Learn-System-Verilog](https://github.com/Obijuan/Learn-System-Verilog/wiki) | Notas y experimentos sobre System Verilog. Implementación del HADES-V con FPGAs libres |
+| [Learn-zxspectrum-basic](https://github.com/Obijuan/Learn-zxspectrum-basic/wiki) | Aprendiendo el lenguaje Basic del ordenador retro zx-spectrum, y algunas otras cosas por el camino |
+| [Learn-IA-Z80 ](https://github.com/Obijuan/Learn-IA-Z80/wiki) | Pruebas y ejercicios del libro "Inteligencia Artificial para el Z80" |
 | [Web iceprog](https://github.com/Obijuan/Web-iceprog/wiki) | Experimentos con la grabación FPGAs usando WEBUSB |  
 | [Píxeles Unicode](https://github.com/Obijuan/unicode_pixel_screen/wiki) | Experimentos con píxeles en modo texto |
 | [Learn-Bresenham]       | Experimentos, documentación y pruebas con el Algoritmo de Bresenham |
