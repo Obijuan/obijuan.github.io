@@ -105,7 +105,7 @@ storage devices for logging </summary>
 <details markdown="block">
 <summary>(2010) A Bio-Inspired Small-Sized Wall-Climbing Caterpillar Robot </summary>
 
-* H. Zhang, W. Wang, J. Gonzalez-Gomez, and J. Zhang, ‘A Bio-Inspired Small-Sized Wall-Climbing Caterpillar Robot’, Mechatronic Systems Applications. InTech, Mar. 01, 2010. doi: 10.5772/8918
+* H. Zhang, W. Wang, J. Gonzalez-Gomez, and J. Zhang, ["A Bio-Inspired Small-Sized Wall-Climbing Caterpillar Robot"](https://www.intechopen.com/chapters/10181), Mechatronic Systems Applications. InTech, Mar. 01, 2010. doi: 10.5772/8918
   * [Citas según google scholar: 11](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=9336606143984759468)
   * FWCI: 1.95
   * Citation percentile (by year/subfield): 86.96
@@ -391,6 +391,10 @@ storage devices for logging </summary>
     * International Conference on Recent Trends and Challenges in Computational Models (ICRTCCM, 2017)
     * SPIE 7546, Second International Conference on Digital Image Processing (2010)
 </details>
+
+
+# Publicaciones nacionales
+
 
 
 🚧 TODO 🚧
