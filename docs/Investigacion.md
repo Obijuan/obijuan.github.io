@@ -129,35 +129,38 @@ storage devices for logging </summary>
 </details>
 
 <details markdown="block">
-<summary>(2012) Morphology Dependent Distributed Controller for Locomotion in Modular Robots </summary>  
+<summary>(2012) Morphology Dependent Distributed Controller for Locomotion in Modular Robots </summary>
 * Ranganath, A., González-Gómez, J., Moreno Lorente, L. ["Morphology Dependent Distributed Controller for Locomotion in Modular Robots
-"](https://biecoll.ub.uni-bielefeld.de/index.php/robotdoc/issue/view/38). Proceedings of the Post-Graduate Conference on Robotics and Development of Cognition, 10-12 September 2012 Lausanne, Switzerland 
+"](https://biecoll.ub.uni-bielefeld.de/index.php/robotdoc/issue/view/38). Proceedings of the Post-Graduate Conference on Robotics and Development of Cognition, 10-12 September 2012 Lausanne, Switzerland
   * Este congreso NO está indexado en CORE
 </details>
 
 <details markdown="block">
-<summary>(2012) Printable creativity in plastic valley UC3M </summary>  
+<summary>(2012) ⭐(Scopus, Q4) Printable creativity in plastic valley UC3M </summary>
 * A. Valero-Gómez, J. González-Gómez, V. González-Pacheco and M. A. Salichs, ["Printable creativity in plastic valley UC3M,"](https://ieeexplore.ieee.org/abstract/document/6201151) Proceedings of the 2012 IEEE Global Engineering Education Conference (EDUCON), Marrakech, Morocco, 2012, pp. 1-9, doi: 10.1109/EDUCON.2012.6201151
 * [Citas según google scholar: 18](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=11054451899512555043)
-  * Este congreso NO está indexado en CORE
+  * FWCI: 3.14
+  * 53th percentile
 </details>
 
 <details markdown="block">
-<summary>(2012) Boosting mechanical design with the C++ OOML and open source 3D printers </summary>  
+<summary>(2012) ⭐(Scopus, Q4) Boosting mechanical design with the C++ OOML and open source 3D printers </summary>
 * A. Valero-Gómez, J. González-Gómez, M. Almagro and M. A. Salichs, ["Boosting mechanical design with the C++ OOML and open source 3D printers,"](https://ieeexplore.ieee.org/abstract/document/6201114) Proceedings of the 2012 IEEE Global Engineering Education Conference (EDUCON), Marrakech, Morocco, 2012, pp. 1-7, doi: 10.1109/EDUCON.2012.6201114
 * [Citas según google scholar: 12](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=7182809676631199301)
+* 48th percentile
+* FWCI: 2.37
 * Este congreso NO está indexado en CORE
 </details>
 
 <details markdown="block">
-<summary>(2012) Low cost educational platform for robotics, using open-source 3D printers and open-source hardware </summary>  
+<summary>(2012) Low cost educational platform for robotics, using open-source 3D printers and open-source hardware </summary>
 * C. García-Saura, J. González-Gómez (2012), ["LOW COST EDUCATIONAL PLATFORM FOR ROBOTICS, USING OPEN-SOURCE 3D PRINTERS AND OPEN-SOURCE HARDWARE"](https://library.iated.org/view/GARCIASAURA2012LOW), ICERI2012 Proceedings, pp. 2699-2706
 * [Citas según google scholar: 22](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=5647909449214468596)
 * Este congreso NO está indexado en CORE
 </details>
 
 <details markdown="block">
-<summary>(2011) ⚡(CORE B) A new finger inverse kinematics method for an anthropomorphic hand </summary>  
+<summary>(2011) ⚡(CORE B) A new finger inverse kinematics method for an anthropomorphic hand </summary>
 * C. Bensalah, M. Abderrahim and J. G. Gomez, ["A new finger inverse kinematics method for an anthropomorphic hand,"](https://ieeexplore.ieee.org/abstract/document/6181470) 2011 IEEE International Conference on Robotics and Biomimetics, Karon Beach, Thailand, 2011, pp. 1314-1319, doi: 10.1109/ROBIO.2011.6181470
 * Indexado en CORE
 * Rank: B
@@ -226,7 +229,7 @@ storage devices for logging </summary>
 <details markdown="block">
 <summary>(2009) ⚡(CORE B) Embedded intelligent capability of a modular robotic system</summary>
 
-* H. X. Zhang, J. Gonzalez-Gomez, S. Y. Chen and J. W. Zhang, ["Embedded intelligent capability of a modular robotic system,"](https://ieeexplore.ieee.org/abstract/document/4913319) 2008 IEEE International Conference on Robotics and Biomimetics, Bangkok, Thailand, 2009, pp. 2061-2066, doi: 10.1109/ROBIO.2009.4913319
+* H. X. Zhang, J. Gonzalez-Gomez, S. Y. Chen and J. W. Zhang, ["Embedded intelligent capability of a modular robotic system,"](https://ieeexplore.ieee.org/abstract/document/4913319) 2009 IEEE International Conference on Robotics and Biomimetics, Bangkok, Thailand, 2009, pp. 2061-2066, doi: 10.1109/ROBIO.2009.4913319
 </details>
 
 
