@@ -25,9 +25,9 @@ layout: default
 
 * Mi nombre científico es Juan González-Gómez
 * **Áreas de Interés**: Robótica, locomoción, mecatrónica, sistemas empotrados, programación de sistemas, microcontroladores, arquitectura de ordenadores, FPGAs, Tecnologías Libres
-* [https://orcid.org/0000-0002-4038-0808](https://orcid.org/0000-0002-4038-0808)  
-* [Perfil en Google Scholar](https://scholar.google.com/citations?user=khh9100AAAAJ)  
-* [Perfil en Semantic Scholar](https://www.semanticscholar.org/author/Juan-Gonz%C3%A1lez-G%C3%B3mez/1401416662)  
+* [https://orcid.org/0000-0002-4038-0808](https://orcid.org/0000-0002-4038-0808)
+* [Perfil en Google Scholar](https://scholar.google.com/citations?user=khh9100AAAAJ)
+* [Perfil en Semantic Scholar](https://www.semanticscholar.org/author/Juan-Gonz%C3%A1lez-G%C3%B3mez/1401416662)
 
 
 # Publicaciones internacionales
@@ -176,7 +176,7 @@ storage devices for logging </summary>
 </details>
 
 <details markdown="block">
-<summary>(2011) 🚩(Scopus)Central pattern generator control of a differential wheeled robot </summary>
+<summary>(2011) 🚩(Scopus) Central pattern generator control of a differential wheeled robot </summary>
 * I. Urziceanu, F. Herrero-Carrón, J. González-Gómez, M. Niţulescu, F. de Borja Rodríguez and P. Varona, ["Central pattern generator control of a differential wheeled robot,"](https://ieeexplore.ieee.org/abstract/document/6085747) 15th International Conference on System Theory, Control and Computing, Sinaia, Romania, 2011, pp. 1-6.
 * Este congreso NO está indexado en CORE
 </details>
@@ -205,7 +205,7 @@ storage devices for logging </summary>
 
 
 <details markdown="block">
-<summary>(2009) 🚩(Scopus)A new application of modular robots on analysis of caterpillar-like locomotion</summary>
+<summary>(2009) 🚩(Scopus) A new application of modular robots on analysis of caterpillar-like locomotion</summary>
 * H. Zhang, J. Gonzalez-Gomez and J. Zhang, ["A new application of modular robots on analysis of caterpillar-like locomotion,"](https://ieeexplore.ieee.org/abstract/document/4957149) 2009 IEEE International Conference on Mechatronics, Malaga, Spain, 2009, pp. 1-6, doi: 10.1109/ICMECH.2009.4957149
   * [Citas según google scholar: 20](hhttps://scholar.google.com/scholar?oi=bibs&hl=es&cites=4144310798698425124)
     * Publicaciones destacadas que citan el artículo
@@ -312,7 +312,7 @@ storage devices for logging </summary>
 
 
 <details markdown="block">
-  <summary>(2006) Locomotion Capabilities of a Modular Robot with Eight Pitch-Yaw-Connecting Modules</summary>  
+  <summary>(2006) Locomotion Capabilities of a Modular Robot with Eight Pitch-Yaw-Connecting Modules</summary>
 * J. Gonzalez-Gomez, Houxiang Zhang, Eduardo Boemo and Jianwei Zhang, ["Locomotion Capabilities of a Modular Robot with Eight Pitch-Yaw-Connecting Modules"](https://repositorio.uam.es/handle/10486/666993),Proc. of the 9th International Conference on Climbing and Walking Robots. Clawar06, pp. 150-157. Brussels, September 2006
   * [Citas según google scholar: 96](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=7933238640921871857)
   * Publicaciones destacadas que citan el artículo
@@ -377,26 +377,26 @@ storage devices for logging </summary>
 </details>
 
 <details markdown="block">
-  <summary>(2005) Locomotion of a Modular Worm-like Robot Using a FPGA-based Embedded MicroBlaze Soft-processor</summary>  
+  <summary>(2005) Locomotion of a Modular Worm-like Robot Using a FPGA-based Embedded MicroBlaze Soft-processor</summary>
 * Gonzalez-Gomez, J., Aguayo, E., Boemo, E. (2005). ["Locomotion of a Modular Worm-like Robot Using a FPGA-based Embedded MicroBlaze Soft-processor"](https://link.springer.com/chapter/10.1007/3-540-29461-9_85). In: Climbing and Walking Robots. Springer, Berlin, Heidelberg. doi: 10.1007/3-540-29461-9_85
   * [Citas según google scholar: 44](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=4031571374279331794)
   * Publicaciones destacadas que citan el artículo
     * Journal of Field Robotics (2023)
-    * Journal of Intelligent & Robotic Systems (2016) 
+    * Journal of Intelligent & Robotic Systems (2016)
     * Industrial Robot (2006)
     * 20th International Conference on Control, Automation and Systems (ICCAS, 2020)
     * Journal of Bionic Engineering (2015)
     * IEEE Conference on Industrial Electronics and Applications (ICIEA, 2018)
     * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS, 2018)
     * IEEE International Symposium on Embedded Computing (2008)
-    * International Research Journal of Engineering and Technology (IRJET, 2020) 
+    * International Research Journal of Engineering and Technology (IRJET, 2020)
     * SPIE 7321, Bio-Inspired/Biomimetic Sensor Technologies and Applications (2009)
     * International Conference on Recent Trends and Challenges in Computational Models (ICRTCCM, 2017)
-    * SPIE 7546, Second International Conference on Digital Image Processing (2010)     
+    * SPIE 7546, Second International Conference on Digital Image Processing (2010)
 </details>
 
 
 
 
-🚧 TODO 🚧  
+🚧 TODO 🚧
 
