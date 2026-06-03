@@ -85,9 +85,10 @@ storage devices for logging </summary>
 ## Capítulos de libro
 
 <details markdown="block">
-<summary>(2012) A New Open Source 3D-Printable Mobile Robotic Platform for Education </summary>  
+<summary>(2012) 🚩(Scopus) A New Open Source 3D-Printable Mobile Robotic Platform for Education </summary>  
 * Gonzalez-Gomez, J., Valero-Gomez, A., Prieto-Moreno, A., Abderrahim, M. (2012). ["A New Open Source 3D-Printable Mobile Robotic Platform for Education"](https://link.springer.com/chapter/10.1007/978-3-642-27482-4_8). In: Rückert, U., Joaquin, S., Felix, W. (eds) Advances in Autonomous Mini Robots. Springer, Berlin, Heidelberg. doi: 10.1007/978-3-642-27482-4_8 
   * [Citas según google scholar: 110](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=14212620813713328439)
+  * FWCI 6.39 (Scopus)
   * FWCI: 49.37
   * Citation percentile (by year/subfield): 99.46
   * Print ISBN: 978-3-642-27481-7
@@ -149,7 +150,6 @@ storage devices for logging </summary>
 * [Citas según google scholar: 12](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=7182809676631199301)
 * 48th percentile
 * FWCI: 2.37
-* Este congreso NO está indexado en CORE
 </details>
 
 <details markdown="block">
