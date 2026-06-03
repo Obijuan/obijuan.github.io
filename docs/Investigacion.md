@@ -189,7 +189,7 @@ storage devices for logging </summary>
 </details>
 
 <details markdown="block">
-<summary>(2009) Task priority grasping and locomotion control of modular robot</summary>
+<summary>(2009) ⚡(CORE B) Task priority grasping and locomotion control of modular robot</summary>
 
 * G. Salvietti, H. X. Zhang, J. Gonzalez-Gómez, D. Prattichizzo and J. W. Zhang, ["Task priority grasping and locomotion control of modular robot,"](https://ieeexplore.ieee.org/abstract/document/5420861) 2009 IEEE International Conference on Robotics and Biomimetics (ROBIO), Guilin, China, 2009, pp. 1069-1074, doi: 10.1109/ROBIO.2009.5420861.
   * [Citas según google scholar: 14](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=6775952751764348090)
