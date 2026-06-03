@@ -36,6 +36,18 @@ layout: default
 ## Revistas
 
 <details markdown="block">
+<summary>(2025) The Reverse File System: Towards open cost-effective secure WORM
+storage devices for logging </summary>
+* Guardiola Múzquiz, Gorka & Gonzalez-Gomez, Juan & Soriano-Salvador, Enrique ["The Reverse File System: Towards open cost-effective secure WORM storage devices for logging"](https://doi.org/10.1016/j.cose.2025.104786). Computers & Security 162, 104786.  DOI: 10.1016/j.cose.2025.104786
+  * Abreviatura JCR: TODO
+  * ISSN: TODO
+  * JIF (2024): TODO
+  * JIF Ranking: TODO. Categoría: TODO
+  * TODO: Qx / Tx
+</details>
+
+
+<details markdown="block">
 <summary>(2013) A new paradigm for open robotics research and education with the C++ OOML </summary>
 * Valero-Gómez, A., González-Gómez, J. & Treviño, R. ["A new paradigm for open robotics research and education with the C++ OOML"](https://doi.org/10.1007/s10514-013-9324-5). Autonomous Robots 34, 233–249 (2013).  DOI: 10.1007/s10514-013-9324-5 
   * Abreviatura JCR: AUTON ROBOT
