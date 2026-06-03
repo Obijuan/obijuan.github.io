@@ -157,7 +157,7 @@ storage devices for logging </summary>
 </details>
 
 <details markdown="block">
-<summary>(2011) (CORE B) A new finger inverse kinematics method for an anthropomorphic hand </summary>  
+<summary>(2011) ⚡(CORE B) A new finger inverse kinematics method for an anthropomorphic hand </summary>  
 * C. Bensalah, M. Abderrahim and J. G. Gomez, ["A new finger inverse kinematics method for an anthropomorphic hand,"](https://ieeexplore.ieee.org/abstract/document/6181470) 2011 IEEE International Conference on Robotics and Biomimetics, Karon Beach, Thailand, 2011, pp. 1314-1319, doi: 10.1109/ROBIO.2011.6181470
 * Indexado en CORE
 * Rank: B
@@ -165,7 +165,7 @@ storage devices for logging </summary>
 
 
 <details markdown="block">
-<summary>(2011) Motion control of differential wheeled robots with joint limit constraints </summary>  
+<summary>(2011) ⚡(CORE B) Motion control of differential wheeled robots with joint limit constraints </summary>  
 
 * J. Gonzalez-Gomez, J. G. Victores, A. Valero-Gomez and M. Abderrahim, ["Motion control of differential wheeled robots with joint limit constraints,"](https://ieeexplore.ieee.org/abstract/document/6181351) 2011 IEEE International Conference on Robotics and Biomimetics, Karon Beach, Thailand, 2011, pp. 596-601, doi: 10.1109/ROBIO.2011.6181351.
   * [Citas según google scholar: 11](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=9425027559490395448)
