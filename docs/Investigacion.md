@@ -85,8 +85,8 @@ storage devices for logging </summary>
 ## Capítulos de libro
 
 <details markdown="block">
-<summary>(2012) 🚩(Scopus) A New Open Source 3D-Printable Mobile Robotic Platform for Education </summary>  
-* Gonzalez-Gomez, J., Valero-Gomez, A., Prieto-Moreno, A., Abderrahim, M. (2012). ["A New Open Source 3D-Printable Mobile Robotic Platform for Education"](https://link.springer.com/chapter/10.1007/978-3-642-27482-4_8). In: Rückert, U., Joaquin, S., Felix, W. (eds) Advances in Autonomous Mini Robots. Springer, Berlin, Heidelberg. doi: 10.1007/978-3-642-27482-4_8 
+<summary>(2012) 🚩(Scopus) A New Open Source 3D-Printable Mobile Robotic Platform for Education </summary>
+* Gonzalez-Gomez, J., Valero-Gomez, A., Prieto-Moreno, A., Abderrahim, M. (2012). ["A New Open Source 3D-Printable Mobile Robotic Platform for Education"](https://link.springer.com/chapter/10.1007/978-3-642-27482-4_8). In: Rückert, U., Joaquin, S., Felix, W. (eds) Advances in Autonomous Mini Robots. Springer, Berlin, Heidelberg. doi: 10.1007/978-3-642-27482-4_8
   * [Citas según google scholar: 110](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=14212620813713328439)
   * FWCI 6.39 (Scopus)
   * FWCI: 49.37
@@ -96,7 +96,7 @@ storage devices for logging </summary>
 </details>
 
 <details markdown="block">
-<summary>(2011) A Distributed Neural Controller for Locomotion in Linear Modular Robotic Configurations </summary>  
+<summary>(2011) A Distributed Neural Controller for Locomotion in Linear Modular Robotic Configurations </summary>
 
 * A Ranganath, J Gonzalez-Gomez, LM Lorente (2011), ["A Distributed Neural Controller for Locomotion in Linear Modular Robotic Configurations"](https://www.avinashranganath.com/files/DistributedNeuralControllerForLocomotionInLinearModularRoboticConfigurations.pdf), Book chapter (VII), ISBN: 978-84-7484-238-8. Centro de automática y Robótica CSIC-UPM, pp. 129-144.
 * ISBN: 978-84-7484-238-8
@@ -116,14 +116,14 @@ storage devices for logging </summary>
 ## Congresos
 
 <details markdown="block">
-<summary>(2017) A screw-less solution for snake-like robot assembly and sensor integration </summary>
+<summary>(2017)  🚩(Scopus) A screw-less solution for snake-like robot assembly and sensor integration </summary>
 * Guoyuan Li; Peter Verdru; Wei Li; Houxiang Zhang; Juan González-Gómez, ["A screw-less solution for snake-like robot assembly and sensor integration,"](https://ieeexplore.ieee.org/abstract/document/8316565) 2017 International Conference on Advanced Mechatronic Systems (ICAMechS), Xiamen, China, 2017, pp. 139-144, DOI: 10.1109/ICAMechS.2017.8316565
   * URL del los proceedings: https://ieeexplore.ieee.org/xpl/conhome/8308013/proceeding
   * Este congreso NO está indexado en CORE
 </details>
 
 <details markdown="block">
-<summary>(2017) Concept design and simulation of a water proofing modular robot for amphibious locomotion </summary>
+<summary>(2017) 🚩(Scopus) Concept design and simulation of a water proofing modular robot for amphibious locomotion </summary>
 * G. Li, R. Urbina, H. Zhang and J. G. Gomez, ["Concept design and simulation of a water proofing modular robot for amphibious locomotion,"](https://ieeexplore.ieee.org/document/8316566) 2017 International Conference on Advanced Mechatronic Systems (ICAMechS), Xiamen, China, 2017, pp. 145-150, doi: 10.1109/ICAMechS.2017.8316566
   * URL del los proceedings: https://ieeexplore.ieee.org/xpl/conhome/8308013/proceeding
   * Este congreso NO está indexado en CORE
@@ -168,8 +168,7 @@ storage devices for logging </summary>
 
 
 <details markdown="block">
-<summary>(2011) ⚡(CORE B) Motion control of differential wheeled robots with joint limit constraints </summary>  
-
+<summary>(2011) ⚡(CORE B) Motion control of differential wheeled robots with joint limit constraints </summary>
 * J. Gonzalez-Gomez, J. G. Victores, A. Valero-Gomez and M. Abderrahim, ["Motion control of differential wheeled robots with joint limit constraints,"](https://ieeexplore.ieee.org/abstract/document/6181351) 2011 IEEE International Conference on Robotics and Biomimetics, Karon Beach, Thailand, 2011, pp. 596-601, doi: 10.1109/ROBIO.2011.6181351.
   * [Citas según google scholar: 11](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=9425027559490395448)
 * Indexado en CORE
@@ -177,15 +176,20 @@ storage devices for logging </summary>
 </details>
 
 <details markdown="block">
-<summary>(2011) Central pattern generator control of a differential wheeled robot </summary>  
-
+<summary>(2011) 🚩(Scopus)Central pattern generator control of a differential wheeled robot </summary>
 * I. Urziceanu, F. Herrero-Carrón, J. González-Gómez, M. Niţulescu, F. de Borja Rodríguez and P. Varona, ["Central pattern generator control of a differential wheeled robot,"](https://ieeexplore.ieee.org/abstract/document/6085747) 15th International Conference on System Theory, Control and Computing, Sinaia, Romania, 2011, pp. 1-6.
 * Este congreso NO está indexado en CORE
 </details>
 
 <details markdown="block">
-<summary>(2010) Toward the sense of touch in snake modular robots for search and rescue operations </summary>
+<summary>(2011) Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot </summary>
+* Urziceanu Ionut, Pablo Varona, Francisco de Borja Rodriguez, Juan Gonzalez-Gomez, Fernando Hererro Carron, Mircea Nitulescu (2011), ["Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot"](https://ace.ucv.ro/analele/2011_vol2/14_Urziceanu_Ionut.pdf). Annals of the University of Craiova, International journal. Series: Automation, Computers, Electronics and Mechatronics, 2011, Vol 8(36), no. 2, pp. 82-92.  ISSN: 18410626
+* https://ace.ucv.ro/anale/
+* No indexada en JCR
+</details>
 
+<details markdown="block">
+<summary>(2010) Toward the sense of touch in snake modular robots for search and rescue operations </summary>
 * Juan Gonzalez-Gomez, Javier Gonzalez-quijano, Houxiang Zhang, Mohamed Abderrahim, "Toward the sense of touch in snake modular robots for search and rescue operations". In Proc of the ICRA 2010 workshop on modular robots: State of the art. pp. 63-68, May-3rd, Anchorage, Alaska
   * [Citas según google scholar: 36](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=2817297044232205007)
   * No indexado en CORE
@@ -193,25 +197,15 @@ storage devices for logging </summary>
 
 <details markdown="block">
 <summary>(2009) ⚡(CORE B) Task priority grasping and locomotion control of modular robot</summary>
-
 * G. Salvietti, H. X. Zhang, J. Gonzalez-Gómez, D. Prattichizzo and J. W. Zhang, ["Task priority grasping and locomotion control of modular robot,"](https://ieeexplore.ieee.org/abstract/document/5420861) 2009 IEEE International Conference on Robotics and Biomimetics (ROBIO), Guilin, China, 2009, pp. 1069-1074, doi: 10.1109/ROBIO.2009.5420861.
   * [Citas según google scholar: 14](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=6775952751764348090)
   * Indexado en CORE
   * Rank: B
 </details>
 
-<details markdown="block">
-<summary>(2011) Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot </summary>  
-
-* Urziceanu Ionut, Pablo Varona, Francisco de Borja Rodriguez, Juan Gonzalez-Gomez, Fernando Hererro Carron, Mircea Nitulescu (2011), ["Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot"](https://ace.ucv.ro/analele/2011_vol2/14_Urziceanu_Ionut.pdf). Annals of the University of Craiova, International journal. Series: Automation, Computers, Electronics and Mechatronics, 2011, Vol 8(36), no. 2, pp. 82-92.  ISSN: 18410626  
-* https://ace.ucv.ro/anale/
-* No indexada en JCR
-</details>
-
 
 <details markdown="block">
-<summary>(2009) A new application of modular robots on analysis of caterpillar-like locomotion</summary>
-
+<summary>(2009) 🚩(Scopus)A new application of modular robots on analysis of caterpillar-like locomotion</summary>
 * H. Zhang, J. Gonzalez-Gomez and J. Zhang, ["A new application of modular robots on analysis of caterpillar-like locomotion,"](https://ieeexplore.ieee.org/abstract/document/4957149) 2009 IEEE International Conference on Mechatronics, Malaga, Spain, 2009, pp. 1-6, doi: 10.1109/ICMECH.2009.4957149
   * [Citas según google scholar: 20](hhttps://scholar.google.com/scholar?oi=bibs&hl=es&cites=4144310798698425124)
     * Publicaciones destacadas que citan el artículo
@@ -228,15 +222,14 @@ storage devices for logging </summary>
 
 <details markdown="block">
 <summary>(2009) ⚡(CORE B) Embedded intelligent capability of a modular robotic system</summary>
-
 * H. X. Zhang, J. Gonzalez-Gomez, S. Y. Chen and J. W. Zhang, ["Embedded intelligent capability of a modular robotic system,"](https://ieeexplore.ieee.org/abstract/document/4913319) 2009 IEEE International Conference on Robotics and Biomimetics, Bangkok, Thailand, 2009, pp. 2061-2066, doi: 10.1109/ROBIO.2009.4913319
 </details>
 
 
 <details markdown="block">
-<summary>(2008) Development of a low-cost flexible modular robot GZ-I</summary>
-
+<summary>(2008) 🚩(Scopus) Development of a low-cost flexible modular robot GZ-I</summary>
 * Houxiang Zhang, Juan Gonzalez-Gomez, Zhizhu Me, Sheng Cheng and Jianwei Zhang, ["Development of a low-cost flexible modular robot GZ-I,"](https://ieeexplore.ieee.org/abstract/document/4601663) 2008 IEEE/ASME International Conference on Advanced Intelligent Mechatronics, Xian, 2008, pp. 223-228, doi: 10.1109/AIM.2008.4601663
+  * FWCI: 2.17
   * [Citas según google scholar: 66](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=117311230424210860,16143945972660947718)
   * Publicaciones destacadas que citan el artículo
     * Robotics and Autonomous Systems (2012)
@@ -262,9 +255,9 @@ storage devices for logging </summary>
 
 
 <details markdown="block">
-<summary>(2007) 🏆 A novel modular climbing caterpillar using low-frequency vibrating passive suckers</summary>
-
+<summary>(2007) 🚩(Scopus) 🏆 A novel modular climbing caterpillar using low-frequency vibrating passive suckers</summary>
 * H. X. Zhang; J. Gonzalez-Gomez; S.Y. Chen; W. Wang; R. Liu; D. Li; J. W. Zhang, ["A novel modular climbing caterpillar using low-frequency vibrating passive suckers,"](https://ieeexplore.ieee.org/abstract/document/4412523) 2007 IEEE/ASME international conference on advanced intelligent mechatronics, Zurich, Switzerland, 2007, pp. 1-6, doi: 10.1109/AIM.2007.4412523
+  * FWCI: 6.52
   * [Citas según google scholar: 29](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=3941588708448459685)
   * 🏆 This paper was finalist for the AIM 2007 Best Paper Award
   * Publicaciones destacadas que citan el artículo
@@ -286,8 +279,7 @@ storage devices for logging </summary>
 
 
 <details markdown="block">
-<summary>(2007) Locomotion Principles of 1D Topology Pitch and Pitch-Yaw-Connecting Modular Robots</summary>  
-
+<summary>(2007) Locomotion Principles of 1D Topology Pitch and Pitch-Yaw-Connecting Modular Robots</summary>
 *  J. Gonzalez-Gomez, H. Zhang, and E. Boemo, ["Locomotion Principles of 1D Topology Pitch and Pitch-Yaw-Connecting Modular Robots"](https://www.intechopen.com/chapters/460), Bioinspiration and Robotics Walking and Climbing Robots. I-Tech Education and Publishing, Sep. 01, 2007. doi: 10.5772/5513.
   * [Citas según google scholar: 59](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=11852853694557538991)
   * Publicaciones destacadas que citan el artículo
@@ -319,11 +311,8 @@ storage devices for logging </summary>
 </details>
 
 
-
-
 <details markdown="block">
   <summary>(2006) Locomotion Capabilities of a Modular Robot with Eight Pitch-Yaw-Connecting Modules</summary>  
-
 * J. Gonzalez-Gomez, Houxiang Zhang, Eduardo Boemo and Jianwei Zhang, ["Locomotion Capabilities of a Modular Robot with Eight Pitch-Yaw-Connecting Modules"](https://repositorio.uam.es/handle/10486/666993),Proc. of the 9th International Conference on Climbing and Walking Robots. Clawar06, pp. 150-157. Brussels, September 2006
   * [Citas según google scholar: 96](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=7933238640921871857)
   * Publicaciones destacadas que citan el artículo
@@ -362,15 +351,13 @@ storage devices for logging </summary>
 
 
 <details markdown="block">
-  <summary>(2006) Evaluation of a Locomotion Algorithm for Worm-Like Robots on FPGA-Embedded Processors</summary>  
-
+  <summary>(2006) 🚩(Scopus) Evaluation of a Locomotion Algorithm for Worm-Like Robots on FPGA-Embedded Processors</summary>  
 * Gonzalez-Gomez, J., Gonzalez, I., Gomez-Arribas, F., Boemo, E. (2006). ["Evaluation of a Locomotion Algorithm for Worm-Like Robots on FPGA-Embedded Processors"](https://link.springer.com/chapter/10.1007/11802839_4). In: Bertels, K., Cardoso, J.M.P., Vassiliadis, S. (eds) Reconfigurable Computing: Architectures and Applications. ARC 2006. Lecture Notes in Computer Science, vol 3985. Springer, Berlin, Heidelberg. doi: 10.1007/11802839_4
 </details>
 
 
 <details markdown="block">
-  <summary>(2006) 🏆 Motion of Minimal Configurations of a Modular Robot: Sinusoidal, Lateral Rolling and Lateral Shift</summary>  
-
+  <summary>(2006) 🚩(Scopus) 🏆 Motion of Minimal Configurations of a Modular Robot: Sinusoidal, Lateral Rolling and Lateral Shift</summary>  
 * Gonzalez-Gomez, J., Boemo, E. (2006). ["Motion of Minimal Configurations of a Modular Robot: Sinusoidal, Lateral Rolling and Lateral Shift"](https://doi.org/10.1007/3-540-26415-9_80). In: Tokhi, M.O., Virk, G.S., Hossain, M.A. (eds) Climbing and Walking Robots. Springer, Berlin, Heidelberg. Doi: 10.1007/3-540-26415-9_80
   * [Citas según google scholar: 36](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=11539521283850101037)
   * This paper received the “🏆 Industrial Robot Highly Commended Award”
@@ -391,7 +378,6 @@ storage devices for logging </summary>
 
 <details markdown="block">
   <summary>(2005) Locomotion of a Modular Worm-like Robot Using a FPGA-based Embedded MicroBlaze Soft-processor</summary>  
-
 * Gonzalez-Gomez, J., Aguayo, E., Boemo, E. (2005). ["Locomotion of a Modular Worm-like Robot Using a FPGA-based Embedded MicroBlaze Soft-processor"](https://link.springer.com/chapter/10.1007/3-540-29461-9_85). In: Climbing and Walking Robots. Springer, Berlin, Heidelberg. doi: 10.1007/3-540-29461-9_85
   * [Citas según google scholar: 44](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=4031571374279331794)
   * Publicaciones destacadas que citan el artículo
