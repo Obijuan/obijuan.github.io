@@ -197,8 +197,6 @@ storage devices for logging </summary>
   * Rank: B
 </details>
 
-## Pendientes de procesar
-
 <details markdown="block">
 <summary>(2011) Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot </summary>  
 
@@ -206,6 +204,7 @@ storage devices for logging </summary>
 * https://ace.ucv.ro/anale/
 * No indexada en JCR
 </details>
+
 
 <details markdown="block">
 <summary>(2009) A new application of modular robots on analysis of caterpillar-like locomotion</summary>
@@ -224,15 +223,11 @@ storage devices for logging </summary>
 </details>
 
 
-
 <details markdown="block">
-<summary>(2009) Embedded intelligent capability of a modular robotic system</summary>
+<summary>(2009) ⚡(CORE B) Embedded intelligent capability of a modular robotic system</summary>
 
 * H. X. Zhang, J. Gonzalez-Gomez, S. Y. Chen and J. W. Zhang, ["Embedded intelligent capability of a modular robotic system,"](https://ieeexplore.ieee.org/abstract/document/4913319) 2008 IEEE International Conference on Robotics and Biomimetics, Bangkok, Thailand, 2009, pp. 2061-2066, doi: 10.1109/ROBIO.2009.4913319
 </details>
-
-
-
 
 
 <details markdown="block">
