@@ -157,7 +157,7 @@ storage devices for logging </summary>
 </details>
 
 <details markdown="block">
-<summary>(2011) A new finger inverse kinematics method for an anthropomorphic hand (CORE B)</summary>  
+<summary>(2011) (CORE B) A new finger inverse kinematics method for an anthropomorphic hand </summary>  
 * C. Bensalah, M. Abderrahim and J. G. Gomez, ["A new finger inverse kinematics method for an anthropomorphic hand,"](https://ieeexplore.ieee.org/abstract/document/6181470) 2011 IEEE International Conference on Robotics and Biomimetics, Karon Beach, Thailand, 2011, pp. 1314-1319, doi: 10.1109/ROBIO.2011.6181470
 * Indexado en CORE
 * Rank: B
