@@ -110,14 +110,42 @@ storage devices for logging </summary>
 
 <details markdown="block">
 <summary>(2010) A Bio-Inspired Small-Sized Wall-Climbing Caterpillar Robot </summary>
-
 * H. Zhang, W. Wang, J. Gonzalez-Gomez, and J. Zhang, ["A Bio-Inspired Small-Sized Wall-Climbing Caterpillar Robot"](https://www.intechopen.com/chapters/10181), Mechatronic Systems Applications. InTech, Mar. 01, 2010. doi: 10.5772/8918
   * [Citas según google scholar: 11](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=9336606143984759468)
   * FWCI: 1.95
   * Citation percentile (by year/subfield): 86.96
 </details>
 
-
+<details markdown="block">
+<summary>(2007) Locomotion Principles of 1D Topology Pitch and Pitch-Yaw-Connecting Modular Robots</summary>
+*  J. Gonzalez-Gomez, H. Zhang, and E. Boemo, ["Locomotion Principles of 1D Topology Pitch and Pitch-Yaw-Connecting Modular Robots"](https://www.intechopen.com/chapters/460), Bioinspiration and Robotics Walking and Climbing Robots. I-Tech Education and Publishing, Sep. 01, 2007. doi: 10.5772/5513.
+  * [Citas según google scholar: 59](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=11852853694557538991)
+  * Publicaciones destacadas que citan el artículo
+    * Snake Robots. Modelling, Mechatronics, and Control (2013)
+    * Advanced Robotics (2x2009)
+    * Autonomous Robots (2009)
+    * IEEE Transactions on Robotics (2011)
+    * The International Journal of Robotics Research (2015)
+    * Multibody System Dynamics (2022)
+    * IEEE International Conference on Robotics and Automation (ICRA, 2010, 2x2013)
+    * Integrated Computer-Aided Engineering (2018)
+    * Applied Science (2019)
+    * 2019 5th International Conference on Control, Automation and Robotics (ICCAR)
+    * International Journal of Advanced Robotic Systems (2017, 2020)
+    * ICR 2017. Lecture Notes in Computer Science (2017)
+    * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS, 2011)
+    * IEEE International Conference on Information and Automation (ICIA, 2014)
+    * Journal of the Korean Society for Precision Engineering (2021)
+    * Advances in Computing. CCC 2017
+    * Robomech Journal (2023)
+    * A Visual Programming Approach for Co-designed Robots. Robotica (2021)
+    * IEEE International Conference on Robotics and Biomimetics (ROBIO 2008, 2x2010)
+    * IFAC-PapersOnLine (2016)
+    * Multi-sensor Module Design and Operation of Snake Robot for Narrow Space Exploration (2024)
+    * Bio-Inspired Locomotion Control of Limbless Robots (2023)
+    * International Conference on Advanced Mechatronic Systems (ICAMechS, 2017)
+    * IEEE International Conference on Industrial Technology (ICIT, 2015)
+</details>
 
 ## Artículos en Congresos indexados
 
@@ -296,8 +324,6 @@ storage devices for logging </summary>
 </details>
 
 
-
-
 <details markdown="block">
 <summary>(2010) Toward the sense of touch in snake modular robots for search and rescue operations </summary>
 * Juan Gonzalez-Gomez, Javier Gonzalez-quijano, Houxiang Zhang, Mohamed Abderrahim, "Toward the sense of touch in snake modular robots for search and rescue operations". In Proc of the ICRA 2010 workshop on modular robots: State of the art. pp. 63-68, May-3rd, Anchorage, Alaska
@@ -305,36 +331,7 @@ storage devices for logging </summary>
   * No indexado en CORE
 </details>
 
-<details markdown="block">
-<summary>(2007) Locomotion Principles of 1D Topology Pitch and Pitch-Yaw-Connecting Modular Robots</summary>
-*  J. Gonzalez-Gomez, H. Zhang, and E. Boemo, ["Locomotion Principles of 1D Topology Pitch and Pitch-Yaw-Connecting Modular Robots"](https://www.intechopen.com/chapters/460), Bioinspiration and Robotics Walking and Climbing Robots. I-Tech Education and Publishing, Sep. 01, 2007. doi: 10.5772/5513.
-  * [Citas según google scholar: 59](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=11852853694557538991)
-  * Publicaciones destacadas que citan el artículo
-    * Snake Robots. Modelling, Mechatronics, and Control (2013)
-    * Advanced Robotics (2x2009)
-    * Autonomous Robots (2009)
-    * IEEE Transactions on Robotics (2011)
-    * The International Journal of Robotics Research (2015)
-    * Multibody System Dynamics (2022)
-    * IEEE International Conference on Robotics and Automation (ICRA, 2010, 2x2013)
-    * Integrated Computer-Aided Engineering (2018)
-    * Applied Science (2019)
-    * 2019 5th International Conference on Control, Automation and Robotics (ICCAR)
-    * International Journal of Advanced Robotic Systems (2017, 2020)
-    * ICR 2017. Lecture Notes in Computer Science (2017)
-    * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS, 2011)
-    * IEEE International Conference on Information and Automation (ICIA, 2014)
-    * Journal of the Korean Society for Precision Engineering (2021)
-    * Advances in Computing. CCC 2017
-    * Robomech Journal (2023)
-    * A Visual Programming Approach for Co-designed Robots. Robotica (2021)
-    * IEEE International Conference on Robotics and Biomimetics (ROBIO 2008, 2x2010)
-    * IFAC-PapersOnLine (2016)
-    * Multi-sensor Module Design and Operation of Snake Robot for Narrow Space Exploration (2024)
-    * Bio-Inspired Locomotion Control of Limbless Robots (2023)
-    * International Conference on Advanced Mechatronic Systems (ICAMechS, 2017)
-    * IEEE International Conference on Industrial Technology (ICIT, 2015)
-</details>
+
 
 <details markdown="block">
   <summary>(2006) Locomotion Capabilities of a Modular Robot with Eight Pitch-Yaw-Connecting Modules</summary>
