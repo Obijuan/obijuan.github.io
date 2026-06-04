@@ -393,6 +393,13 @@ storage devices for logging </summary>
 
 # Publicaciones nacionales
 
+
+<details markdown="block">
+  <summary>(2011) Aprendizaje automático de modos de caminar para un robot humanoide</summary>
+* Francisco Rivas, José M. Cañas, Juan González. ["Aprendizaje automático de modos de caminar para un robot humanoide"](https://gsyc.urjc.es/jmplaza/papers/robot2011.pdf). In proceedings of Robot2011 III Workshop de Robótica: Robótica experimental, pp 120-127. Sevilla, 28-29 november 2011. ISBN 978-84-615-6787-4
+</details>
+
+ 
 <details markdown="block">
   <summary>(2010) Desarrollo de Robots modulares de tipo serpiente para búsqueda y rescate en entornos urbanos</summary>
 * Juan González-Gómez, Javier González-Quijano, Houxiang Zhang, Mohamed Abderrahim ["Desarrollo de Robots modulares de tipo serpiente para búsqueda y rescate en entornos urbanos"](http://www.iearobotics.com/wiki/index.php?title=Paper:2010-RoboCity-8-workshop-robots-exteriores). Capítulo de Libro (20), Centro de Automática y Robótica CSIC-UPM, ISBN: 978-84-614-5558-4, pp. 335-353.
