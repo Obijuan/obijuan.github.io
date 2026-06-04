@@ -391,7 +391,7 @@ storage devices for logging </summary>
 </details>
 
 
-# Publicaciones nacionales (Congresos, jornadas...)
+# Publicaciones nacionales
 
 <details markdown="block">
   <summary>(2005) Evaluación de un Algoritmo de Locomoción de Robots Ápodos en Diferentes Procesadores Embebidos en FPGA</summary>
