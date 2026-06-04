@@ -395,7 +395,7 @@ storage devices for logging </summary>
 
 <details markdown="block">
   <summary>(2010) Desarrollo de Robots modulares de tipo serpiente para búsqueda y rescate en entornos urbanos</summary>
-* J. Gonzalez-Gomez, I. Gonzalez, FJ. Gomez-Arribas y E. Boemo. ["Desarrollo de Robots modulares de tipo serpiente para búsqueda y rescate en entornos urbanos"](http://www.iearobotics.com/wiki/index.php?title=Paper:2010-RoboCity-8-workshop-robots-exteriores). Capítulo de Libro (20), Centro de Automática y Robótica CSIC-UPM, ISBN: 978-84-614-5558-4, pp. 335-353.
+* Juan González-Gómez, Javier González-Quijano, Houxiang Zhang, Mohamed Abderrahim ["Desarrollo de Robots modulares de tipo serpiente para búsqueda y rescate en entornos urbanos"](http://www.iearobotics.com/wiki/index.php?title=Paper:2010-RoboCity-8-workshop-robots-exteriores). Capítulo de Libro (20), Centro de Automática y Robótica CSIC-UPM, ISBN: 978-84-614-5558-4, pp. 335-353.
 </details>
 
 
