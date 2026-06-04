@@ -391,9 +391,30 @@ storage devices for logging </summary>
 </details>
 
 
-# Publicaciones nacionales
+# Publicaciones nacionales (Congresos, jornadas...)
 
+<details markdown="block">
+  <summary>(2005) Evaluación de un Algoritmo de Locomoción de Robots Ápodos en Diferentes Procesadores Embebidos en FPGA</summary>
+* J. Gonzalez-Gomez, I. Gonzalez, FJ. Gomez-Arribas y E. Boemo. ["Evaluación de un Algoritmo de Locomoción de Robots Ápodos en Diferentes Procesadores Embebidos en FPGA"](http://www.iearobotics.com/personal/juan/publicaciones/art11/index.html). V Jornadas de Computacion Reconfigurable y Aplicaciones. JCRA 2005. Dentro del Primer Congreso Espanol de Informatica, CEDI 2005. Granada, Septiembre 2005. pp. 109-116
+</details>
 
+* De Blas Foix, X, Gonzalez-Gomez, J, Proyecto Chronojump: Sistema de Medida y Gestión de la Capacidad de Salto usando Software y Hardware Libres” , I Congreso de Tecnologías de Software Libre, CTSL 2005, Factultad de Informática, A Coruña. Julio 2005
+
+* González-Gómez, J y Andres Prieto-Moreno Torres.,”Hardware libre: la Tarjeta Skypic, una Entrenadora para Microcontroladores PIC", I Congreso de Tecnologías de Software Libre, CTSL 2005, Factultad de Informática, A Coruña. Julio 2005.
+
+* González-Gómez, J, Aguayo E. y Boemo E.,”Locomoción de un Robot Ápodo Modular con el Procesador MicroBlaze", IV Jornadas sobre Computación Reconfigurable y Aplicaciones, JCRA04, Escuela Técnica Superior de Ingenierías. Universidad Autónoma de Barcelona, Septiembre 2004.
+
+* González-Gómez, J, "Simulación de Diseños VHDL con Software Libre: La Herramienta GHDL", IV Jornadas sobre Computación Reconfigurable y Aplicaciones, JCRA04, Escuela Técnica Superior de Ingenierías. Universidad Autónoma de Barcelona, Septiembre 2004.
+
+* Juan González, Andrés Prieto-Moreno, "Herramientas hardware y software para el desarrollo de aplicaciones con Microcontroladores PIC bajo plataformas GNU/Linux", III Jornadas de Software Libre, Universidad Pontificia de Salamanca en Madrid. Mayo 2004.
+
+* Ivan González, Juan González, Francisco Gómez-Arribas, "Hardware libre: clasificación y desarrollo de hardware reconfigurable en entornos GNU/Linux", VI Congreso de Hispalinux, Universidad Rey Juan Carlos I, Septiembre 2003.
+
+* FJ. Gómez-Arribas, I. González I, J. González y J. Martínez, ``Laboratorio Web para Prototipado y Verificación de Sistemas Hardware/Software''. III Jornadas sobre Computación Reconfigurable y Aplicaciones, JCRA03, Escuela Politécnica Superior, Universidad Autónoma de Madrid, Septiembre 2003.
+
+* J. González, I. González, E. Boemo, "Alternativas Hardware para la Locomoción de un Robot Ápodo'', III Jornadas sobre Computación Reconfigurable y Aplicaciones, JCRA03, Escuela Politécnica Superior, Universidad Autónoma de Madrid, Septiembre 2003.
+
+* J. González, P. Haya, S. Lopez-Buedo y E. Boemo, "Tarjeta entrenadora para FPGA, basada en hardware abierto", Seminario Hispabot 2003, Alcalá de Henares, Madrid, Mayo 2003.
 
 🚧 TODO 🚧
 
