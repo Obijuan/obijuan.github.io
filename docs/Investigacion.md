@@ -394,6 +394,12 @@ storage devices for logging </summary>
 # Publicaciones nacionales
 
 <details markdown="block">
+  <summary>(2010) Desarrollo de Robots modulares de tipo serpiente para búsqueda y rescate en entornos urbanos</summary>
+* J. Gonzalez-Gomez, I. Gonzalez, FJ. Gomez-Arribas y E. Boemo. ["Desarrollo de Robots modulares de tipo serpiente para búsqueda y rescate en entornos urbanos"](http://www.iearobotics.com/wiki/index.php?title=Paper:2010-RoboCity-8-workshop-robots-exteriores). Capítulo de Libro (20), Centro de Automática y Robótica CSIC-UPM, ISBN: 978-84-614-5558-4, pp. 335-353.
+</details>
+
+
+<details markdown="block">
   <summary>(2005) Evaluación de un Algoritmo de Locomoción de Robots Ápodos en Diferentes Procesadores Embebidos en FPGA</summary>
 * J. Gonzalez-Gomez, I. Gonzalez, FJ. Gomez-Arribas y E. Boemo. ["Evaluación de un Algoritmo de Locomoción de Robots Ápodos en Diferentes Procesadores Embebidos en FPGA"](http://www.iearobotics.com/personal/juan/publicaciones/art11/index.html). V Jornadas de Computacion Reconfigurable y Aplicaciones. JCRA 2005. Dentro del Primer Congreso Espanol de Informatica, CEDI 2005. Granada, Septiembre 2005. pp. 109-116
 </details>
