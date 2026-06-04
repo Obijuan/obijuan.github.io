@@ -414,7 +414,11 @@ storage devices for logging </summary>
 
 * J. González, I. González, E. Boemo, "Alternativas Hardware para la Locomoción de un Robot Ápodo'', III Jornadas sobre Computación Reconfigurable y Aplicaciones, JCRA03, Escuela Politécnica Superior, Universidad Autónoma de Madrid, Septiembre 2003.
 
-* J. González, P. Haya, S. Lopez-Buedo y E. Boemo, "Tarjeta entrenadora para FPGA, basada en hardware abierto", Seminario Hispabot 2003, Alcalá de Henares, Madrid, Mayo 2003.
+
+<summary>(2003) Tarjeta entrenadora para FPGA, basada en hardware abierto</summary>
+* J. González, P. Haya, S. Lopez-Buedo y E. Boemo. ["Tarjeta entrenadora para FPGA, basada en hardware abierto"](http://www.iearobotics.com/personal/juan/publicaciones/art1/index.html). Seminario Hispabot 2003, Alcalá de Henares, Madrid, Mayo 2003.
+</details>
+
 
 🚧 TODO 🚧
 
