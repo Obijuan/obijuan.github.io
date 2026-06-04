@@ -401,7 +401,7 @@ storage devices for logging </summary>
 
 <details markdown="block">
 <summary>(2005) Proyecto Chronojump: Sistema de Medida y Gestión de la Capacidad de Salto usando Software y Hardware Libres</summary>
-* De Blas Foix, X, Gonzalez-Gomez, J, [Proyecto Chronojump: Sistema de Medida y Gestión de la Capacidad de Salto usando Software y Hardware Libres](http://www.iearobotics.com/personal/juan/publicaciones/art10/index.html) , I Congreso de Tecnologías de Software Libre, CTSL 2005, Factultad de Informática, A Coruña. Julio 2005
+* De Blas Foix, X, Gonzalez-Gomez, J, [Proyecto Chronojump: Sistema de Medida y Gestión de la Capacidad de Salto usando Software y Hardware Libres](https://dialnet.unirioja.es/servlet/articulo?codigo=3778468), [URL2](http://www.iearobotics.com/personal/juan/publicaciones/art10/index.html) , I Congreso de Tecnologías de Software Libre, CTSL 2005, Factultad de Informática, A Coruña. Julio 2005
 </details>
 
 
