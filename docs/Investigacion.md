@@ -407,7 +407,7 @@ storage devices for logging </summary>
 
 <details markdown="block">
 <summary>(2005) Hardware libre: la Tarjeta Skypic, una Entrenadora para Microcontroladores PIC</summary>
-* González-Gómez, J y Andres Prieto-Moreno Torres.,[Hardware libre: la Tarjeta Skypic, una Entrenadora para Microcontroladores PIC](http://www.iearobotics.com/personal/juan/publicaciones/art9/index.html), I Congreso de Tecnologías de Software Libre, CTSL 2005, Factultad de Informática, A Coruña. Julio 2005.
+* González-Gómez, J y Andres Prieto-Moreno Torres.,[Hardware libre: la Tarjeta Skypic, una Entrenadora para Microcontroladores PIC](https://dialnet.unirioja.es/servlet/articulo?codigo=3775911), [URL2](http://www.iearobotics.com/personal/juan/publicaciones/art9/index.html), I Congreso de Tecnologías de Software Libre, CTSL 2005, Factultad de Informática, A Coruña. Julio 2005.
 </details>
 
 <details markdown="block">
