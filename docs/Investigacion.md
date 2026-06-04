@@ -36,7 +36,7 @@ layout: default
 ## Revistas
 
 <details markdown="block">
-<summary>(2025) The Reverse File System: Towards open cost-effective secure WORM
+<summary>(2025) ⭐(JCR, Q1) The Reverse File System: Towards open cost-effective secure WORM
 storage devices for logging </summary>
 * Guardiola Múzquiz, Gorka & Gonzalez-Gomez, Juan & Soriano-Salvador, Enrique ["The Reverse File System: Towards open cost-effective secure WORM storage devices for logging"](https://doi.org/10.1016/j.cose.2025.104786). Computers & Security 162, 104786.  DOI: 10.1016/j.cose.2025.104786
   * Abreviatura JCR: COMPUT SECUR
@@ -48,7 +48,7 @@ storage devices for logging </summary>
 
 
 <details markdown="block">
-<summary>(2013) A new paradigm for open robotics research and education with the C++ OOML </summary>
+<summary>(2013) ⭐(JCR, Q2) A new paradigm for open robotics research and education with the C++ OOML </summary>
 * Valero-Gómez, A., González-Gómez, J. & Treviño, R. ["A new paradigm for open robotics research and education with the C++ OOML"](https://doi.org/10.1007/s10514-013-9324-5). Autonomous Robots 34, 233–249 (2013).  DOI: 10.1007/s10514-013-9324-5
   * Abreviatura JCR: AUTON ROBOT
   * ISSN: 0929-5593
@@ -58,8 +58,14 @@ storage devices for logging </summary>
 </details>
 
 <details markdown="block">
-<summary>(2009) Design and Realization of a Novel Modular Climbing Caterpillar Using Low-Frequency Vibrating Passive Suckers</summary>
+<summary>(2011) Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot </summary>
+* Urziceanu Ionut, Pablo Varona, Francisco de Borja Rodriguez, Juan Gonzalez-Gomez, Fernando Hererro Carron, Mircea Nitulescu (2011), ["Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot"](https://ace.ucv.ro/analele/2011_vol2/14_Urziceanu_Ionut.pdf). Annals of the University of Craiova, International journal. Series: Automation, Computers, Electronics and Mechatronics, 2011, Vol 8(36), no. 2, pp. 82-92.  ISSN: 18410626
+* https://ace.ucv.ro/anale/
+* No indexada en JCR
+</details>
 
+<details markdown="block">
+<summary>(2009) ⭐(JCR, Q4) Design and Realization of a Novel Modular Climbing Caterpillar Using Low-Frequency Vibrating Passive Suckers</summary>
 * Zhang, H., Wang, W., González-Gómez, J., & Zhang, J. (2009). ["Design and Realization of a Novel Modular Climbing Caterpillar Using Low-Frequency Vibrating Passive Suckers"](https://doi.org/10.1163/156855309X442990). Advanced Robotics, 23(7–8), 889–906. doi: 10.1163/156855309X442990
 
   * JCR Abreviation: ADV ROBOTICS
@@ -71,7 +77,7 @@ storage devices for logging </summary>
 </details>
 
 <details markdown="block">
-<summary>(2009) Validity Of New Chronopic V.3 Open Hardware To Measure Time On Jump Related Tests: 1583</summary>
+<summary>(2009) ⭐(JCR, Q1) Validity Of New Chronopic V.3 Open Hardware To Measure Time On Jump Related Tests: 1583</summary>
 
 * De Blas Foix, Xavier & Gonzalez-Gomez, Juan & Gómez, Ricardo. (2009). [Validity Of New Chronopic V.3 Open Hardware To Measure Time On Jump Related Tests: 1583](http://dx.doi.org/10.1249/01.MSS.0000354748.26079.1a). Medicine and Science in Sports and Exercise - MED SCI SPORT EXERCISE. 41. Doi, 10.1249/01.MSS.0000354748.26079.1a. 
   * JCR Abreviation: MED SCI SPORT EXER
@@ -95,9 +101,9 @@ storage devices for logging </summary>
   * Online ISBN: 978-3-642-27482-4
 </details>
 
+
 <details markdown="block">
 <summary>(2011) A Distributed Neural Controller for Locomotion in Linear Modular Robotic Configurations </summary>
-
 * A Ranganath, J Gonzalez-Gomez, LM Lorente (2011), ["A Distributed Neural Controller for Locomotion in Linear Modular Robotic Configurations"](https://www.avinashranganath.com/files/DistributedNeuralControllerForLocomotionInLinearModularRoboticConfigurations.pdf), Book chapter (VII), ISBN: 978-84-7484-238-8. Centro de automática y Robótica CSIC-UPM, pp. 129-144.
 * ISBN: 978-84-7484-238-8
 </details>
@@ -130,7 +136,7 @@ storage devices for logging </summary>
 </details>
 
 <details markdown="block">
-<summary>(2012) ⭐(Scopus, Q4) Printable creativity in plastic valley UC3M </summary>
+<summary>(2012) 🚩🚩(Scopus, Q4) Printable creativity in plastic valley UC3M </summary>
 * A. Valero-Gómez, J. González-Gómez, V. González-Pacheco and M. A. Salichs, ["Printable creativity in plastic valley UC3M,"](https://ieeexplore.ieee.org/abstract/document/6201151) Proceedings of the 2012 IEEE Global Engineering Education Conference (EDUCON), Marrakech, Morocco, 2012, pp. 1-9, doi: 10.1109/EDUCON.2012.6201151
 * [Citas según google scholar: 18](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=11054451899512555043)
   * FWCI: 3.14
@@ -138,7 +144,7 @@ storage devices for logging </summary>
 </details>
 
 <details markdown="block">
-<summary>(2012) ⭐(Scopus, Q4) Boosting mechanical design with the C++ OOML and open source 3D printers </summary>
+<summary>(2012) 🚩🚩(Scopus, Q4) Boosting mechanical design with the C++ OOML and open source 3D printers </summary>
 * A. Valero-Gómez, J. González-Gómez, M. Almagro and M. A. Salichs, ["Boosting mechanical design with the C++ OOML and open source 3D printers,"](https://ieeexplore.ieee.org/abstract/document/6201114) Proceedings of the 2012 IEEE Global Engineering Education Conference (EDUCON), Marrakech, Morocco, 2012, pp. 1-7, doi: 10.1109/EDUCON.2012.6201114
 * [Citas según google scholar: 12](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=7182809676631199301)
 * 48th percentile
@@ -290,12 +296,7 @@ storage devices for logging </summary>
 </details>
 
 
-<details markdown="block">
-<summary>(2011) Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot </summary>
-* Urziceanu Ionut, Pablo Varona, Francisco de Borja Rodriguez, Juan Gonzalez-Gomez, Fernando Hererro Carron, Mircea Nitulescu (2011), ["Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot"](https://ace.ucv.ro/analele/2011_vol2/14_Urziceanu_Ionut.pdf). Annals of the University of Craiova, International journal. Series: Automation, Computers, Electronics and Mechatronics, 2011, Vol 8(36), no. 2, pp. 82-92.  ISSN: 18410626
-* https://ace.ucv.ro/anale/
-* No indexada en JCR
-</details>
+
 
 <details markdown="block">
 <summary>(2010) Toward the sense of touch in snake modular robots for search and rescue operations </summary>
