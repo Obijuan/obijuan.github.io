@@ -36,6 +36,16 @@ layout: default
 ## Revistas
 
 <details markdown="block">
+<summary>(2026) ⭐(JCR, Q3) User-space library rootkits revisited: Are user-space detection mechanisms futile? </summary>
+* Enrique Soriano-Salvador, Gorka Guardiola Múzquiz, Juan González Gómez ["User-space library rootkits revisited: Are user-space detection mechanisms futile?"](https://arxiv.org/abs/2506.07827). Journal of Computer Virology and Hacking Techniques (En prensa)
+  * Abreviatura JCR: J COMPUT VIROL HACK
+  * e-ISSN: todo
+  * JIF (2025): todo
+  * JIF Ranking: 171 / 229. Computer Science, Information Systems / Computer Science, Software Engineering
+  * Q3 / T2 (2025)
+</details>
+
+<details markdown="block">
 <summary>(2025) ⭐(JCR, Q1) The Reverse File System: Towards open cost-effective secure WORM
 storage devices for logging </summary>
 * Guardiola Múzquiz, Gorka & Gonzalez-Gomez, Juan & Soriano-Salvador, Enrique ["The Reverse File System: Towards open cost-effective secure WORM storage devices for logging"](https://doi.org/10.1016/j.cose.2025.104786). Computers & Security 162, 104786.  DOI: 10.1016/j.cose.2025.104786
