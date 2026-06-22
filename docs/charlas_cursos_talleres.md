@@ -25,10 +25,9 @@ layout: default
 
 <details markdown="block">
 <summary>(2021) FPGAs Libres: Compartiendo Hardware</summary>
-* Jornadas Hardware Livre Brasil-Espanha
+* [Jornadas Hardware Livre Brasil-Espanha](https://www.educacionfpydeportes.gob.es/brasil/pt_BR/formacion-becas/formacion-del-profesorad/talleres-tecnicos/talleres-hardware-libre.html). Web del ministerio de Educacion, Formación profesional y Deportes
 * Sesion remota
 * Fecha: 11-Sep-2021
-* [Jornadas en la web del ministerio de Educacion, Formación profesional y Deportes](https://www.educacionfpydeportes.gob.es/brasil/pt_BR/formacion-becas/formacion-del-profesorad/talleres-tecnicos/talleres-hardware-libre.html)
 * [Material usado (PDF)](https://github.com/Obijuan/myslides/blob/master/2021-09-11-FPGAs-Libres-Jornadas-Hw-Libre-Brasil/2021-09-11-FPGAs-libres-Brasil.pdf?raw=true)
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2021-09-11-FPGAs-Libres-Jornadas-Hw-Libre-Brasil)
 </details>
