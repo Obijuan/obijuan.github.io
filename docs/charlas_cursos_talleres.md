@@ -26,10 +26,26 @@ layout: default
 <details markdown="block">
 <summary>(2021) FPGAs Libres: Compartiendo Hardware</summary>
 * [Jornadas Hardware Livre Brasil-Espanha](https://www.educacionfpydeportes.gob.es/brasil/pt_BR/formacion-becas/formacion-del-profesorad/talleres-tecnicos/talleres-hardware-libre.html). Web del ministerio de Educacion, Formación profesional y Deportes
-* Sesion remota
-* Fecha: 11-Sep-2021
+* **Organiza**: Embajada de España en Brasil
+* **Descripción de las Jornadas**:
+  
+```Este seminario online y gratuito abordará el hardware libre y sus filosofías, así como diferentes plataformas y su aplicación didática. El seminario busca ser un intercambio de experiencias sobre el hardware libre entre España y Brasil, así como incentivar la cultura maker y el conocimiento y uso del hardware libre entre los profesores y alumnos brasileños.
+
+La jornada será transmitida online en el canal de YouTube de la Consejería de Educación de la Embajada de España. Para obtener el certificado de 3 horas es necesario registrarse con antelación y asistir a la transmisión en vivo, confirmando la asistencia en nuestra plataforma```
+* **Fecha**: 11-Sep-2021
+* **Ponentes**:
+  * David Cuartielles
+  * Marcelo Zuffo
+  * Juan González Gómez (Obijuan)
+  * Marcos Laureano
+  * Christiane Santos
+  * Chrisitian Brackmann
+* **Ponencia**: FPGAs Libres: Compartiendo Hardware
+* **Duración**: 30 minutos
 * [Material usado (PDF)](https://github.com/Obijuan/myslides/blob/master/2021-09-11-FPGAs-Libres-Jornadas-Hw-Libre-Brasil/2021-09-11-FPGAs-libres-Brasil.pdf?raw=true)
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2021-09-11-FPGAs-Libres-Jornadas-Hw-Libre-Brasil)
 </details>
+
+
 
 🚧 TODO 🚧
