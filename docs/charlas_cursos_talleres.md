@@ -228,7 +228,16 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-17-Ubeda-ICT-world)
 </details>
 
-
+<details markdown="block">
+<summary>(2017) "Electrónica Digital Divertida con FPGAs libres". Universidad Europea de Madrid
+</summary>
+* **Organiza**: [Universidad Europeoa de Madrid](https://universidadeuropea.com)
+* * **Duración**: 1 hora
+* **Lugar**: Universidad Europea de Madrid. Campus de Villaviciosa de Odón
+* **Fecha**: 15-Nov-2017
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-11-15-UEM-FPGAs-libres/2017-11-15-UEM-FPGAs-libres.pdf?raw=true)
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-15-UEM-FPGAs-libres)
+</details>
 
 
 🚧 TODO 🚧
@@ -236,11 +245,6 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 <details markdown="block">
 <summary> TODO 2017
 </summary>
-
-
-
-
-2017/Nov/15: "Electrónica Digital Divertida con FPGAs libres". Universidad Europea de Madrid. Campus de Villaviciosa de Odón (Madrid) (Más información) (sin wiki)
 
 2017/Nov/11: "Demos con FPGAs Libres". OSHWDEM, Museo Domus, La coruña (Más información)
 
