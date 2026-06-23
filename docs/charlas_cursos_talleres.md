@@ -105,9 +105,9 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary>🟢(2018) "Robótica, Arduino y Hardware Libre". Cursos de verano de la Universidad de Cantabria
+<summary>🟢(2018) "Electrónica divertida con FPGAs Libres". Cursos de verano de la Universidad de Cantabria
 </summary>
-* **Evento**: Cursos de verano de la Universidad de Cantabria
+* **Evento**: "Robótica, Arduino y Harware Libre". Cursos de verano de la Universidad de Cantabria
 * **Organiza**: Universidad de Cantabria
 * **Fecha**: 2-Julio-2018
 * **Duración charla**: 2h
@@ -115,6 +115,21 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Transparencias (PDF) de la presentación](https://github.com/Obijuan/myslides/blob/master/2018-07-UC-FPGAs-libres/2018-07-5-Curso-Verano-UC-FPGAs-libres.pdf)
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2018-07-UC-FPGAs-libres)
 </details>
+
+<details markdown="block">
+<summary>(2018) "Electrónica digital divertida con FPGAs". 1er Campamento Tecnológico Universitario para alumnos de Institutos de Educación Secundaria
+</summary>
+* **Evento**: [I campamento Tecnológico Universitario para alumnos de Instituos de Educación Secuencia](https://www.urjc.es/estudios/grado/3384-1er-campamento-tecnologico-universitario-para-alumnos-de-institutos-de-educacion-secundaria)
+* **Organiza**: [Escuela de Ingeniería de Fuenlabrada](https://www.urjc.es/eif)
+* **Fecha**: 12-Junio-2018
+* **Duración**: 4h
+* **Lugar**: EIF, URJC. Campus de Fuenlabrada
+* [Transparencias (PDF) de la presentación](https://github.com/Obijuan/myslides/blob/master/2018-06-12-FPGA-Campamento-tecnologico-ETSI-URJC/2018-06-12-FPGA-ETSI-URJC.pdf?raw=true)
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2018-06-12-FPGA-Campamento-tecnologico-ETSI-URJC)
+</details>
+
+
+
 
 🚧 TODO 🚧
 
