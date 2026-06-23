@@ -24,6 +24,18 @@ layout: default
 # Charlas invitadas
 
 <details markdown="block">
+<summary>(2025) "Software y Hardware libres con ObiJuan". Cafés con OfiLibre. URJC </summary>
+* **Participantes**:
+  * Tomás Zarza. Coord. Académico Publicaciones en OfiLibre
+  * Jesús María González Barahona. Coord.Académico OfiLibre
+  * Juan González Gómez. Ponente invitado
+* [Vídeo en TV-URJC](https://tv.urjc.es/video/69314778ae7edf6797270002)
+* [Más información](https://tv.urjc.es/video/69314778ae7edf6797270002)  
+</details>
+
+
+
+<details markdown="block">
 <summary>(2023) "Open-source hardware for Root-of-Trust components". Panel of experts. IMSE-CNM
 </summary>
 * **Evento**: [Panel de expertos](http://www.imse-cnm.csic.es/docs/noticias/20231207_GoIT_panel_imse.pdf_original). Dentro del paquete de trabajo 6 dedicado a incentivar el uso de repositorios abiertos para raíces de confianza hardware (open hw RoTs)
