@@ -195,13 +195,23 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-23-Hisparob-ERW2017)
 </details>
 
+<details markdown="block">
+<summary>(2017) "Electrónica digital divertida con FPGAs Libres". Seminario en Máster de profesorado en la URJC
+</summary>
+* **Evento**: Charla dada dentro de la asignatura de máster: "Innovación del máster de profesorado de secundaria, especialidad de Tecnología e Informática"
+* **Lugar**: URJC, campus de Fuenlabrada
+* **Fecha**: 21-Nov-2017
+* **Duración**: 50 minutos
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-11-21-URJC-innovacion-master-profesorado/2017-11-21-URJC-Master-profesorado-FPGAs-libres.pdf?raw=true)
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-21-URJC-innovacion-master-profesorado)  
+</details>
+
 🚧 TODO 🚧
 
 <details markdown="block">
 <summary> TODO 2017
 </summary>
 
-2017/Nov/21: "Electrónica digital divertida con FPGAs Libres". Seminario en Máster de profesorado en la Universidad Rey Juan Carlos (URJC). Campus de fuenlabrada (Más información) (sin wiki)
 
 2017/Nov/20: "Electrónica digital divertida con FPGAs Libres". Seminario de grado. ETSI Telecomunicación, Universidad Rey Juan Carlos (URJC). Campus de Fuenlabrada (Más información) (sin wiki)
 
