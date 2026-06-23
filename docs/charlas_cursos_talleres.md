@@ -142,7 +142,17 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2018-05-11-Granabot-Electr%C3%B3nica-digital-divertida-FPGAs-libres)
 </details>
 
-
+<details markdown="block">
+<summary>(2018) "Funny Digital Electronics with Open Source FPGAs". FOSDEM'18
+</summary>
+* **Event**: [FOSDEM 2018](https://archive.fosdem.org/2018/)
+* **Lugar**: Universite Libre de Bruxeles (Bruselas)
+* **Fecha**: 3-Feb-2018
+* [Más información sobre la charla](https://archive.fosdem.org/2018/schedule/event/cad_os_fpga/)
+* [Video en Youtube](https://www.youtube.com/watch?v=htzwNUMHcug)
+* [Transparencias PDF](https://archive.fosdem.org/2018/schedule/event/cad_os_fpga/attachments/slides/2066/export/events/attachments/cad_os_fpga/slides/2066/2018_02_03_FOSDEM_LibreFPGA.pdf)
+* [Más información en el repositorio](https://github.com/Obijuan/myslides/tree/master/2018-02-03-Funny-digital-electronics-OpenSource-FPGA-Fosdem)
+</details>
 
 
 🚧 TODO 🚧
