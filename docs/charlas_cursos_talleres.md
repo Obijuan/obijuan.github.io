@@ -192,7 +192,7 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * **Resumen**:
 ```Presentación de las líneas de investigación que se están llevando en el grupo de Robótica de la URJC```
 * [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-11-23-Hisparob-ERW2017/2017-11-23-EURW-URJC.pdf?raw=true)
-* [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-23-Hisparob-ERW2017)  
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-23-Hisparob-ERW2017)
 </details>
 
 🚧 TODO 🚧
@@ -200,7 +200,6 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 <details markdown="block">
 <summary> TODO 2017
 </summary>
-* 2017/Nov/23: "Grupo de Robótica de la URJC". European Robotics Week. Hisparob. Universidad Rey Juan Carlos (URJC). Campus de fuenlabrada (Más información) (Sin wiki)
 
 2017/Nov/21: "Electrónica digital divertida con FPGAs Libres". Seminario en Máster de profesorado en la Universidad Rey Juan Carlos (URJC). Campus de fuenlabrada (Más información) (sin wiki)
 
