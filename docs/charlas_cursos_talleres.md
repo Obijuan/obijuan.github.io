@@ -25,15 +25,16 @@ layout: default
 
 <details markdown="block">
 <summary>(2025) "Software y Hardware libres con ObiJuan". Cafés con OfiLibre. URJC </summary>
+* **Fecha**: 3-Dic-2025
+* **Organiza**: [OfiLibre URJC](https://ofilibre.urjc.es/ofilibre/): Oficina de Conocimiento y Cultura libre de la URJC
+* **Lugar**: URJC. Campus de Móstoles
 * **Participantes**:
   * Tomás Zarza. Coord. Académico Publicaciones en OfiLibre
   * Jesús María González Barahona. Coord.Académico OfiLibre
   * Juan González Gómez. Ponente invitado
 * [Vídeo en TV-URJC](https://tv.urjc.es/video/69314778ae7edf6797270002)
-* [Más información](https://tv.urjc.es/video/69314778ae7edf6797270002)  
+* [Más información](https://tv.urjc.es/video/69314778ae7edf6797270002)
 </details>
-
-
 
 <details markdown="block">
 <summary>(2023) "Open-source hardware for Root-of-Trust components". Panel of experts. IMSE-CNM
@@ -42,6 +43,7 @@ layout: default
 * **Organiza**: [El Instituto de Microelectrónica de Sevilla (IMSE-CNM)](http://www.imse-cnm.csic.es/es/introduccion.php)
 * **Fecha**: 2023/12/14
 * **Hora**: 11:30 - 13h
+* **Lugar**: Instituto de Microelectrónica de Sevilla (IMSE-CNM)
 * [Panel slides](https://github.com/Obijuan/myslides/blob/master/2023-12-14-IMSE-CNM-Panel/PANEL_slides.pdf?raw=true)  
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2023-12-14-IMSE-CNM-Panel)
 </details>
@@ -85,14 +87,22 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 
 <details markdown="block">
 <summary>(2019) "Software y Hardware Libres: Proyectos en comunidad". Universidad Europea de Madrid</summary>
-* **Organiza**: [Universidad Europeoa de Madrid](https://universidadeuropea.com)  
+* **Organiza**: [Universidad Europeoa de Madrid](https://universidadeuropea.com)
 * **Duración**: 1 hora
 * **Lugar**: Universidad Europea. Campus de Alcobendas
 * [Transparencias de la charla (PDF)](https://github.com/Obijuan/myslides/blob/master/2019-11-05-UEM-soft-hw-libres/2019-11-05-UEM-sw-hw-libres.pdf?raw=true)
-* [Más información](https://github.com/Obijuan/myslides/tree/master/2019-11-05-UEM-soft-hw-libres)  
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2019-11-05-UEM-soft-hw-libres)
 </details>
 
-
+<details markdown="block">
+<summary> (2019) FPGAs Libres: Compartiendo Hardware. Día del software Libre. URJC</summary>
+* **Evento**: [Día del Software Libre](https://ofilibre.urjc.es/blog/dia-software-libre/)
+* **Fecha**: 15-Sep-2019
+* **Organiza**: [OfiLibre URJC](https://ofilibre.urjc.es/ofilibre/): Oficina de Conocimiento y Cultura libre de la URJC
+* [Presentaciones y ponentes](https://ofilibre.urjc.es/blog/dia-software-libre-pres/)
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2019-09-23-dia-soft-libre-URJC/2019-09-23-dia-soft-libre-URJC.pdf) de la presentación
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2019-09-23-dia-soft-libre-URJC)
+</details>
 
 
 # Ponencias en congresos Nacionales
