@@ -239,14 +239,23 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-15-UEM-FPGAs-libres)
 </details>
 
+<details markdown="block">
+<summary>🟢(2017) "Demos con FPGAs Libres". OSHWDEM, Museo Domus, La coruña
+</summary>
+* **Evento**: [OSHDEM 2017](https://www.oshwdem.org/talleres-2017/)
+* **Duración**: 1h
+* * **Fecha**: 11-Nov-2017
+* [Vídeo resumen del evento](https://www.youtube.com/watch?v=lJCwZ0sXCH8)
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-11-11-OSHWDEM/2017-11-11-OSHWDEM-2017.pdf?raw=true)
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-11-OSHWDEM)  
+</details>
+
 
 🚧 TODO 🚧
 
 <details markdown="block">
 <summary> TODO 2017
 </summary>
-
-2017/Nov/11: "Demos con FPGAs Libres". OSHWDEM, Museo Domus, La coruña (Más información)
 
 2017/Nov/07: "Grupo de Robótica de la URJC". Semana de la ciencia en la URJC, Campus de fuenlabrada, Madrid (Más información) (sin wiki)
 
