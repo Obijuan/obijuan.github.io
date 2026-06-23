@@ -95,7 +95,7 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary> (2019) FPGAs Libres: Compartiendo Hardware. Día del software Libre. URJC</summary>
+<summary>(2019) FPGAs Libres: Compartiendo Hardware. Día del software Libre. URJC</summary>
 * **Evento**: [Día del Software Libre](https://ofilibre.urjc.es/blog/dia-software-libre/)
 * **Fecha**: 15-Sep-2019
 * **Organiza**: [OfiLibre URJC](https://ofilibre.urjc.es/ofilibre/): Oficina de Conocimiento y Cultura libre de la URJC
@@ -104,6 +104,19 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2019-09-23-dia-soft-libre-URJC)
 </details>
 
+<details markdown="block">
+<summary>🟢(2018) "Robótica, Arduino y Hardware Libre". Cursos de verano de la Universidad de Cantabria
+</summary>
+* **Evento**: Cursos de verano de la Universidad de Cantabria
+* **Organiza**: Universidad de Cantabria
+* **Fecha**: 2-Julio-2018
+* **Duración charla**: 2h
+* **Lugar**: Revilla de Camargo, Cantabria
+* [Transparencias (PDF) de la presentación](https://github.com/Obijuan/myslides/blob/master/2018-07-UC-FPGAs-libres/2018-07-5-Curso-Verano-UC-FPGAs-libres.pdf)
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2018-07-UC-FPGAs-libres)
+</details>
+
+🚧 TODO 🚧
 
 # Ponencias en congresos Nacionales
 
