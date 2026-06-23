@@ -179,10 +179,78 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 ```La electrónica digital es la base tecnológica del mundo digital en el que vivimos. Con ella se diseñan todos los procesadores, controladores y demás chips digitales con los que se construyen dispositivos como móviles, ordenadores, televisiones, tablets, etc. A pesar de basarse en unos principios simples y fáciles de entender por cualquier persona, la electrónica digital es poco accesible para el público no técnico. ¿Sería posible que los niños y los no electrónicos pudiesen diseñar circuitos digitales? En esta charla se hace una demostración del uso de la herramienta libre Icestudio, que permite hacer circuitos digitales fácilmente, que se implementan en la placa con FPGA Icezum Alhambra. Todo ello es gracias a que por primera vez en 30 años disponemos de FPGAs libres```
 * **Duración**: 2h
 * [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-11-28-UCA-FPGAs-libres/2017-11-28-UCA-Master-robotica-FPGAs-libres.pdf?raw=true)
-* [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-28-UCA-FPGAs-libres)  
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-28-UCA-FPGAs-libres)
 </details>
 
- 
+<details markdown="block">
+<summary>(2017) "Grupo de Robótica de la URJC". European Robotics Week. Hisparob. URJC
+</summary>
+* **Evento**: [European Robotics Week](https://eu-robotics.net/erw2017/)
+* **Lugar**: Escuela de Ingeniería de Fuenlabrada, URJC. Campus de Fuenlabrada
+* **Fecha**: 23-Nov-2017
+* **Duracion**: 50 minutos
+* **Resumen**:
+```Presentación de las líneas de investigación que se están llevando en el grupo de Robótica de la URJC```
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-11-23-Hisparob-ERW2017/2017-11-23-EURW-URJC.pdf?raw=true)
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-23-Hisparob-ERW2017)  
+</details>
+
+🚧 TODO 🚧
+
+<details markdown="block">
+<summary> TODO 2017
+</summary>
+* 2017/Nov/23: "Grupo de Robótica de la URJC". European Robotics Week. Hisparob. Universidad Rey Juan Carlos (URJC). Campus de fuenlabrada (Más información) (Sin wiki)
+
+2017/Nov/21: "Electrónica digital divertida con FPGAs Libres". Seminario en Máster de profesorado en la Universidad Rey Juan Carlos (URJC). Campus de fuenlabrada (Más información) (sin wiki)
+
+2017/Nov/20: "Electrónica digital divertida con FPGAs Libres". Seminario de grado. ETSI Telecomunicación, Universidad Rey Juan Carlos (URJC). Campus de Fuenlabrada (Más información) (sin wiki)
+
+2017/Nov/17: "FreeCad: Designing in 3D with Open Source Tools". ICT WORLD, IES Los Cerros. Úbeda, Jaén (Más información) (sin wiki)
+
+2017/Nov/15: "Electrónica Digital Divertida con FPGAs libres". Universidad Europea de Madrid. Campus de Villaviciosa de Odón (Madrid) (Más información) (sin wiki)
+
+2017/Nov/11: "Demos con FPGAs Libres". OSHWDEM, Museo Domus, La coruña (Más información)
+
+2017/Nov/07: "Grupo de Robótica de la URJC". Semana de la ciencia en la URJC, Campus de fuenlabrada, Madrid (Más información) (sin wiki)
+
+2017/Oct/29: "Patrimonio Tecnológico de la Humanidad". Maker Faire Bilbao (Más información) (sin wiki)
+
+2017/Oct/19: "...y llegaron las FPGAs Libres". LibreCon 2017, Santiago de Compostela (Más información) (sin wiki)
+
+2017/Oct/06: "Movimiento Maker. Compartiendo conocimiento: FPGAs Libres". INGENIA'17. XII Jornadas de Ingeniería Industrial Aplicada. Universidad de La Rioja, Logroño (Más información) (sin wiki)
+
+2017/Sep/23: "OpenSource y Electrónica Digital". Taller de FPGAs libres en TEDxValladolid. LAVA, Valladolidad (Más información) (sin wiki)
+
+2017/Sep/22: "...y llegaron las FPGAs Libres". Jornadas Sarteco, Málaga (Más información (wiki no completa))
+
+2017/Julio/27: "Electrónica digital para TODOS con FPGAs Libres". Empresa Carto, Madrid (Más información) (sin wiki)
+
+2017/Julio/08: Taller de "Electrónica digital para makers, con FPGAs libres". Makespace Madrid (Más información)
+
+2017/Julio/06: "Electrónica digital para todos con FPGAs libres". Sesión en Curso de Verano de la Universidad de Cantabria (Más información)
+
+2017/Junio/01: "Electrónica digital para todos con FPGAs libres". Fuerteventura Maker 2017. Aula 3i (Más información)
+
+2017/Junio/01: "Nosotros compartimos". Fuerteventura Maker 2017. Aula 3i (Más información)
+
+2017/Mayo/20: "Eelectrónica digital para todos con FPGAs Libres". Murcia Meetup 2017. CEEIM (Más información)
+
+2017/Mayo/11: Entrega del premio O'Reilly Open Source award 2017. Austin, Texas (Más información)
+
+2017/Mayo/05: "Electrónica digital divertida con FPGAs Libres". PEAC. IES Juan de la Cierva. Madrid (Más información)
+
+2017/Abril/27: "Electrónica digital divertica con FPGAs Libres". Malakabot 2017. IES Politécnico Jesús Marín. Málaga (Más información)
+
+2017/Mar/04: "Electrónica digital divertida con FPGAs Libres". Fablab Valencia. Universidad Politécnica de Valencia (UPV) (Más información)
+
+2017/Feb/24: "Diseño Hardware con FPGAs libres". IV Jornadas de Informática. Universidad de Almería (UAL) (Más información)
+
+2017/Feb/09: "Electrónica Digital Divertida con FPGAs Libres". Escuela Técnica Superior de Ingeniería y Diseño Industrial (ETSIDI) UPM. Madrid. (Más información)
+</details>
+
+TODO:
+* http://malakabot.com/colaboraciones/universidad/international-microbotics-summer-workshop-2013/
 
 🚧 TODO 🚧
 
