@@ -78,6 +78,20 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2020-09-19-esLibre-Riscv)
 </details>
 
+<details markdown="block">
+<summary> (2020) "El ISA abierto RISC-V como eje vertebrador de las asignaturas sobre Arquitectura de Computadores". Red-RISCV. UAB
+</summary>
+* **Autores**: Katia Leal y Juan González
+* **Evento**: [Primeras Jornadas Red-RISCV](http://red-riscv.org/index.html)
+* **Fecha**: 5-Feb-2020
+* **Organiza**: [Red-RISCV](http://red-riscv.org/page2.html)
+* **Resumen**:
+```En esta charla se describe el curso de “Arquitectura de Computadores” que se imparte en 7 grados de la “Escuela Técnica Superior de Ingeniería de las Telecomunicaciones” de la “Universidad Rey Juan Carlos”```
+* [Material usado (PDF)](https://github.com/Obijuan/myslides/blob/master/2020-02-05-Red-RISCV-UAB/2020-02-05-Lab-AO-abierto.pdf)
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2020-02-05-Red-RISCV-UAB)  
+</details>
+
+
 🚧 TODO 🚧
 
 
