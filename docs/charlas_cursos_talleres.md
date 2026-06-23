@@ -71,6 +71,14 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2020-12-11-OfilibreURJC-FPGAs)
 </details>
 
+<details markdown="block">
+<summary>(2019) "Software y Hardware Libres: Proyectos en comunidad". Universidad Europea de Madrid</summary>
+* **Organiza**: [Universidad Europeoa de Madrid](https://universidadeuropea.com)  
+* **Duración**: 1 hora
+* **Lugar**: Universidad Europea. Campus de Alcobendas
+* [Transparencias de la charla (PDF)](https://github.com/Obijuan/myslides/blob/master/2019-11-05-UEM-soft-hw-libres/2019-11-05-UEM-sw-hw-libres.pdf?raw=true)
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2019-11-05-UEM-soft-hw-libres)  
+</details>
 
 
 
