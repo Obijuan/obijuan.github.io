@@ -145,7 +145,7 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 <details markdown="block">
 <summary>(2018) "Funny Digital Electronics with Open Source FPGAs". FOSDEM'18
 </summary>
-* **Event**: [FOSDEM 2018](https://archive.fosdem.org/2018/)
+* **Evento**: [FOSDEM 2018](https://archive.fosdem.org/2018/)
 * **Lugar**: Universite Libre de Bruxeles (Bruselas)
 * **Fecha**: 3-Feb-2018
 * [Más información sobre la charla](https://archive.fosdem.org/2018/schedule/event/cad_os_fpga/)
@@ -154,6 +154,35 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Más información en el repositorio](https://github.com/Obijuan/myslides/tree/master/2018-02-03-Funny-digital-electronics-OpenSource-FPGA-Fosdem)
 </details>
 
+<details markdown="block">
+<summary>(2017) "Movimiento Maker y tecnologías Libres". Máster de Investigación de la Universidad de Cádiz
+</summary>
+* **Evento**: Charla dada dentro de los seminarios del máster de Investigación de la asignatura "Plataformas y Arquitecturas Robóticas", en la Escuena Superior de Ingeniería de la Universidad de Cádiz
+* **Organiza**: [Grupo de Investigación Robótica Aplicada](https://robotics.uca.es/)
+* **Lugar**: Escuela Superior de Ingeniería de la Universidad de Cádiz
+* **Fecha**: 28-Nov-2018
+* **Resumen**:
+```Repaso del desarrollo y evolución del movimiento maker y de todas las tecnologías libres que han ido aparenciendo alrededor: software libre, hardware libre, impresoras 3D, robots imprimibles, FPGAs libres...```
+* **Duración**: 2h
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-11-28-UCA-FPGAs-libres/2017-11-28-UCA-Master-robotica-makers.pdf?raw=true)
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-28-UCA-FPGAs-libres)  
+</details>
+
+<details markdown="block">
+<summary>(2017) "Electrónica digital divertida con FPGAs libres". Máster de Investigación de la Universidad de Cádiz
+</summary>
+* **Evento**: Charla dada dentro de los seminarios del máster de Investigación de la asignatura "Plataformas y Arquitecturas Robóticas", en la Escuena Superior de Ingeniería de la Universidad de Cádiz
+* **Organiza**: [Grupo de Investigación Robótica Aplicada](https://robotics.uca.es/)
+* **Lugar**: Escuela Superior de Ingeniería de la Universidad de Cádiz
+* **Fecha**: 28-Nov-2018
+* **Resumen**:
+```La electrónica digital es la base tecnológica del mundo digital en el que vivimos. Con ella se diseñan todos los procesadores, controladores y demás chips digitales con los que se construyen dispositivos como móviles, ordenadores, televisiones, tablets, etc. A pesar de basarse en unos principios simples y fáciles de entender por cualquier persona, la electrónica digital es poco accesible para el público no técnico. ¿Sería posible que los niños y los no electrónicos pudiesen diseñar circuitos digitales? En esta charla se hace una demostración del uso de la herramienta libre Icestudio, que permite hacer circuitos digitales fácilmente, que se implementan en la placa con FPGA Icezum Alhambra. Todo ello es gracias a que por primera vez en 30 años disponemos de FPGAs libres```
+* **Duración**: 2h
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-11-28-UCA-FPGAs-libres/2017-11-28-UCA-Master-robotica-FPGAs-libres.pdf?raw=true)
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-28-UCA-FPGAs-libres)  
+</details>
+
+ 
 
 🚧 TODO 🚧
 
