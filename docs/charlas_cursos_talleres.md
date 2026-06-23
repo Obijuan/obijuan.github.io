@@ -117,7 +117,7 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary>(2018) "Electrónica digital divertida con FPGAs". 1er Campamento Tecnológico Universitario para alumnos de Institutos de Educación Secundaria
+<summary>(2018) "Electrónica digital divertida con FPGAs Libres". 1er Campamento Tecnológico Universitario para alumnos de Institutos de Educación Secundaria
 </summary>
 * **Evento**: [I campamento Tecnológico Universitario para alumnos de Instituos de Educación Secuencia](https://www.urjc.es/estudios/grado/3384-1er-campamento-tecnologico-universitario-para-alumnos-de-institutos-de-educacion-secundaria)
 * **Organiza**: [Escuela de Ingeniería de Fuenlabrada](https://www.urjc.es/eif)
@@ -126,6 +126,20 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * **Lugar**: EIF, URJC. Campus de Fuenlabrada
 * [Transparencias (PDF) de la presentación](https://github.com/Obijuan/myslides/blob/master/2018-06-12-FPGA-Campamento-tecnologico-ETSI-URJC/2018-06-12-FPGA-ETSI-URJC.pdf?raw=true)
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2018-06-12-FPGA-Campamento-tecnologico-ETSI-URJC)
+</details>
+
+<details markdown="block">
+<summary>(2018) "Electrónica Digital divertida con FPGAs Libres". Granabot. Parque de las Ciencias, Granada. Conferencia Inaugural del evento
+</summary>
+* **Evento**: [Granabot 2018](http://malakabot.com/colaboraciones/granabot/granabot-2018/)
+* **Organizan**: [IES Virgen de las Nieves](https://virgendelasnieves.es/) y el [Parque de las Ciencias de Granada](https://www.parqueciencias.com/) 
+* **Fecha**: 11-Mayo-2018
+* Charla Inaugural del evento
+* Ponentes:
+  * Juan González Gomez
+  * Eladio Delgado
+* [Transparencias (PDF) de la charla](https://github.com/Obijuan/myslides/blob/master/2018-05-11-Granabot-Electr%C3%B3nica-digital-divertida-FPGAs-libres/2018-05-11-Granabot-FPGAs-libres.pdf?raw=true)
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2018-05-11-Granabot-Electr%C3%B3nica-digital-divertida-FPGAs-libres)
 </details>
 
 
