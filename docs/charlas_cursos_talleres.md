@@ -206,7 +206,6 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-21-URJC-innovacion-master-profesorado)
 </details>
 
-
 <details markdown="block">
 <summary>(2017) "Electrónica digital divertida con FPGAs Libres". Seminario de grado. URJC
 </summary>
@@ -218,6 +217,18 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-20-URJC-fpgas-libres)
 </details>
 
+<details markdown="block">
+<summary>(2017) "FreeCad: Designing in 3D with Open Source Tools". ICT WORLD, IES Los Cerros. Úbeda, Jaén 
+</summary>
+* **Evento**: Erasmus+ KA “ICT World” project
+* **Lugar**: [I.E.S Los cerros](https://loscerros.org/), Úbeda
+* **Fecha**: 17-Nov-2017
+* **Duración**: 50 minutos
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-11-17-Ubeda-ICT-world/2017-11-17-ICT-world-ubeda.pdf?raw=true)
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-17-Ubeda-ICT-world)
+</details>
+
+
 
 
 🚧 TODO 🚧
@@ -228,8 +239,6 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 
 
 
-
-2017/Nov/17: "FreeCad: Designing in 3D with Open Source Tools". ICT WORLD, IES Los Cerros. Úbeda, Jaén (Más información) (sin wiki)
 
 2017/Nov/15: "Electrónica Digital Divertida con FPGAs libres". Universidad Europea de Madrid. Campus de Villaviciosa de Odón (Madrid) (Más información) (sin wiki)
 
