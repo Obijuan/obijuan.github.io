@@ -257,12 +257,26 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * **Fecha**: 07-Nov-2017
 * **Lugar**: Escuela de Ingeniería de Fuenlabrada. URJC. Campus de fuenlabrada
 * **Duracion**: 1h
-* **Resumen**: 
+* **Resumen**:
 ```Explicación de las investigaciones que se están desarrollando en el grupo de Robótica de la URJC, en la Escuela de Ingeniería de Fuenlabrada```
 * [Video promocional de la semana de la ciencia URJC](https://tv.urjc.es/video/59e9c662d68b1412778b4571)
 * [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-11-07-semana-ciencia-urjc/2017-11-07-Semana-ciencia-URJC.pdf?raw=true)
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-07-semana-ciencia-urjc)  
 </details>
+
+<details markdown="block">
+<summary>(2017) "Patrimonio Tecnológico de la Humanidad". Maker Faire Bilbao
+</summary>
+* **Evento**: [Maker faire Bilbao 2017](https://espacioopen.com/maker-faire-bilbao-2017/)  
+* **Fecha**: 29-Oct-2017
+* [Video en youtube](https://www.youtube.com/watch?v=TF8s-0iBPR4)  
+* [Noticia en medios](https://www.deia.eus/vivir/2017/10/28/informatico-obijuan-quiere-ensenar-mundo-4912343.html)  
+* [Noticia en El Correo](https://www.elcorreo.com/bizkaia/maker-faire-bilbao-20171028123843-nt.html?ref=https%3A%2F%2Fwww.google.com%2F)  
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-10-29-MakerFaire-Bilbao/2017-10-29-MakerFaire-Bilbao-Patrimonio-tecnologico-humanidad.pdf?raw=true)
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2017-10-29-MakerFaire-Bilbao)  
+</details>
+
+
 
 
 🚧 TODO 🚧
@@ -272,7 +286,6 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </summary>
 
 
-2017/Oct/29: "Patrimonio Tecnológico de la Humanidad". Maker Faire Bilbao (Más información) (sin wiki)
 
 2017/Oct/19: "...y llegaron las FPGAs Libres". LibreCon 2017, Santiago de Compostela (Más información) (sin wiki)
 
