@@ -276,7 +276,30 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2017-10-29-MakerFaire-Bilbao)  
 </details>
 
+<details markdown="block">
+<summary>(2017) "...y llegaron las FPGAs Libres". LibreCon 2017, Santiago de Compostela
+</summary>
+* **Evento**: LibreCon 2017
+* **Fecha**: 19-Oct-2017
+* [Noticia](https://www.clubdeinnovacion.es/agenda/librecon-2017/)
+* [Noticia](https://www.cidadedacultura.gal/es/evento/librecon-2017)
+* **Lugar**: Santiago de compostela
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-10-19-LibreCon-FPGAs-libres/2017-10-19-LibreCON-FPGAs-libres.pdf?raw=true)
+* [Mas información](https://github.com/Obijuan/myslides/tree/master/2017-10-19-LibreCon-FPGAs-libres)
+</details>
 
+
+
+<details markdown="block">
+<summary>(2017)
+</summary>
+* **Evento**: TODO
+* **Organiza**: TODO
+* **Fecha**: TODO
+* **Lugar**: TODO
+* [Transparencias (PDF)](TODO)
+* [Mas información](TODO)
+</details>
 
 
 🚧 TODO 🚧
@@ -284,10 +307,6 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 <details markdown="block">
 <summary> TODO 2017
 </summary>
-
-
-
-2017/Oct/19: "...y llegaron las FPGAs Libres". LibreCon 2017, Santiago de Compostela (Más información) (sin wiki)
 
 2017/Oct/06: "Movimiento Maker. Compartiendo conocimiento: FPGAs Libres". INGENIA'17. XII Jornadas de Ingeniería Industrial Aplicada. Universidad de La Rioja, Logroño (Más información) (sin wiki)
 
@@ -361,8 +380,9 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 
 
 <details markdown="block">
-<summary>
+<summary>(2017)
 </summary>
+
 </details>
 
 
