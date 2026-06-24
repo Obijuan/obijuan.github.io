@@ -303,6 +303,44 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 
 
 <details markdown="block">
+<summary>(2017) "OpenSource y Electrónica Digital". Taller de FPGAs libres en TEDxValladolid. LAVA, Valladolidad
+</summary>
+* **Evento**: [TEDx Valladolid](https://tedxvalladolid.com/evento-2017/)
+* [Experiencias y labs interactivos en TEDx valladolid](https://tedxvalladolid.com/experiencias-y-labs-interactivos-2017/)
+* **Fecha**: 23-Sep-2017
+* **Lugar**: LAVA, Laboratorio de las Artes de Valladolid
+* [Transparencias (PDF)]([TODO](https://github.com/Obijuan/myslides/blob/master/2017-09-23-TEDxValladolid-Taller-Fpgas/2017-09-23-TEDxValladolid-FPGAs.pdf)?raw=true)
+* [Mas información]([TODO](https://github.com/Obijuan/myslides/tree/master/2017-09-23-TEDxValladolid-Taller-Fpgas))
+</details>
+
+<details markdown="block">
+<summary>(2017)
+</summary>
+* **Evento**: TODO
+* **Organiza**: TODO
+* **Fecha**: TODO
+* **Lugar**: TODO
+* [Transparencias (PDF)](TODO)
+* [Mas información](TODO)
+  2017/Sep/22: "...y llegaron las FPGAs Libres". Jornadas Sarteco, Málaga (Más información (wiki no completa))
+
+</details>
+
+
+<details markdown="block">
+<summary>(2017)
+</summary>
+* **Evento**: TODO
+* **Organiza**: TODO
+* **Fecha**: TODO
+* **Lugar**: TODO
+* [Transparencias (PDF)](TODO)
+* [Mas información](TODO)
+* 2017/Julio/27: "Electrónica digital para TODOS con FPGAs Libres". Empresa Carto, Madrid (Más información) (sin wiki)
+</details>
+
+
+<details markdown="block">
 <summary>(2017)
 </summary>
 * **Evento**: TODO
@@ -321,12 +359,6 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </summary>
 
 
-
-2017/Sep/23: "OpenSource y Electrónica Digital". Taller de FPGAs libres en TEDxValladolid. LAVA, Valladolidad (Más información) (sin wiki)
-
-2017/Sep/22: "...y llegaron las FPGAs Libres". Jornadas Sarteco, Málaga (Más información (wiki no completa))
-
-2017/Julio/27: "Electrónica digital para TODOS con FPGAs Libres". Empresa Carto, Madrid (Más información) (sin wiki)
 
 2017/Julio/08: Taller de "Electrónica digital para makers, con FPGAs libres". Makespace Madrid (Más información)
 
