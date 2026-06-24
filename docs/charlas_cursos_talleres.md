@@ -289,6 +289,18 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 
+<details markdown="block">
+<summary>(2017) "Movimiento Maker. Compartiendo conocimiento: FPGAs Libres". INGENIA'17. XII Jornadas de Ingeniería Industrial Aplicada. Universidad de La Rioja, Logroño
+</summary>
+* **Evento**: INGENIA'17. XII Jornadas de Ingeniería Industrial Aplicada
+* [Memoria académico, describiendo el evento](https://www.unirioja.es/universidad/presentacion/pdf_16_17/MemoriaAcademicaETSII2016-2017.pdf)
+* **Organiza**: TODO
+* **Fecha**: 6-Oct-2017
+* **Lugar**: Escuela Técnica Superior de Ingeniería Industrial. Universidad de la Rioja
+* [Transparencias (PDF)]([TODO](https://github.com/Obijuan/myslides/blob/master/2017-10-06-Universidad-Rioja-Logro%C3%B1o-makers/2017-10-06-La-Rioja-FPGAs-libres.pdf?raw=true))
+* [Mas información](https://github.com/Obijuan/myslides/tree/master/2017-10-06-Universidad-Rioja-Logro%C3%B1o-makers)
+</details>
+
 
 <details markdown="block">
 <summary>(2017)
@@ -308,7 +320,7 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 <summary> TODO 2017
 </summary>
 
-2017/Oct/06: "Movimiento Maker. Compartiendo conocimiento: FPGAs Libres". INGENIA'17. XII Jornadas de Ingeniería Industrial Aplicada. Universidad de La Rioja, Logroño (Más información) (sin wiki)
+
 
 2017/Sep/23: "OpenSource y Electrónica Digital". Taller de FPGAs libres en TEDxValladolid. LAVA, Valladolidad (Más información) (sin wiki)
 
