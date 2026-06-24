@@ -250,6 +250,20 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-11-OSHWDEM)  
 </details>
 
+<details markdown="block">
+<summary>(2017) "Grupo de Robótica de la URJC". Semana de la ciencia en la URJC
+</summary>
+* **Evento**: Semana de la ciencia en la URJC
+* **Fecha**: 07-Nov-2017
+* **Lugar**: Escuela de Ingeniería de Fuenlabrada. URJC. Campus de fuenlabrada
+* **Duracion**: 1h
+* **Resumen**: 
+```Explicación de las investigaciones que se están desarrollando en el grupo de Robótica de la URJC, en la Escuela de Ingeniería de Fuenlabrada```
+* [Video promocional de la semana de la ciencia URJC](https://tv.urjc.es/video/59e9c662d68b1412778b4571)
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-11-07-semana-ciencia-urjc/2017-11-07-Semana-ciencia-URJC.pdf?raw=true)
+* [Más información](https://github.com/Obijuan/myslides/tree/master/2017-11-07-semana-ciencia-urjc)  
+</details>
+
 
 🚧 TODO 🚧
 
@@ -257,7 +271,6 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 <summary> TODO 2017
 </summary>
 
-2017/Nov/07: "Grupo de Robótica de la URJC". Semana de la ciencia en la URJC, Campus de fuenlabrada, Madrid (Más información) (sin wiki)
 
 2017/Oct/29: "Patrimonio Tecnológico de la Humanidad". Maker Faire Bilbao (Más información) (sin wiki)
 
