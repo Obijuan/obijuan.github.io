@@ -425,20 +425,17 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary>(2017)
+<summary>(2017) "Electrónica Digital Divertida con FPGAs Libres". Escuela Técnica Superior de Ingeniería y Diseño Industrial (ETSIDI) UPM
 </summary>
-* **Evento**: TODO
-* **Organiza**: TODO
 * **Fecha**: 9-Feb-2017
-* **Lugar**: TODO
-* [Transparencias (PDF)](TODO)
-* [Mas información](TODO)
-"Electrónica Digital Divertida con FPGAs Libres". Escuela Técnica Superior de Ingeniería y Diseño Industrial (ETSIDI) UPM. Madrid. (Más información)
+* **Lugar**: Escuela Técnica Superior de Ingeniería y Diseño Industrial, UPM
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-02-24-Dise%C3%B1o-hardware-con-FPGAs-libres-UAL/2017-02-24-UAL-Diseno-hw-FPGAs-libres.pdf)
+* [Mas información](https://github.com/Obijuan/myslides/wiki/2017_0209:-ETSIDI-Electr%C3%B3nica-Digital-Divertida-con-FPGAs-Libres)
+* [Repositorio](https://github.com/Obijuan/myslides/tree/master/2017-02-24-Dise%C3%B1o-hardware-con-FPGAs-libres-UAL)
 </details>
 
-
 <details markdown="block">
-<summary>(2017)
+<summary>(2016)
 </summary>
 * **Evento**: TODO
 * **Organiza**: TODO
@@ -449,16 +446,42 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 
+# TODO
 🚧 TODO 🚧
+
+<details markdown="block">
+<summary>(2016)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+* [Repositorio]()
+</details>
 
 <details markdown="block">
 <summary> TODO 2016
 </summary>
-</details>
 
-TODO:
-* http://malakabot.com/colaboraciones/universidad/international-microbotics-summer-workshop-2013/
-* https://vimeo.com/239442114?turnstile=1.woWFyHaCJnGy4e99W_Xd4qVQ8z-sB5H6Ecqb3UCddqxHRdeWN_QjCfAgsiWHEfsSZZblaDraLPhW_ZWB9DqFeSEu3S3XGMaRC0mR_zNym_PUbAuuRRnb_zR0jlfjD-iNlsRpp1em6EKSLG9onM8oeWer4IkSyH1S_YJZKoxtL8Xp98dU8uCW741lEihrZXzvKeVKk9JF99wJgzX5g0UDpL8y5IzdnlC6rWtUZu4IDRp5_saSUlDo_TeIvaox6okuWpISnuIswaaCRsUqjisPQWa6_pJwduvRRg2MiWAjMZVhmZ3bwiENUa_UzlsSE8bpuPiX1KBMmjEqLMH-lemxaWi6IbtqObiUXeYY_KW3nZ1bZDRX_N7fk_38H8ns2syngT1ZzNVWZ7THMJI-hOgLFH_EjHrJATN-fg-bzg1tcqFaz1rNZ09TUsT-lsqsYMQNTTZlpI8zUE_ROzUqhedUOM34VpaZI3t5y1G7JvVCDWKfv5kpO5yoBXcsYCPNiyhQYQa03yrtlqH0fMNjsdXo6CdMPXRn84PRJUXF7fbcoI1JA4ZA1YUTT1CJIpHZRHAcmSpXgbRCe-hJOO6hBchCfA.Vt48XuFxzG3Lq1kxShECxQ.b3650692c85a22319fcc73e9908b5e0b196778efdb121b083e740c92d3cd5103
+
+2016/Dic/21: "Comparto, luego existo". El Pais con tu Futuro. Kinépolis Madrid. Sala 25 (Más información)
+
+2016/Dic/10: "FPGAs Libres". Ourense MakersLab. La Molinera (Más información)
+
+2016/Nov/18: "FPGAs Libres". Bilbao Maker faire. Espacio Open (Más información)
+
+2016/Nov/09: "FPGAs Libres". Universidad Rey Juan Carlos (URJC), Campus de Fuenlabrada, Madrid (Más información)
+
+2016/Nov/05: "FPGAs Libres". OSHWDem 2016. Coruña (Más información)
+
+2016/Oct/24: "FPGAs Libres". EL EVENTO. Universidad Carlos III de Madrid (Más información)
+
+2016/Sep/24: "FPGAwars: Explorando el lado libre de las FPGAs". Madrid Makerfaire. MediaLab Prado (Más información)
+
+2016/Sep/23: "FPGAs Libres". Granada geek. ETSIIT de la Universidad de Granada (Más información)
+
+</details>
 
 🚧 TODO 🚧
 
