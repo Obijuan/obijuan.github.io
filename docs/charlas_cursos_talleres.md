@@ -485,15 +485,15 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary>(2016)
+<summary>(2016) "FPGAs Libres". URJC
 </summary>
-* **Evento**: 
-* **Organiza**: 
+* **Evento**: Seminarios para estudiantes de grado
 * **Fecha**: 9-Nov-2016
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Repositorio]()
-"FPGAs Libres". Universidad Rey Juan Carlos (URJC), Campus de Fuenlabrada, Madrid (Más información)
+* **Lugar**: Escuela de Ingeniería de Fuenlabrada. Campus de Fuenlabrada
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/raw/master/2016-11-09-URJC-fpgas-libres/2016-11-09-URJC-fpgas-libres.pdf)
+* [Más información](https://github.com/Obijuan/myslides/wiki/2016_11_09:-URJC,-Fuenlabrada,-Madrid,-FPGAs-Libres)
+* [Repositorio](https://github.com/Obijuan/myslides/tree/master/2016-11-09-URJC-fpgas-libres)
+ Campus de Fuenlabrada, Madrid (Más información)
 </details>
 
 <details markdown="block">
