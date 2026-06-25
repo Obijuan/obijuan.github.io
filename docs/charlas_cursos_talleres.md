@@ -402,15 +402,14 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary>(2017)
+<summary>(2017) "Electrónica digital divertida con FPGAs Libres". Fablab Valencia
 </summary>
-* **Evento**: TODO
-* **Organiza**: TODO
+* **Organiza**: [Fablab Valencia](https://fablabvalencia.com/)
 * **Fecha**: 4-Marzo-2017
-* **Lugar**: TODO
-* [Transparencias (PDF)](TODO)
-* [Mas información](TODO)
-"Electrónica digital divertida con FPGAs Libres". Fablab Valencia. Universidad Politécnica de Valencia (UPV) (Más información)
+* **Lugar**: Universidad Politécnica de Valencia (UPV)
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-03-04-Electronica-digital-divertica-con-FPGAs-Libres-FABLAB-Valencia/2017-03-04-Fablab-Valencia-Elec-Dig-Divertida-con-FPGAs-libres.pdf?raw=true)
+* [Mas información](https://github.com/Obijuan/myslides/wiki/2017_03_04:-Fablab-Valencia:-Electr%C3%B3nica-digital-divertida-con-FPGAs-libres)
+* [Repositorio](https://github.com/Obijuan/myslides/tree/master/2017-03-04-Electronica-digital-divertica-con-FPGAs-Libres-FABLAB-Valencia)
 </details>
 
 <details markdown="block">
