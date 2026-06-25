@@ -446,10 +446,112 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Repositorio](https://github.com/Obijuan/myslides/tree/master/2017-02-24-Dise%C3%B1o-hardware-con-FPGAs-libres-UAL)
 </details>
 
+<details markdown="block">
+<summary>(2016) "Comparto, luego existo". El Pais con tu Futuro. Kinépolis Madrid
+</summary>
+* **Evento**: [El Pais con tu Futuro](https://www.elpaiscontufuturo.com/)
+* **Organiza**: Periódico El Pais
+* **Fecha**: 21-Dic-2016
+* **Lugar**: Kinépolis, Sala 25. Madrid
+* [Noticia en 'el pais'](https://elpais.com/politica/2016/12/20/actualidad/1482256374_036106.html)
+* [Vídeo](https://www.youtube.com/watch?v=vI88Za3Pt5g)  
+* [Más información](https://github.com/Obijuan/myslides/wiki/2016_12_21:-Comparto,-luego-existo)
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/raw/master/2016-12-21-El-Pais-con-tu-Futuro-Comparto-luego-existo/2016-dic-21-El-pais-con-tu-futuro-Obijuan.pdf)
+* [Repositorio](https://github.com/Obijuan/myslides/tree/master/2016-12-21-El-Pais-con-tu-Futuro-Comparto-luego-existo)  
+</details>
 
+<details markdown="block">
+<summary>(2016)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 10-Dic-2016
+* **Lugar**: 
+* [Transparencias (PDF)]()
+* [Repositorio]()
+"FPGAs Libres". Ourense MakersLab. La Molinera (Más información)
+</details>
+
+<details markdown="block">
+<summary>(2016)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 18-Nov-2016
+* **Lugar**: 
+* [Transparencias (PDF)]()
+* [Repositorio]()
+"FPGAs Libres". Bilbao Maker faire. Espacio Open (Más información)
+</details>
+
+<details markdown="block">
+<summary>(2016)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 9-Nov-2016
+* **Lugar**: 
+* [Transparencias (PDF)]()
+* [Repositorio]()
+"FPGAs Libres". Universidad Rey Juan Carlos (URJC), Campus de Fuenlabrada, Madrid (Más información)
+</details>
+
+<details markdown="block">
+<summary>(2016)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 5-Nov-2016
+* **Lugar**: 
+* [Transparencias (PDF)]()
+* [Repositorio]()
+"FPGAs Libres". OSHWDem 2016. Coruña (Más información)
+</details>
+
+<details markdown="block">
+<summary>(2016)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 24-Oct-2016
+* **Lugar**: 
+* [Transparencias (PDF)]()
+* [Repositorio]()
+"FPGAs Libres". EL EVENTO. Universidad Carlos III de Madrid (Más información)
+</details>
+
+<details markdown="block">
+<summary>(2016)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 24-Sep-2016
+* **Lugar**: 
+* [Transparencias (PDF)]()
+* [Repositorio]()
+"FPGAwars: Explorando el lado libre de las FPGAs". Madrid Makerfaire. MediaLab Prado (Más información)
+</details>
+
+<details markdown="block">
+<summary>(2016)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 23-Sep-2016
+* **Lugar**: 
+* [Transparencias (PDF)]()
+* [Repositorio]()
+"FPGAs Libres". Granada geek. ETSIIT de la Universidad de Granada (Más información)
+</details>
 
 # TODO
 🚧 TODO 🚧
+
+
+<details markdown="block">
+<summary> TODO 2015
+</summary>
+</details>
 
 <details markdown="block">
 <summary>(2016)
@@ -462,28 +564,6 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Repositorio]()
 </details>
 
-<details markdown="block">
-<summary> TODO 2016
-</summary>
-
-
-2016/Dic/21: "Comparto, luego existo". El Pais con tu Futuro. Kinépolis Madrid. Sala 25 (Más información)
-
-2016/Dic/10: "FPGAs Libres". Ourense MakersLab. La Molinera (Más información)
-
-2016/Nov/18: "FPGAs Libres". Bilbao Maker faire. Espacio Open (Más información)
-
-2016/Nov/09: "FPGAs Libres". Universidad Rey Juan Carlos (URJC), Campus de Fuenlabrada, Madrid (Más información)
-
-2016/Nov/05: "FPGAs Libres". OSHWDem 2016. Coruña (Más información)
-
-2016/Oct/24: "FPGAs Libres". EL EVENTO. Universidad Carlos III de Madrid (Más información)
-
-2016/Sep/24: "FPGAwars: Explorando el lado libre de las FPGAs". Madrid Makerfaire. MediaLab Prado (Más información)
-
-2016/Sep/23: "FPGAs Libres". Granada geek. ETSIIT de la Universidad de Granada (Más información)
-
-</details>
 
 🚧 TODO 🚧
 
