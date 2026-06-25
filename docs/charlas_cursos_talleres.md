@@ -548,9 +548,22 @@ MediaLab Prado (Más información)
 
 -------
 ### DESCANSO
-Entre el 2013 y 2016 dejé de dar charlas. Volví para presentar lo último en lo que estaba trabajando: LAS FPGAS LIBRES  
+En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último en lo que estaba trabajando: LAS FPGAS LIBRES
 
 --------
+
+<details markdown="block">
+<summary>(2014) "Makers, S.A". Fundación Telefónica
+</summary>
+* **Evento**: Vivir en un Mar de Datos. Hacia una sociedad inteligente.
+* **Organiza**: Fundación Telefónica
+* **Fecha**: 21-Enero-2014
+* **Lugar**: Espacio fundación telefónica. Madrid
+* [Vídeo de las jornadas en Youtube](https://www.youtube.com/watch?v=K5bXp8KYFwA)
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2014-01-21-Enero-telefonica-makersa/2014-01-21-bq-maker-sa-telefonica.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2014-01-21:_Makers,_S.A)
+</details>
+
 
 # TODO
 🚧 TODO 🚧
@@ -569,7 +582,6 @@ Entre el 2013 y 2016 dejé de dar charlas. Volví para presentar lo último en l
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
-* [Repositorio]()
 </details>
 
 
