@@ -351,23 +351,21 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * **Organiza**: [Aula3i](https://aula3i.com/)
 * **Fecha**: 1-Junio-2017
 * **Lugar**: 
-* [Transparencias (PDF)](https://github.com/Obijuan/myslides/tree/master/2017-06-01-Aula3i-Electronica-digital-divertida-FPGAs-libres)
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/tree/master/2017-06-01-Aula3i-Electronica-digital-divertida-FPGAs-libres?raw=true)
 * [Mas información](https://github.com/Obijuan/myslides/wiki/2017_06_01:-Fuerteventura-Makers:-Electr%C3%B3nica-digital-para-todos-con-FPGAs-libres)
 * [Repositorio](https://github.com/Obijuan/myslides/tree/master/2017-06-01-Aula3i-Electronica-digital-divertida-FPGAs-libres)
 </details>
 
-
 <details markdown="block">
-<summary>(2017)
+<summary>(2017) "Nosotros compartimos". Fuerteventura Maker 2017
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: TODO
-* [Transparencias (PDF)](TODO)
-* [Mas información](TODO)
-  2017/Junio/01: "Nosotros compartimos". Fuerteventura Maker 2017. Aula 3i (Más información)
-
+* **Evento**: [Fuerteventura Maker](https://aula3i.com/fuerteventura-maker/)
+* **Organiza**: [Aula3i](https://aula3i.com/)
+* **Fecha**: 1-Junio-2017
+* **Lugar**: Parque Tecnológico de Fuerteventura
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-06-01-Aula3i-Fuerteventura-Nosotros-compartimos/2017-06-01-Aula3i-Fuerteventura-Nosotros-compartimos.pdf?raw=true)
+* [Mas información](https://github.com/Obijuan/myslides/wiki/2017_06_01:-Fuerteventura-Makers:-Nosotros-compartimos)
+* [Repositorio](https://github.com/Obijuan/myslides/tree/master/2017-06-01-Aula3i-Fuerteventura-Nosotros-compartimos)
 </details>
 
 
