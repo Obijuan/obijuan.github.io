@@ -312,7 +312,7 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary>🟢(2017) "...y llegaron las FPGAs Libres". Jornadas Sarteco, Málaga
+<summary>🟢(2017) "...y llegaron las FPGAs Libres". KEYNOTE. Jornadas Sarteco, Málaga
 </summary>
 * **Evento**: [Jornadas Sarteco 2017](https://sarteco.org/jornadas-sarteco-2017/)(Sociedad Española de Arquitectura y Tecnología de Computadores )
 * **Fecha**: 22-Sep-2017
@@ -320,6 +320,40 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Programa del evento](https://jornadassarteco.org/js2017/documents/GuiaConferenciante1up.pdf)
 * [Transparencias (PDF)](https://www.jornadassarteco.org/js2017/documents/Keynote3.pdf)
 * [Mas información](https://github.com/Obijuan/myslides/tree/master/2017-09-22-Sarteco-FPGAs-libres)
+</details>
+
+<details markdown="block">
+<summary>(2017) "Electrónica Digital para Todos con FPGAs Libres". Carto. Madrid
+</summary>
+* **Organiza**: [Empresa tecnológica Carto](https://carto.com/)
+* **Fecha**: 27-Julio-2017
+* **Lugar**: Sede central de Carto, en Madrid
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-07-27-Carto-Electronica-digital-FPGAs-libres/2017-07-26-Cargo-Electronica-digital-FPGAs-Libres.pdf)
+* [Mas información](https://github.com/Obijuan/myslides/tree/master/2017-07-27-Carto-Electronica-digital-FPGAs-libres)
+</details>
+
+<details markdown="block">
+<summary>🟢(2017) "Electrónica digital para todos con FPGAs libres". Cursos de verano de la Universidad de Cantabria
+</summary>
+* **Evento**: “Robótica, Arduino y Harware Libre”. Cursos de verano de la Universidad de Cantabria
+* **Organiza**: Universidad de Cantabria
+* **Fecha**: 6-Julio-2017
+* **Lugar**: Revilla de Camargo, Cantabria
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres/2017-07-06-Introduccion-FPGAs-Libres.pdf)
+* [Mas información](https://github.com/Obijuan/myslides/wiki/2017_07_06:-UC:-Electr%C3%B3nica-digital-para-todos-con-FPGAs-libres)
+* [Repositorio](https://github.com/Obijuan/myslides/tree/master/2017-07-06-Curso-Verano-UC-Introduccion-FPGAs-libres)
+</details>
+
+<details markdown="block">
+<summary>(2017)
+</summary>
+* **Evento**: TODO
+* **Organiza**: TODO
+* **Fecha**: TODO
+* **Lugar**: TODO
+* [Transparencias (PDF)](TODO)
+* [Mas información](TODO)
+  2017/Junio/01: "Electrónica digital para todos con FPGAs libres". Fuerteventura Maker 2017. Aula 3i (Más información)
 </details>
 
 
@@ -332,7 +366,99 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * **Lugar**: TODO
 * [Transparencias (PDF)](TODO)
 * [Mas información](TODO)
-* 2017/Julio/27: "Electrónica digital para TODOS con FPGAs Libres". Empresa Carto, Madrid (Más información) (sin wiki)
+  2017/Junio/01: "Nosotros compartimos". Fuerteventura Maker 2017. Aula 3i (Más información)
+
+</details>
+
+
+<details markdown="block">
+<summary>(2017)
+</summary>
+* **Evento**: TODO
+* **Organiza**: TODO
+* **Fecha**: TODO
+* **Lugar**: TODO
+* [Transparencias (PDF)](TODO)
+* [Mas información](TODO)
+2017/Mayo/20: "Eelectrónica digital para todos con FPGAs Libres". Murcia Meetup 2017. CEEIM (Más información)
+
+</details>
+
+
+<details markdown="block">
+<summary>(2017)
+</summary>
+* **Evento**: TODO
+* **Organiza**: TODO
+* **Fecha**: TODO
+* **Lugar**: TODO
+* [Transparencias (PDF)](TODO)
+* [Mas información](TODO)
+2017/Mayo/11: Entrega del premio O'Reilly Open Source award 2017. Austin, Texas (Más información)
+
+</details>
+
+
+<details markdown="block">
+<summary>(2017)
+</summary>
+* **Evento**: TODO
+* **Organiza**: TODO
+* **Fecha**: TODO
+* **Lugar**: TODO
+* [Transparencias (PDF)](TODO)
+* [Mas información](TODO)
+2017/Mayo/05: "Electrónica digital divertida con FPGAs Libres". PEAC. IES Juan de la Cierva. Madrid (Más información)
+</details>
+
+
+<details markdown="block">
+<summary>(2017)
+</summary>
+* **Evento**: TODO
+* **Organiza**: TODO
+* **Fecha**: TODO
+* **Lugar**: TODO
+* [Transparencias (PDF)](TODO)
+* [Mas información](TODO)
+2017/Abril/27: "Electrónica digital divertica con FPGAs Libres". Malakabot 2017. IES Politécnico Jesús Marín. Málaga (Más información)
+</details>
+
+<details markdown="block">
+<summary>(2017)
+</summary>
+* **Evento**: TODO
+* **Organiza**: TODO
+* **Fecha**: TODO
+* **Lugar**: TODO
+* [Transparencias (PDF)](TODO)
+* [Mas información](TODO)
+2017/Mar/04: "Electrónica digital divertida con FPGAs Libres". Fablab Valencia. Universidad Politécnica de Valencia (UPV) (Más información)
+</details>
+
+<details markdown="block">
+<summary>(2017)
+</summary>
+* **Evento**: TODO
+* **Organiza**: TODO
+* **Fecha**: TODO
+* **Lugar**: TODO
+* [Transparencias (PDF)](TODO)
+* [Mas información](TODO)
+* 2017/Feb/24: "Diseño Hardware con FPGAs libres". IV Jornadas de Informática. Universidad de Almería (UAL) (Más información)
+
+</details>
+
+<details markdown="block">
+<summary>(2017)
+</summary>
+* **Evento**: TODO
+* **Organiza**: TODO
+* **Fecha**: TODO
+* **Lugar**: TODO
+* [Transparencias (PDF)](TODO)
+* [Mas información](TODO)
+* 2017/Feb/09: "Electrónica Digital Divertida con FPGAs Libres". Escuela Técnica Superior de Ingeniería y Diseño Industrial (ETSIDI) UPM. Madrid. (Más información)
 </details>
 
 
@@ -351,32 +477,8 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 🚧 TODO 🚧
 
 <details markdown="block">
-<summary> TODO 2017
+<summary> TODO 2016
 </summary>
-
-
-
-2017/Julio/08: Taller de "Electrónica digital para makers, con FPGAs libres". Makespace Madrid (Más información)
-
-2017/Julio/06: "Electrónica digital para todos con FPGAs libres". Sesión en Curso de Verano de la Universidad de Cantabria (Más información)
-
-2017/Junio/01: "Electrónica digital para todos con FPGAs libres". Fuerteventura Maker 2017. Aula 3i (Más información)
-
-2017/Junio/01: "Nosotros compartimos". Fuerteventura Maker 2017. Aula 3i (Más información)
-
-2017/Mayo/20: "Eelectrónica digital para todos con FPGAs Libres". Murcia Meetup 2017. CEEIM (Más información)
-
-2017/Mayo/11: Entrega del premio O'Reilly Open Source award 2017. Austin, Texas (Más información)
-
-2017/Mayo/05: "Electrónica digital divertida con FPGAs Libres". PEAC. IES Juan de la Cierva. Madrid (Más información)
-
-2017/Abril/27: "Electrónica digital divertica con FPGAs Libres". Malakabot 2017. IES Politécnico Jesús Marín. Málaga (Más información)
-
-2017/Mar/04: "Electrónica digital divertida con FPGAs Libres". Fablab Valencia. Universidad Politécnica de Valencia (UPV) (Más información)
-
-2017/Feb/24: "Diseño Hardware con FPGAs libres". IV Jornadas de Informática. Universidad de Almería (UAL) (Más información)
-
-2017/Feb/09: "Electrónica Digital Divertida con FPGAs Libres". Escuela Técnica Superior de Ingeniería y Diseño Industrial (ETSIDI) UPM. Madrid. (Más información)
 </details>
 
 TODO:
@@ -414,6 +516,20 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 ```En esta charla se describe el curso de “Arquitectura de Computadores” que se imparte en 7 grados de la “Escuela Técnica Superior de Ingeniería de las Telecomunicaciones” de la “Universidad Rey Juan Carlos”```
 * [Material usado (PDF)](https://github.com/Obijuan/myslides/blob/master/2020-02-05-Red-RISCV-UAB/2020-02-05-Lab-AO-abierto.pdf)
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2020-02-05-Red-RISCV-UAB)  
+</details>
+
+🚧 TODO 🚧
+
+# Talleres
+
+<details markdown="block">
+<summary>(2017) Taller de "Electrónica digital para makers, con FPGAs libres". Makespace Madrid
+</summary>
+* **Organiza**: [Makespace Madrid](https://makespacemadrid.org/)
+* **Fecha**: 8-Julio-2017
+* **Lugar**: Makespace Madrid
+* **Duración**: 2h
+* [Mas información](https://github.com/FPGAwars/workshops/wiki/2017_07_08:-Makespace-Madrid)
 </details>
 
 
