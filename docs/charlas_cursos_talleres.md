@@ -576,11 +576,1029 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 </details>
 
 
-# TODO
-🚧 TODO 🚧
+<details markdown="block">
+<summary>(2013)  Let's build a modular snake robot. Universidad de Malaga 
+</summary>
+* **Evento**: Microbotics Summer Workshop
+* **Fecha**:  02/Julio/2013
+* **Lugar**: Escuela Tecnica Superior de Ingenieros de Telecomunicación. Universidad de Malaga 
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2013-07-02-modular-robot-malaga/2013-07-01-Modular-snake-robots-Malaga.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2013-07-02:Let%27s_build_a_modular_snake_robot)
+</details>
 
 <details markdown="block">
 <summary>(2013)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**:  06/Abril/2013 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2012)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**:  05/Abril/2013 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2012)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2012)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2012)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2012)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2012)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2012)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2011)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2011)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2011)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2011)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2011)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2011)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2011)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2010)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2010)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2010)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2010)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2010)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2010)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2010)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2009)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2009)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2009)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2009)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2009)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2009)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2009)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2009)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2009)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2008)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2008)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2008)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2008)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2008)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2008)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2008)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2008)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2007)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2007)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2007)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2007)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2007)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2007)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2007)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2007)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2007)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2007)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2006)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2006)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2006)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2006)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2006)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2006)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2006)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2005)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2005)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2005)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2005)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2005)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2005)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2005)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2005)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2005)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2005)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2005)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2005)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2005)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2005)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2005)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2004)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2004)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2004)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2004)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2004)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2004)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2004)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2004)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2004)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2004)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2004)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2004)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2004)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2003)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2003)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2003)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2003)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2003)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2003)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2003)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2003)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+
+<details markdown="block">
+<summary>(2002)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2001)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2001)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2001)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2000)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(2000)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(1999)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(1997)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(1996)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* [Transparencias (PDF)]()
+</details>
+
+<details markdown="block">
+<summary>(1995)
 </summary>
 * **Evento**: 
 * **Organiza**: 
