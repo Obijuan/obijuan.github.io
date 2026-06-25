@@ -413,16 +413,15 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary>(2017)
+<summary>🟢(2017) "Diseño Hardware con FPGAs libres". IV Jornadas de Informática. Universidad de Almería
 </summary>
-* **Evento**: TODO
-* **Organiza**: TODO
+* **Evento**: IV Jornadas de Informática
+* **Organiza**: Universidad de Almería
 * **Fecha**: 24-Feb-2017
-* **Lugar**: TODO
-* [Transparencias (PDF)](TODO)
-* [Mas información](TODO)
-"Diseño Hardware con FPGAs libres". IV Jornadas de Informática. Universidad de Almería (UAL) (Más información)
-
+* **Lugar**: Escuela Superior de Ingeniería. UAL
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-02-24-Dise%C3%B1o-hardware-con-FPGAs-libres-UAL/2017-02-24-UAL-Diseno-hw-FPGAs-libres.pdf)
+* [Mas información](https://github.com/Obijuan/myslides/wiki/2017-02-24:-UAL-Dise%C3%B1o-Hardware-con-FPGAs-libres)
+* [Repositorio](https://github.com/Obijuan/myslides/tree/master/2017-02-24-Dise%C3%B1o-hardware-con-FPGAs-libres-UAL)
 </details>
 
 <details markdown="block">
