@@ -368,7 +368,6 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Repositorio](https://github.com/Obijuan/myslides/tree/master/2017-06-01-Aula3i-Fuerteventura-Nosotros-compartimos)
 </details>
 
-
 <details markdown="block">
 <summary>(2017)
 </summary>
@@ -378,8 +377,23 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * **Lugar**: TODO
 * [Transparencias (PDF)](TODO)
 * [Mas información](TODO)
-2017/Mayo/20: "Eelectrónica digital para todos con FPGAs Libres". Murcia Meetup 2017. CEEIM (Más información)
+2017/Mayo/20: "Electrónica digital para todos con FPGAs Libres". Murcia Meetup 2017. CEEIM (Más información)
+</details>
 
+
+
+
+
+<details markdown="block">
+<summary>(2017)
+</summary>
+* **Evento**: TODO
+* **Organiza**: TODO
+* **Fecha**: 5-Mayo-2017
+* **Lugar**: TODO
+* [Transparencias (PDF)](TODO)
+* [Mas información](TODO)
+"Electrónica digital divertida con FPGAs Libres". PEAC. IES Juan de la Cierva. Madrid (Más información)
 </details>
 
 
@@ -388,38 +402,11 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </summary>
 * **Evento**: TODO
 * **Organiza**: TODO
-* **Fecha**: TODO
+* **Fecha**: 27-Abril-2017
 * **Lugar**: TODO
 * [Transparencias (PDF)](TODO)
 * [Mas información](TODO)
-2017/Mayo/11: Entrega del premio O'Reilly Open Source award 2017. Austin, Texas (Más información)
-
-</details>
-
-
-<details markdown="block">
-<summary>(2017)
-</summary>
-* **Evento**: TODO
-* **Organiza**: TODO
-* **Fecha**: TODO
-* **Lugar**: TODO
-* [Transparencias (PDF)](TODO)
-* [Mas información](TODO)
-2017/Mayo/05: "Electrónica digital divertida con FPGAs Libres". PEAC. IES Juan de la Cierva. Madrid (Más información)
-</details>
-
-
-<details markdown="block">
-<summary>(2017)
-</summary>
-* **Evento**: TODO
-* **Organiza**: TODO
-* **Fecha**: TODO
-* **Lugar**: TODO
-* [Transparencias (PDF)](TODO)
-* [Mas información](TODO)
-2017/Abril/27: "Electrónica digital divertica con FPGAs Libres". Malakabot 2017. IES Politécnico Jesús Marín. Málaga (Más información)
+"Electrónica digital divertica con FPGAs Libres". Malakabot 2017. IES Politécnico Jesús Marín. Málaga (Más información)
 </details>
 
 <details markdown="block">
@@ -427,11 +414,11 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </summary>
 * **Evento**: TODO
 * **Organiza**: TODO
-* **Fecha**: TODO
+* **Fecha**: 4-Marzo-2017
 * **Lugar**: TODO
 * [Transparencias (PDF)](TODO)
 * [Mas información](TODO)
-2017/Mar/04: "Electrónica digital divertida con FPGAs Libres". Fablab Valencia. Universidad Politécnica de Valencia (UPV) (Más información)
+"Electrónica digital divertida con FPGAs Libres". Fablab Valencia. Universidad Politécnica de Valencia (UPV) (Más información)
 </details>
 
 <details markdown="block">
@@ -439,11 +426,11 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </summary>
 * **Evento**: TODO
 * **Organiza**: TODO
-* **Fecha**: TODO
+* **Fecha**: 24-Feb-2017
 * **Lugar**: TODO
 * [Transparencias (PDF)](TODO)
 * [Mas información](TODO)
-* 2017/Feb/24: "Diseño Hardware con FPGAs libres". IV Jornadas de Informática. Universidad de Almería (UAL) (Más información)
+"Diseño Hardware con FPGAs libres". IV Jornadas de Informática. Universidad de Almería (UAL) (Más información)
 
 </details>
 
@@ -452,11 +439,11 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </summary>
 * **Evento**: TODO
 * **Organiza**: TODO
-* **Fecha**: TODO
+* **Fecha**: 9-Feb-2017
 * **Lugar**: TODO
 * [Transparencias (PDF)](TODO)
 * [Mas información](TODO)
-* 2017/Feb/09: "Electrónica Digital Divertida con FPGAs Libres". Escuela Técnica Superior de Ingeniería y Diseño Industrial (ETSIDI) UPM. Madrid. (Más información)
+"Electrónica Digital Divertida con FPGAs Libres". Escuela Técnica Superior de Ingeniería y Diseño Industrial (ETSIDI) UPM. Madrid. (Más información)
 </details>
 
 
@@ -533,6 +520,17 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 
 🚧 TODO 🚧
 
+# Otros
+
+<details markdown="block">
+<summary>(2017) Entrega del premio O'Reilly Open Source award 2017. Austin, Texas
+</summary>
+* **Evento**: [O'Really Open Source Convention](https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Convention)
+* **Organiza**: [0'Really](https://www.oreilly.com/conferences/)  
+* **Fecha**: 11-Mayo-2017
+* **Lugar**:  Austin Convention Center. Austin, Texas, EEUU
+* [Mas información](https://github.com/Obijuan/myslides/wiki/2017_05_11:-Entrega-del-O'Reilly-Open-Source-Award-2017)
+</details>
 
 <details markdown="block">
 <summary>(2017)
