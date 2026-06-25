@@ -530,6 +530,7 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * **Fecha**: 11-Mayo-2017
 * **Lugar**:  Austin Convention Center. Austin, Texas, EEUU
 * [Mas información](https://github.com/Obijuan/myslides/wiki/2017_05_11:-Entrega-del-O'Reilly-Open-Source-Award-2017)
+* [Repositorio](https://github.com/Obijuan/myslides/tree/master/2017-05-11-Austin-Texas-O-Reilly-Open-Source-Award)  
 </details>
 
 <details markdown="block">
