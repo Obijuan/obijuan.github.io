@@ -522,7 +522,7 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary>(2016) "FPGAwars: Explorando el lado libre de las FPGAs". Madrid Makerfaire.
+<summary>(2016) "FPGAwars: Explorando el lado libre de las FPGAs". Madrid Makerfaire
 </summary>
 * **Evento**: Madrid Makerfaire
 * **Organiza**: MediaLab-Prado
@@ -536,15 +536,14 @@ MediaLab Prado (Más información)
 </details>
 
 <details markdown="block">
-<summary>(2016)
+<summary>(2016) "FPGAs Libres". Granada geek.
 </summary>
-* **Evento**: 
-* **Organiza**: 
+* **Evento**: Granada geek
 * **Fecha**: 23-Sep-2016
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Repositorio]()
-"FPGAs Libres". Granada geek. ETSIIT de la Universidad de Granada (Más información)
+* **Lugar**: ETSIIT de la Universidad de Granada
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/raw/master/2016-09-23-Granada-geek/2016-09-23-Granada-Geek-fpgas-libres.pdf)
+* [Más información](https://github.com/Obijuan/myslides/wiki/2016_09_23-Granada-Geek-FPGAs-Libres)
+* [Repositorio](https://github.com/Obijuan/myslides/tree/master/2016-09-23-Granada-geek)
 </details>
 
 # TODO
