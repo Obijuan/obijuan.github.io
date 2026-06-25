@@ -461,15 +461,15 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary>(2016)
+<summary>(2016) "FPGAs Libres". Ourense MakersLab
 </summary>
-* **Evento**: 
-* **Organiza**: 
+* **Evento**: Ourense Makers Lab
 * **Fecha**: 10-Dic-2016
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Repositorio]()
-"FPGAs Libres". Ourense MakersLab. La Molinera (Más información)
+* **Lugar**: [La Molinera](https://lamolinera.net/)
+* [Vídeo en Youtube](https://www.youtube.com/watch?v=1E76Rr3cxnw)  
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/raw/master/2016-12-10-Ourense-Makerslab-FPGAs-Libres/2016-12-10-Ourense-Makerslab-fpgas-libres.pdf)
+* [Más información](https://github.com/Obijuan/myslides/wiki/2016_12_10:-Ourense-Makerslab,-FPGAs-Libres)
+* [Repositorio](https://github.com/Obijuan/myslides/tree/master/2016-12-10-Ourense-Makerslab-FPGAs-Libres)
 </details>
 
 <details markdown="block">
