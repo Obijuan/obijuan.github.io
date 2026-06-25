@@ -522,15 +522,17 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary>(2016)
+<summary>(2016) "FPGAwars: Explorando el lado libre de las FPGAs". Madrid Makerfaire.
 </summary>
-* **Evento**: 
-* **Organiza**: 
+* **Evento**: Madrid Makerfaire
+* **Organiza**: MediaLab-Prado
 * **Fecha**: 24-Sep-2016
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Repositorio]()
-"FPGAwars: Explorando el lado libre de las FPGAs". Madrid Makerfaire. MediaLab Prado (Más información)
+* **Lugar**: MediaLab-Prado
+* [Vídeo](https://www.youtube.com/watch?v=rdlEpW_Ce5g)
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/raw/master/2016-09-24-Mini-maker-faire-madrid/2016-09-24-Mini-maker-faire-madrid.pdf)
+* [Más Información](https://github.com/Obijuan/myslides/wiki/2016_09_24-Madrid-Maker-faire:FPGAwars-explorando-el-lado-libre)
+* [Repositorio](https://github.com/Obijuan/myslides/tree/master/2016-09-24-Mini-maker-faire-madrid)
+MediaLab Prado (Más información)
 </details>
 
 <details markdown="block">
