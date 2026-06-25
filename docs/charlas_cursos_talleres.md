@@ -625,14 +625,14 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 </details>
 
 <details markdown="block">
-<summary>(2012)
+<summary>(2012) "Printbots: Robots libres e imprimibles". OSHWcon12 
 </summary>
-* **Evento**: 
+* **Evento**: OpenSource hardware convention 2012
 * **Organiza**: 
-* **Fecha**:  21/Sep/2012 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Fecha**: 21/Sep/2012 
+* **Lugar**: Centro de Formación Padre Piquer. Madrid
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2012-09-21-oshwcon/2012-09-21-oshwcon-printbots.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2012-09-23:_Robots_libres_e_imprimibles)
 </details>
 
 <details markdown="block">
