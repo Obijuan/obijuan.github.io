@@ -615,11 +615,21 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 </details>
 
 <details markdown="block">
+<summary>(2012) "Printbots: Robots libres e imprimibles". OSHWDEM, Coruña
+</summary>
+* **Evento**: OSHWDEM
+* **Fecha**: 17/Nov/2012 
+* **Lugar**: Centro Cultural Ágora de A Coruña
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2012-11-17-oshdem/printbots/2012-11-15-oshwdem-printbots.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2012-11-17:OSHWDEM:_Robots_libres_e_imprimibles)
+</details>
+
+<details markdown="block">
 <summary>(2012)
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**:  
+* **Fecha**:  21/Sep/2012 
 * **Lugar**: 
 * [Transparencias (PDF)]()
 * [Más información]()
@@ -630,7 +640,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  7-8/Junio/2012 
 * **Lugar**: 
 * [Transparencias (PDF)]()
 * [Más información]()
@@ -641,7 +651,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  15/Mayo/2012 
 * **Lugar**: 
 * [Transparencias (PDF)]()
 * [Más información]()
@@ -652,18 +662,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2012)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  05/Mayo/2012 
 * **Lugar**: 
 * [Transparencias (PDF)]()
 </details>
@@ -673,7 +672,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  26/Abril/2012 
 * **Lugar**: 
 * [Transparencias (PDF)]()
 </details>
@@ -683,7 +682,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  28/Marzo/2012 
 * **Lugar**: 
 * [Transparencias (PDF)]()
 </details>
