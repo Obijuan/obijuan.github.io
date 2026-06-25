@@ -497,15 +497,16 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary>(2016)
+<summary>🟢(2016) "FPGAs Libres". OSHWDem 2016. Coruña
 </summary>
-* **Evento**: 
-* **Organiza**: 
+* **Evento**: [OSHDEM 2016](https://www.oshwdem.org/2016/11/vaya-feria/)
+* **Organiza**: [Bricolabs](http://bricolabs.cc/)
 * **Fecha**: 5-Nov-2016
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Repositorio]()
-"FPGAs Libres". OSHWDem 2016. Coruña (Más información)
+* **Lugar**: [Museo Domus, Coruña](https://www.coruna.gal/mc2/gl)
+* [Vídeo](https://www.youtube.com/watch?v=XWC1B7UKv98)
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/raw/master/2016-11-05-OSHWdem16-fpgas-libres/2016-11-05-OSHWdem16-fpgas-libres.pdf)
+* [Más información](https://github.com/Obijuan/myslides/wiki/2016_11_05:-OSHWdem-2016,-Coru%C3%B1a.-FPGAs-libres)
+* [Repositorio](https://github.com/Obijuan/myslides/tree/master/2016-11-05-OSHWdem16-fpgas-libres)
 </details>
 
 <details markdown="block">
