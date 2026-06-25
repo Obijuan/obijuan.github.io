@@ -546,6 +546,12 @@ MediaLab Prado (Más información)
 * [Repositorio](https://github.com/Obijuan/myslides/tree/master/2016-09-23-Granada-geek)
 </details>
 
+-------
+### DESCANSO
+Entre el 2013 y 2016 dejé de dar charlas. Volví para presentar lo último en lo que estaba trabajando: LAS FPGAS LIBRES  
+
+--------
+
 # TODO
 🚧 TODO 🚧
 
