@@ -288,7 +288,6 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Mas información](https://github.com/Obijuan/myslides/tree/master/2017-10-19-LibreCon-FPGAs-libres)
 </details>
 
-
 <details markdown="block">
 <summary>(2017) "Movimiento Maker. Compartiendo conocimiento: FPGAs Libres". INGENIA'17. XII Jornadas de Ingeniería Industrial Aplicada. Universidad de La Rioja, Logroño
 </summary>
@@ -300,7 +299,6 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Transparencias (PDF)]([TODO](https://github.com/Obijuan/myslides/blob/master/2017-10-06-Universidad-Rioja-Logro%C3%B1o-makers/2017-10-06-La-Rioja-FPGAs-libres.pdf?raw=true))
 * [Mas información](https://github.com/Obijuan/myslides/tree/master/2017-10-06-Universidad-Rioja-Logro%C3%B1o-makers)
 </details>
-
 
 <details markdown="block">
 <summary>(2017) "OpenSource y Electrónica Digital". Taller de FPGAs libres en TEDxValladolid. LAVA, Valladolidad
@@ -314,16 +312,14 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary>(2017)
+<summary>🟢(2017) "...y llegaron las FPGAs Libres". Jornadas Sarteco, Málaga
 </summary>
-* **Evento**: TODO
-* **Organiza**: TODO
-* **Fecha**: TODO
-* **Lugar**: TODO
-* [Transparencias (PDF)](TODO)
-* [Mas información](TODO)
-  2017/Sep/22: "...y llegaron las FPGAs Libres". Jornadas Sarteco, Málaga (Más información (wiki no completa))
-
+* **Evento**: [Jornadas Sarteco 2017](https://sarteco.org/jornadas-sarteco-2017/)(Sociedad Española de Arquitectura y Tecnología de Computadores )
+* **Fecha**: 22-Sep-2017
+* **Lugar**: Universidad de Málaga
+* [Programa del evento](https://jornadassarteco.org/js2017/documents/GuiaConferenciante1up.pdf)
+* [Transparencias (PDF)](https://www.jornadassarteco.org/js2017/documents/Keynote3.pdf)
+* [Mas información](https://github.com/Obijuan/myslides/tree/master/2017-09-22-Sarteco-FPGAs-libres)
 </details>
 
 
@@ -385,6 +381,7 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 
 TODO:
 * http://malakabot.com/colaboraciones/universidad/international-microbotics-summer-workshop-2013/
+* https://vimeo.com/239442114?turnstile=1.woWFyHaCJnGy4e99W_Xd4qVQ8z-sB5H6Ecqb3UCddqxHRdeWN_QjCfAgsiWHEfsSZZblaDraLPhW_ZWB9DqFeSEu3S3XGMaRC0mR_zNym_PUbAuuRRnb_zR0jlfjD-iNlsRpp1em6EKSLG9onM8oeWer4IkSyH1S_YJZKoxtL8Xp98dU8uCW741lEihrZXzvKeVKk9JF99wJgzX5g0UDpL8y5IzdnlC6rWtUZu4IDRp5_saSUlDo_TeIvaox6okuWpISnuIswaaCRsUqjisPQWa6_pJwduvRRg2MiWAjMZVhmZ3bwiENUa_UzlsSE8bpuPiX1KBMmjEqLMH-lemxaWi6IbtqObiUXeYY_KW3nZ1bZDRX_N7fk_38H8ns2syngT1ZzNVWZ7THMJI-hOgLFH_EjHrJATN-fg-bzg1tcqFaz1rNZ09TUsT-lsqsYMQNTTZlpI8zUE_ROzUqhedUOM34VpaZI3t5y1G7JvVCDWKfv5kpO5yoBXcsYCPNiyhQYQa03yrtlqH0fMNjsdXo6CdMPXRn84PRJUXF7fbcoI1JA4ZA1YUTT1CJIpHZRHAcmSpXgbRCe-hJOO6hBchCfA.Vt48XuFxzG3Lq1kxShECxQ.b3650692c85a22319fcc73e9908b5e0b196778efdb121b083e740c92d3cd5103
 
 🚧 TODO 🚧
 
