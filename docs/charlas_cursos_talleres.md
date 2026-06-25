@@ -564,18 +564,23 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * [Más información](http://www.iearobotics.com/wiki/index.php?title=2014-01-21:_Makers,_S.A)
 </details>
 
+<details markdown="block">
+<summary>(2013) "Yo, maker". TEDxValladolid
+</summary> 
+* **Evento**: [TEDx Valladolid 2013](https://tedxvalladolid.com/evento-2013/)
+* **Fecha**:  21/Septiembre/2013 
+* **Lugar**: LAVA, Laboratorio de las artes de Valladolid
+* [Vídeo en youtube](https://www.youtube.com/watch?v=94_uaafCR0w)  
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2013-09-21-TEDx-Valladolid/yo-maker-TEDx-final.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2013-09-21:_Yo,Maker._TEDx_Valladolid)
+</details>
+
 
 # TODO
 🚧 TODO 🚧
 
-
 <details markdown="block">
-<summary> TODO 2015
-</summary>
-</details>
-
-<details markdown="block">
-<summary>(2016)
+<summary>(2013)
 </summary>
 * **Evento**: 
 * **Organiza**: 
