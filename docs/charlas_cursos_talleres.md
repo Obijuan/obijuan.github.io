@@ -425,6 +425,18 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
+<summary>🟢(2017) "Taller de Diseño Hardware con FPGAs". IV Jornadas de Informática. Universidad de Almería
+</summary>
+* **Evento**: IV Jornadas de Informática
+* **Organiza**: Universidad de Almería
+* **Fecha**: 24-Feb-2017
+* **Lugar**: Escuela Superior de Ingeniería. UAL
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-02-24-Dise%C3%B1o-hardware-con-FPGAs-libres-UAL/2017-02-24-UAL-Diseno-hw-FPGAs-libres.pdf)
+* [Mas información](https://github.com/Obijuan/myslides/wiki/2017-02-24:-UAL-Dise%C3%B1o-Hardware-con-FPGAs-libres)
+* [Repositorio](https://github.com/Obijuan/myslides/tree/master/2017-02-24-Dise%C3%B1o-hardware-con-FPGAs-libres-UAL)
+</details>
+
+<details markdown="block">
 <summary>(2017) "Electrónica Digital Divertida con FPGAs Libres". Escuela Técnica Superior de Ingeniería y Diseño Industrial (ETSIDI) UPM
 </summary>
 * **Fecha**: 9-Feb-2017
@@ -434,16 +446,6 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 * [Repositorio](https://github.com/Obijuan/myslides/tree/master/2017-02-24-Dise%C3%B1o-hardware-con-FPGAs-libres-UAL)
 </details>
 
-<details markdown="block">
-<summary>(2016)
-</summary>
-* **Evento**: TODO
-* **Organiza**: TODO
-* **Fecha**: TODO
-* **Lugar**: TODO
-* [Transparencias (PDF)](TODO)
-* [Mas información](TODO)
-</details>
 
 
 # TODO
