@@ -391,15 +391,14 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary>(2017)
+<summary>(2017) "Electrónica digital divertica con FPGAs Libres". Malakabot 2017. Málaga
 </summary>
-* **Evento**: TODO
-* **Organiza**: TODO
+* **Evento**: [Malakabot 2017](http://malakabot.com/category/certamenes/malakabot-2017/)
 * **Fecha**: 27-Abril-2017
-* **Lugar**: TODO
-* [Transparencias (PDF)](TODO)
-* [Mas información](TODO)
-"Electrónica digital divertica con FPGAs Libres". Malakabot 2017. IES Politécnico Jesús Marín. Málaga (Más información)
+* **Lugar**: IES Politécnico Jesús Marín. Málaga
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-04-27-Electronica-digital-divertica-Malakabot/2017-04-27-Malakabot-Elec-Dig-Divertida-con-FPGAs-libres.pdf?raw=true)
+* [Mas información](https://github.com/Obijuan/myslides/wiki/2017_04_27:-Malakabot-17:-Electr%C3%B3nica-digital-divertida-con-FPGAs-libres)
+* [Repositorio](https://github.com/Obijuan/myslides/tree/master/2017-04-27-Electronica-digital-divertica-Malakabot)
 </details>
 
 <details markdown="block">
