@@ -510,15 +510,15 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary>(2016)
+<summary>(2016) "FPGAs Libres". EL EVENTO. UC3M
 </summary>
-* **Evento**: 
-* **Organiza**: 
+* **Evento**: [El Evento, 2016](https://asrob.uc3m.es/evento2016/)
+* **Organiza**: [ASROB: Asociación de robótica UC3M](https://asrob.uc3m.es/)
 * **Fecha**: 24-Oct-2016
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Repositorio]()
-"FPGAs Libres". EL EVENTO. Universidad Carlos III de Madrid (Más información)
+* **Lugar**: Escuela Politécnica Superior de la UC3M. Campus de Leganés
+* [Vídeo](https://www.youtube.com/watch?v=By8x3gL88T0)  
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/raw/master/2016-10-24-EL-EVENTO-uc3m-Madrid/2016-10-24-EL-EVENTO-uc3m.pdf)
+* [Más información](https://github.com/Obijuan/myslides/wiki/2016_10_24:-El-Evento-2016,-UC3M.-FPGAs-libres)
 </details>
 
 <details markdown="block">
