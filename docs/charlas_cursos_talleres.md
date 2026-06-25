@@ -636,14 +636,12 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 </details>
 
 <details markdown="block">
-<summary>(2012)
+<summary>(2012) "Exhibición de printbots y robots modulares". UPM
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**:  7-8/Junio/2012 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: Exposición Robocity 2012
+* **Fecha**:  7-8/Junio/2012
+* **Lugar**: Escuela Superior de Ingenieros Industriales de la UPM
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2012-06-7:_Printbots_y_robots_modualres_en_Robocity_2012)
 </details>
 
 <details markdown="block">
