@@ -345,24 +345,24 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary>(2017)
+<summary>(2017) "Electrónica digital para todos con FPGAs libres". Fuerteventura Maker 2017
 </summary>
-* **Evento**: TODO
-* **Organiza**: TODO
-* **Fecha**: TODO
-* **Lugar**: TODO
-* [Transparencias (PDF)](TODO)
-* [Mas información](TODO)
-  2017/Junio/01: "Electrónica digital para todos con FPGAs libres". Fuerteventura Maker 2017. Aula 3i (Más información)
+* **Evento**: [Fuerteventura Maker](https://aula3i.com/fuerteventura-maker/)
+* **Organiza**: [Aula3i](https://aula3i.com/)
+* **Fecha**: 1-Junio-2017
+* **Lugar**: 
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/tree/master/2017-06-01-Aula3i-Electronica-digital-divertida-FPGAs-libres)
+* [Mas información](https://github.com/Obijuan/myslides/wiki/2017_06_01:-Fuerteventura-Makers:-Electr%C3%B3nica-digital-para-todos-con-FPGAs-libres)
+* [Repositorio](https://github.com/Obijuan/myslides/tree/master/2017-06-01-Aula3i-Electronica-digital-divertida-FPGAs-libres)
 </details>
 
 
 <details markdown="block">
 <summary>(2017)
 </summary>
-* **Evento**: TODO
-* **Organiza**: TODO
-* **Fecha**: TODO
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**: 
 * **Lugar**: TODO
 * [Transparencias (PDF)](TODO)
 * [Mas información](TODO)
