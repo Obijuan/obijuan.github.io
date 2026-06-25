@@ -369,33 +369,26 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary>(2017)
+<summary>(2017) "Electrónica digital para todos con FPGAs Libres". Murcia Meetup 2017
 </summary>
-* **Evento**: TODO
-* **Organiza**: TODO
-* **Fecha**: TODO
-* **Lugar**: TODO
-* [Transparencias (PDF)](TODO)
-* [Mas información](TODO)
-2017/Mayo/20: "Electrónica digital para todos con FPGAs Libres". Murcia Meetup 2017. CEEIM (Más información)
+* **Evento**: Murcia Meetup day 2017
+* **Fecha**: 20-Mayo-2017
+* **Lugar**: [CEEIM: Centro Europeo de Emprendimiento de Innovación de Murcia](CEEIM: Centro Europeo de Emprendimiento de Innovación de Murcia)
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-05-20-Murcia-Meetup-Day-Electronica-digital-para-todos-con-FPGAs-libres/2017-05-20-Murcia-Meetup-day-Elec-Dig-para-todos-con-FPGAs-libres.pdf?raw=true)
+* [Mas información](https://github.com/Obijuan/myslides/wiki/2017_05_20:-Murcia-Meetup:-Electr%C3%B3nica-digital-para-todos-con-FPGAs-libres)
+* [Repositorio](https://github.com/Obijuan/myslides/tree/master/2017-05-20-Murcia-Meetup-Day-Electronica-digital-para-todos-con-FPGAs-libres)
 </details>
-
-
-
-
 
 <details markdown="block">
-<summary>(2017)
+<summary>(2017) "Electrónica digital divertida con FPGAs Libres". PEAC. IES Juan de la Cierva. Madrid
 </summary>
-* **Evento**: TODO
-* **Organiza**: TODO
+* **Evento**: [PEAC](https://www.educa2.madrid.org/web/peac): Programa de Enriquecimiento Educativo para Alumnos con Altas Capacidades
+* **Organiza**: EducaMadrid
 * **Fecha**: 5-Mayo-2017
-* **Lugar**: TODO
-* [Transparencias (PDF)](TODO)
-* [Mas información](TODO)
-"Electrónica digital divertida con FPGAs Libres". PEAC. IES Juan de la Cierva. Madrid (Más información)
+* **Lugar**: IES Juan de la Cierva
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/blob/master/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/2017-05-05-PEAC-Elec-Dig-Divertida-con-FPGAs-libres.pdf?raw=true)
+* [Mas información](https://github.com/Obijuan/myslides/wiki/2017_05_05:-PEAC.-IES-Juan-de-la-Cierva:-Electr%C3%B3nica-digital-divertida-con-FPGAs-libres)
 </details>
-
 
 <details markdown="block">
 <summary>(2017)
@@ -533,10 +526,5 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * [Repositorio](https://github.com/Obijuan/myslides/tree/master/2017-05-11-Austin-Texas-O-Reilly-Open-Source-Award)  
 </details>
 
-<details markdown="block">
-<summary>(2017)
-</summary>
-
-</details>
 
 
