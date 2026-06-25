@@ -473,15 +473,15 @@ La jornada será transmitida online en el canal de YouTube de la Consejería de 
 </details>
 
 <details markdown="block">
-<summary>(2016)
+<summary>(2016) "FPGAs Libres". Bilbao Maker faire
 </summary>
-* **Evento**: 
-* **Organiza**: 
+* **Evento**: [ilbao Makerfaire](http://bilbao.makerfaire.com)
+* **Organiza**: [Espacio Open, Bilbao](https://espacioopen.com/)
 * **Fecha**: 18-Nov-2016
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Repositorio]()
-"FPGAs Libres". Bilbao Maker faire. Espacio Open (Más información)
+* **Lugar**: [Espacio Open, Bilbao](https://espacioopen.com/)
+* [Transparencias (PDF)](https://github.com/Obijuan/myslides/raw/master/2016-11-18-Maker-faire-Bilbao-FPGAs-libres/2016-11-18-Maker-faire-Bilbao-fpgas-libres.pdf)
+* [Más información](https://github.com/Obijuan/myslides/wiki/2016_11_18:-Maker-faire-Bilbao,-FPGAs-Libres)  
+* [Repositorio](https://github.com/Obijuan/myslides/tree/master/2016-11-18-Maker-faire-Bilbao-FPGAs-libres)
 </details>
 
 <details markdown="block">
