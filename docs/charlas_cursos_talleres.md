@@ -575,9 +575,8 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * [Más información](http://www.iearobotics.com/wiki/index.php?title=2013-09-21:_Yo,Maker._TEDx_Valladolid)
 </details>
 
-
 <details markdown="block">
-<summary>(2013)  Let's build a modular snake robot. Universidad de Malaga 
+<summary>🟢(2013) "Let's build a modular snake robot". Universidad de Malaga 
 </summary>
 * **Evento**: Microbotics Summer Workshop
 * **Fecha**:  02/Julio/2013
@@ -587,23 +586,43 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 </details>
 
 <details markdown="block">
-<summary>(2013)
+<summary>(2013) "Introducción a los robots imprimibles y al diseño con openscad". IES Juan de la Cierva
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**:  06/Abril/2013 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Evento**: Programa de Enriquecimiento Educativo de la Comunidad de Madrid.
+* **Fecha**:  06/Abril/2013
+* **Lugar**: IES Juan de la Cierva
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2013-04-06:Introducci%C3%B3n_a_los_robots_imprimibles_y_al_dise%C3%B1o_con_openscad)
 </details>
 
 <details markdown="block">
-<summary>(2012)
+<summary>(2013) "Robots imprimibles: Fabricación personal de robots". Universidad de Alcalá. Madrid 
 </summary>
-* **Evento**: 
-* **Organiza**: 
+* **Evento**: Semana de la robótica Alcabot-Hispabot.
 * **Fecha**:  05/Abril/2013 
+* **Lugar**: Escuela Politécnica Superior. UAH
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2013-04-11-alcabot/2013-03-05-uah-printbots.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2013-04-05:Semana_Rob%C3%B3tica_Alcabot-Hispabot:_Fabricaci%C3%B3n_personal_de_robots)
+</details>
+
+<details markdown="block">
+<summary>(2013) "Printbots: Robots libres e imprimibles". Zaragoza
+</summary>
+* **Evento**:  eTopia Maker Show,
+* **Fecha**:   23/Feb/2013 
+* **Lugar**:  Edificio seminario del Ayuntamiento de Zaragoza
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2013-02-23-emaker-zaragoza/2013-02-23-emaker-zaragoza.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2013-02-23:Maker_Show_Zaragoza:_Robots_libres_e_imprimibles)
+</details>
+
+<details markdown="block">
+<summary>(2012)
+</summary>
+* **Evento**: 
+* **Organiza**: 
+* **Fecha**:  
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -614,6 +633,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -624,6 +644,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -634,6 +655,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
