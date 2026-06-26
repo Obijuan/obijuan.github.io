@@ -1015,171 +1015,100 @@ MediaLab Prado (Más información)
 * [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf21/index.html)
 </details>
 
-
 <details markdown="block">
-<summary>(2005)
+<summary>(2005) "Cube Begins...". Charla en el IRC. 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Organiza**: Organizado por A.R.D.E. 
+* **Fecha**: 27/Nov/2005 
+* **Lugar**: IRC
+* [Más información](http://www.iearobotics.com/proyectos/charlas-irc/cube-begins/log-27-nov-2005.html)
 </details>
 
 <details markdown="block">
-<summary>(2005)
+<summary>(2005) "Demostraciones de Robots articulados". UCA 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: Semana de la ciencia y la tecnología. II Jornadas de robótica en la UCA.
+* **Fecha**:  10/Nov/2005 
+* **Lugar**: Escuela Superior de Ingeniería de la Universidad de Cádiz
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf20/index.html)
 </details>
 
 <details markdown="block">
-<summary>(2005)
+<summary>(2005) "Demostración de robots Ápodos".  Centro Joven de Alcorcón, Madrid 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**:  Presentación de A.R.D.E.
+* **Fecha**:  02/Oct/2005 
+* **Lugar**:  Centro Joven de Alcorcón, Madrid.
+* [Más información](http://www.iearobotics.com/personal/juan/eventos/evento05/index.html)
 </details>
 
 <details markdown="block">
-<summary>(2005)
+<summary>(2005) "Mesa Redonda, “Robótica. Cómo iniciarse... y continuar". Área de CampusBot. CampusParty. Valencia 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: Area de CambusBot. CampusParty
+* **Fecha**:  30/Julio/2005 
+* **Lugar**: Valencia
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf18/index.html)
 </details>
 
 <details markdown="block">
-<summary>(2005)
+<summary>(2005) "Diseño de Robots Ápodos: Cube Revolutions". Área de CampusBot. CampusParty. Valencia
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: Área de CampusBot. CampusParty.
+* **Fecha**:  27/Julio/2005 
+* **Lugar**: Valencia
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf17/download/CampusParty-cube-rev.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf17/index.html)
 </details>
 
 <details markdown="block">
-<summary>(2005)
+<summary>(2005) "Demostración de robots modulares".  E.T.S.I Telecomunicación e Informática de la Universidad de Málaga. 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: V Muestra de Microbótica.
+* **Fecha**:  30/Mayo/2005 
+* **Lugar**: Salón de Actos de la E.T.S.I. Telecomunicación y E.T.S.I. Informática de la Universidad de Málaga
+* [Más información](http://www.iearobotics.com/personal/juan/eventos/evento02/index.html)
 </details>
 
 <details markdown="block">
-<summary>(2005)
+<summary>(2005) "Sesiones de robótica". Comunidad de Madrid. UPSAM 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
+* **Fecha**:  9/Abril/2005 
+* **Lugar**: UPSAM
 * [Transparencias (PDF)]()
-* [Más información]()
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf8/index.html)
 </details>
 
 <details markdown="block">
-<summary>(2005)
+<summary>(2005) "Diseño de Robots ápodos: Cube Revolutions". UVA
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: Concurso de robótica Robolid05
+* **Fecha**:  7/Abril/2005 
+* **Lugar**: ETSII de Valladolid. UVa.
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf7/download/robolid05-cube-rev.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf7/index.html)
 </details>
 
 <details markdown="block">
-<summary>(2005)
+<summary>(2005) "Robótica y Linux: Cómo se hizo Cube Revolutions".  Madrid
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: IV Jornadas de Software libre en la UPSAM
+* **Fecha**: 10/Marzo/2005
+* **Lugar**: UPSAM
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf6/download/upsam-robotica-linux-cube.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf6/index.html)
 </details>
 
 <details markdown="block">
-<summary>(2005)
+<summary>(2005) "Robótica y Linux". ¡Innovame!. CDTinternet.net. Madrid
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**:  Jornadas de difusión de la innovación tecnológica
+* **Fecha**:  24/Enero/2005 
+* **Lugar**: Locales del CDTinternet.net. Edificio Santo Domingo de Madrid
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf5/download/innovame.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf5/index.html)
 </details>
 
-<details markdown="block">
-<summary>(2005)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2005)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2005)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2005)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2005)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
 
 <details markdown="block">
 <summary>(2004)
@@ -1537,8 +1466,25 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * [Más información](http://www.iearobotics.com/wiki/index.php?title=Paper:2010-RoboCity-8-workshop-robots-exteriores)
 </details>
 
+<details markdown="block">
+<summary>(2005) "Evaluación de un Algoritmo de Locomoción de Robots Ápodos en Diferentes Procesadores Embebidos en FPGA".  Granada
+</summary>
+* **Evento**: V Jornadas de Computación Reconfigurable y Aplicaciones. JCRA 2005. Dentro del Primer Congreso Español de Informática, CEDI 2005.
+* **Fecha**:  13/Sep/2005 
+* **Lugar**: Granada
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/publicaciones/art11/download/pres-cube-revolutions-fpga.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/publicaciones/art11/index.html)
+</details>
 
-
+<details markdown="block">
+<summary>(2005) "Hardware Libre: la Tarjeta Skypic, una Entrenadora para Microcontroladores PIC". Facultad de Informática de A Coruña
+</summary>
+* **Evento**:  I Congreso de Tecnologías de Software Libre
+* **Fecha**:  7/Julio/2005 
+* **Lugar**: Facultad de Informática de A Coruña.
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/publicaciones/art9/pres-skypic.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf16/index.html)
+</details>
 
 🚧 TODO 🚧
 
@@ -1592,6 +1538,16 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * **Lugar**:  Royal Military Academy. Brussels
 * [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/publicaciones/art14/download/clawar-2006-hypercube.pdf)
 * [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf25/index.html)
+</details>
+
+<details markdown="block">
+<summary>(2005) "Motion of Minimal Configurations of a Modular Robot: Sinusoidal, Lateral Rolling and Lateral Shift". 8th International Conference on Climbing and Walking Robots, CLAWAR 2005. Londres
+</summary>
+* **Evento**: 8th International Conference on Climbing and Walking Robots, CLAWAR 2005
+* **Fecha**:  14/Sep/2005 
+* **Lugar**: London South Bank University
+* [Transparencias (PDF)](London South Bank University)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf19/index.html)
 </details>
 
 # Talleres
