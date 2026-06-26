@@ -1367,7 +1367,6 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * [Más información](http://www.iearobotics.com/personal/juan/publicaciones/art1/index.html)
 </details>
 
-🚧 TODO 🚧
 
 # Ponencias en congresos internacionales
 
@@ -1441,18 +1440,6 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf9/index.html)
 </details>
 
-# Talleres
-
-<details markdown="block">
-<summary>(2017) Taller de "Electrónica digital para makers, con FPGAs libres". Makespace Madrid
-</summary>
-* **Organiza**: [Makespace Madrid](https://makespacemadrid.org/)
-* **Fecha**: 8-Julio-2017
-* **Lugar**: Makespace Madrid
-* **Duración**: 2h
-* [Mas información](https://github.com/FPGAwars/workshops/wiki/2017_07_08:-Makespace-Madrid)
-</details>
-
 <details markdown="block">
 <summary>(2003) "Hardware libre: clasificación y desarrollo de hardware reconfigurable en entornos GNU/Linux". URJC
 </summary>
@@ -1472,6 +1459,104 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/publicaciones/art2/cube-jcra-pres.pdf)
 * [Más información](http://www.iearobotics.com/personal/juan/publicaciones/art2/index.html)
 </details>
+
+# Talleres
+
+<details markdown="block">
+<summary>(2017) Taller de Electrónica digital con FPGAs Libres . Cursos de Verano. Universidad de Cantabria 
+</summary>
+* **Fecha**: 6/Julio/2017 
+* **Lugar**: Universidad de Cantabria
+* **Duración**: 2h
+</details>
+
+<details markdown="block">
+<summary>(2017) "Curso de Electrónica digital para makers, con FPGAs libres". Centro Integrado de Formación Profesional Don Bosco 
+</summary>
+* **Fecha**:   26/Junio/2017 
+* **Lugar**: Centro Integrado de Formación Profesional Don Bosco 
+* **Duración**: 35h
+* [Mas información](https://github.com/Obijuan/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/wiki)
+</details>
+
+<details markdown="block">
+<summary>(2017) Taller de FreeCAD. ETSI. Oficina Software libre. Universidad de Huelva (UHU) 
+</summary>
+* **Fecha**:   21/Abril/2017 
+* **Lugar**: Escuela Técnica Superior de Ingeniería de la Universidad de Huelva (UHU)
+* **Duración**: 4h
+* [Mas información](https://github.com/Obijuan/mycourses/wiki/2017-04-21-Taller-Freecad-ETSI-OSL-UHU)
+</details>
+
+<details markdown="block">
+<summary>(2017) Taller de electrónica digital con FPGAs Libres. Departamento de Automática, Escuela Técnica Superior de Ingenieros Industriales, UPM 
+</summary>
+* **Fecha**:   30/Marzo/2017 
+* **Lugar**: Departamento de Automática, Escuela Técnica Superior de Ingenieros Industriales, UPM
+* **Duración**: 2h30min
+* [Mas información](https://github.com/FPGAwars/workshops/wiki/2017_03_30:-Reset.-ETSII,-UPM)
+</details>
+
+<details markdown="block">
+<summary>(2017)  Taller de electrónica digital con FPGAs Libres. Hacklab-UPM. ETS Ingeniería y Diseño Industrial, UPM 
+</summary>
+* **Fecha**:   14/Marzo/2017 
+* **Lugar**: Hacklab UPM
+* **Duración**: 1h30min
+* [Mas información](https://github.com/FPGAwars/workshops/wiki/2017_03_14:-Hacklab-UPM.-ETSIDI)
+</details>
+
+<details markdown="block">
+<summary>(2017) 
+</summary>
+* **Organiza**: 
+* **Fecha**:   04/Marzo/2017 
+* **Lugar**: 
+* **Duración**: 
+* [Mas información]()
+</details>
+
+<details markdown="block">
+<summary>(2017) 
+</summary>
+* **Organiza**: 
+* **Fecha**:   24/Feb/2017 
+* **Lugar**: 
+* **Duración**: 
+* [Mas información]()
+</details>
+
+<details markdown="block">
+<summary>(2017) 
+</summary>
+* **Organiza**: 
+* **Fecha**:    10/Enero/2017 
+* **Lugar**: 
+* **Duración**: 
+* [Mas información]()
+</details>
+
+<details markdown="block">
+<summary>(2017) Taller de "Electrónica digital para makers, con FPGAs libres". Makespace Madrid
+</summary>
+* **Organiza**: [Makespace Madrid](https://makespacemadrid.org/)
+* **Fecha**: 8-Julio-2017
+* **Lugar**: Makespace Madrid
+* **Duración**: 2h
+* [Mas información](https://github.com/FPGAwars/workshops/wiki/2017_07_08:-Makespace-Madrid)
+</details>
+
+<details markdown="block">
+<summary>(2017) 
+</summary>
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* **Duración**: 
+* [Mas información]()
+</details>
+
+
 
 🚧 TODO 🚧
 
