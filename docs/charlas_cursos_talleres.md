@@ -1140,110 +1140,51 @@ MediaLab Prado (Más información)
 </details>
 
 <details markdown="block">
-<summary>(2004)
+<summary>🟢(2004) "Diseño de Robots Apodos: Cube Revolutions". UCA
 </summary>
-* **Evento**: 
+* **Evento**: Semana de la Ciencia y Tecnología
 * **Organiza**: 
 * **Fecha**:  4/Nov/2004 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Lugar**: Escuela Superior de Ingeniería de Cádiz. Universidad de Cádiz (UCA)
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf1/download/uca-cube-rev.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf1/index.html)
 </details>
 
 <details markdown="block">
-<summary>(2004)
+<summary>🟢(2004) "Herramientas hardware y software para el desarrollo de aplicaciones con Microcontroladores PIC bajo plataformas GNU/Linux". UPSAM
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**:  22/Sep/2004 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2004)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**:  13/Sep/2004 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2004)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**:  13/Sep/2004 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2004)
-</summary>
-* **Evento**: 
-* **Organiza**: 
+* **Evento**: III Jornadas de Software Libre en la UPSAM. Madrid
 * **Fecha**:  07/Mayo/2004 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Lugar**:  Universidad Pontificia de Salamanca en Madrid. UPSAM.
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/publicaciones/art5/pres-pic-linux.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf12/index.html)
 </details>
 
 <details markdown="block">
-<summary>(2004)
+<summary>🟢(2004)"Robótica y Linux". UPSAM
 </summary>
-* **Evento**: 
-* **Organiza**: 
+* **Evento**: III Jornadas de Software Libre en la UPSAM
 * **Fecha**:  07/Mayo/2004 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Lugar**: UPSAM
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf13/download/robotica.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf13/index.html)
 </details>
 
 <details markdown="block">
-<summary>(2004)
+<summary>🟢(2004) "Mesa redonda Software libre en la Universidad". UPSAM
 </summary>
-* **Evento**: 
-* **Organiza**: 
+* **Evento**: III Jornadas de Software Libre en la UPSAM.
 * **Fecha**:  07/Mayo/2004 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Lugar**: UPSAM
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf12/index.html#bitacora)
 </details>
 
 <details markdown="block">
-<summary>(2004)
+<summary>(2003)
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**:  29/Abril/2004 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2004)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**:  25/Abril/2004 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2004)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**:  15/Enero/2004 
+* **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
 * [Más información]()
@@ -1257,6 +1198,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1267,6 +1209,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1277,6 +1220,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1287,6 +1231,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1297,6 +1242,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1307,6 +1253,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1317,16 +1264,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2003)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 
@@ -1338,6 +1276,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1348,6 +1287,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1358,6 +1298,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1368,6 +1309,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1378,6 +1320,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1388,6 +1331,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1398,6 +1342,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1408,6 +1353,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1418,6 +1364,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1428,6 +1375,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 
@@ -1494,6 +1442,26 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf16/index.html)
 </details>
 
+<details markdown="block">
+<summary>(2004) "Locomoción de un Robot Ápodo Modular con el Procesador MicroBlaze". IV Jornadas sobre Computación Reconfigurable y Aplicaciones, JCRA04, UAB
+</summary>
+* **Evento**: IV Jornadas sobre Computación Reconfigurable y Aplicaciones, JCRA04, UAB
+* **Fecha**:  13/Sep/2004 
+* **Lugar**: Escuela Técnica Superior de Ingenierías. Universidad Autónoma de Barcelona. Barcelona
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/publicaciones/art7/cube-rev.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf10/index.html)
+</details>
+
+<details markdown="block">
+<summary>(2004) "Simulación de Diseños VHDL con Software Libre: La Herramienta GHDL". IV Jornadas sobre Computación Reconfigurable y Aplicaciones, JCRA04,  UAB
+</summary>
+* **Evento**: IV Jornadas sobre Computación Reconfigurable y Aplicaciones, JCRA04
+* **Fecha**:  13/Sep/2004 
+* **Lugar**: Escuela Técnica Superior de Ingenierías. Universidad Autónoma de Barcelona.
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/publicaciones/art6/pres-ghdl.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf11/index.html)
+</details>
+
 🚧 TODO 🚧
 
 # Ponencias en congresos internacionales
@@ -1558,6 +1526,16 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf19/index.html)
 </details>
 
+<details markdown="block">
+<summary>(2004) "Locomotion of a Modular Worm-like Robot using a FPGA-based embedded MicroBlaze Soft-processor". 7th International Conference on Climbing and Walking Robots, CLAWAR 2004. CSIC. Madrid
+</summary>
+* **Evento**: 7th International Conference on Climbing and Walking Robots, CLAWAR 2004
+* **Fecha**:  22/Sep/2004 
+* **Lugar**: Instituto de automática industrial, CSIC
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/publicaciones/art8/cube-clawar04.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf9/index.html)
+</details>
+
 # Talleres
 
 <details markdown="block">
@@ -1603,5 +1581,17 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * [Transparencias (PDF)](http://www.iearobotics.com/downloads/2008-10-08-uam-seminario-tesis/2008-10-08-UAM-seminario-tesis.pdf)
 * [Más información](http://www.iearobotics.com/wiki/index.php?title=2008-10-08:EPS:Rob%C3%B3tica_Modular_y_Locomoci%C3%B3n:Aplicaci%C3%B3n_a_Robots_%C3%81podos%22)
 </details>
+
+<details markdown="block">
+<summary>(2004) "Participación en concurso nacional de robots".  Universidad de Alcalá. Alcalá de Henares. Madrid
+</summary>
+* **Evento**: HISPABOT 2004.
+* **Fecha**:  29/Abril/2004 
+* **Lugar**:  Escuela Politécnica. Universidad de Alcalá (UAH).
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf14/download/hispabot-04-cube-revolutions.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf14/index.html)
+</details>
+
+
 
 
