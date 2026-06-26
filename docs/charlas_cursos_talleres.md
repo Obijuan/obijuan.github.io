@@ -742,94 +742,86 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * [Más información](http://www.iearobotics.com/wiki/index.php?title=2011-03-08:Saudi_Arabia:_The_state_of_the_art_research_at_Robotics_Lab)
 </details>
 
+
 <details markdown="block">
-<summary>(2010)
+<summary>(2010) "'Robots ápodos Modulares".  ETS Ingenieros Industriales Ciudad Real. UCLM
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Evento**: I Jornadas de Robótica y Automática.
+* **Fecha**:  29/Octubre/2010 
+* **Lugar**: ETS Ingenieros Industriales Ciudad Real. UCLM
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2010-10-29-Robots-modulares-UCLM/2010-10-29-Robots-modulares-UCLM.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2010-10-29:ETSII-UCLM:_Robots_%C3%A1podos_modulares)
 </details>
 
 <details markdown="block">
-<summary>(2010)
+<summary>(2010) "'Locomoción de Robots ápodos Modulares". Robotics Lab. Universidad Carlos III de Madrid.
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Evento**: Seminario para el Robotics Lab de la UC3M
+* **Fecha**:  05/Julio/2010 
+* **Lugar**: Robotics Lab. Campus de leganés. UC3M
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2010-07-05-modular-robots-robotics-lab-uc3m/2010-07-05-Modular-robots-Robotics-lab-uc3m.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2010-07-05:Robotics_Lab:_Locomoci%C3%B3n_de_Robots_%C3%A1podos_modulares)
 </details>
 
 <details markdown="block">
-<summary>(2010)
+<summary>(2010) "'Robots ápodos Modulares". Universidad de Málaga.
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Evento**: Máster de Robótica
+* **Fecha**:  17/Junio/2010 
+* **Lugar**: ETSI Telecomunicación. Universidad de Málaga.
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2010-06-17-robots-modulares-malaga/2010-06-17-Robots-modulares-Universidad-Malaga.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2010-06-17:Universidad_de_M%C3%A1laga:_Robots_%C3%A1podos_modulares)
 </details>
 
 <details markdown="block">
-<summary>(2010)
+<summary>🟢(2010) "'Robots ápodos Modulares".  Universidad de Alcalá
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Evento**: Semana de la Robótica. Hispabot-Alcabot.
+* **Fecha**:  14/Abril/2010 
+* **Lugar**: Escuela Politécnica. Universidad de Alcalá.
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2010-04-14-robots-modulares-hispabot/2010-04-14-Robots-modulares-Hispabot.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2010-04-14:Hispabot:Robots_%C3%A1podos_modulares)
 </details>
 
 <details markdown="block">
-<summary>(2010)
+<summary>(2010) "'Robots Modulares". Universidad Carlos III de Madrid
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Evento**: Jornadas para estudiantes de altas capacidades. 
+* **Fecha**:  10/Abril/2010 
+* **Lugar**: Escuela Politécnica Superior. Universidad Carlos III de Madrid.
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2010-04-10-robots-modulares-uc3m/2010-04-10-Robots-modulares-Altas-capacidades-UC3M.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2010-04-10:UC3M:Robots_Modulares)
+</details>
+
+
+<details markdown="block">
+<summary>(2009) "'Robots Modulares". Dorkbot Madrid
+</summary>
+* **Evento**: Dorkbot Madrid (Dorkbot número 38)
+* **Fecha**:  27/Noviembre/2009 
+* **Lugar**: Sala OFF-LIMITS. Madrid
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2009-11-27-dorkbot-madrid/2009-11-27-Robots-modulares-dorkbot-madrid.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2009-11-27:Dorbot_Madrid:Robots_Modulares)
 </details>
 
 <details markdown="block">
-<summary>(2010)
+<summary>🟢(2009) "'Robótica Modular y Locomoción". Universidad de Castilla la Mancha. Albacete.
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Evento**: Cursos de Verano de la Universidad de Castilla la Mancha. Albacete.
+* **Fecha**:  15/Julio/2009 
+* **Lugar**: Escuela Politécnica Superior de Albacete. Universidad de Castilla-La Mancha. Albacete
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2009-07-15-robotica-modular-albacete/2009-07-15-Robotica-modular-locomocion-uclm.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2009-07-17:Albacete:Rob%C3%B3tica_Modular_y_Locomoci%C3%B3n)
 </details>
 
 <details markdown="block">
-<summary>(2010)
+<summary>(2009) "'Introduction to the locomotion of limbless modular robots". University of Hamburg
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2009)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2009)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Evento**: Seminar for the students of the "Modular robotics course"
+* **Fecha**:  19/Junio/2009 
+* **Lugar**: Faculty of Mathematics, Informatics and Natural Science. University of Hamburg
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/slides/2009-06-19-Modular-robotics-open-seminar.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2009-06-22:Hamburg:Introduction_to_the_locomotion_of_limbless_modular_robots)
 </details>
 
 <details markdown="block">
@@ -840,6 +832,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -850,6 +843,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -860,6 +854,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -870,6 +865,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -880,6 +876,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -890,16 +887,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2009)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1647,6 +1635,19 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * [Más información](https://github.com/Obijuan/myslides/tree/master/2020-02-05-Red-RISCV-UAB)  
 </details>
 
+<details markdown="block">
+<summary>(2010) "'Desarrollo de Robots modulares de tipo serpiente para búsqueda y rescate en entornos urbanos".  
+</summary>
+* **Evento**: 8º Workshop Robocity 2030. Robots de exteriores.
+* **Fecha**:  02/Diciembre/2010 
+* **Lugar**: Centro de robótica y Automática CSIC-UPM. Arganda de Duero. Madrid
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2010-12-02-RoboCity-exteriores/Robocity-2030-snake-USAR-slides.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=Paper:2010-RoboCity-8-workshop-robots-exteriores)
+</details>
+
+
+
+
 🚧 TODO 🚧
 
 # Ponencias en congresos internacionales
@@ -1660,6 +1661,17 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * [Transparencias (PDF)](http://www.iearobotics.com/downloads/2011-05-23-amire11/2011-05-23-Amire-miniskybot.pdf)
 * [Más información](http://www.iearobotics.com/wiki/index.php?title=Paper:2011-Amire-Miniskybot)
 </details>
+
+<details markdown="block">
+<summary>(2010) "'Toward the sense of touch in snake modular robots for search and rescue operations".  Anchorage, Alaska
+</summary>
+* **Evento**: ICRA-2010. Workshop on Modular Robots.
+* **Fecha**:  19/Mayo/2010 
+* **Lugar**: Anchorage, Alaska
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2010-05-03-ICRA-Workshop/Paper-ICRA-workshop-2010-snake-USAR.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=Paper:ICRA-2010-Workshop-on-modular-robots)  
+</details>
+
 
 # Talleres
 
