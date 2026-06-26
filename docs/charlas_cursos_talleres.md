@@ -656,33 +656,33 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 </details>
 
 <details markdown="block">
-<summary>(2012)
+<summary>(2012) "Impresoras 3D Open-Source: orígenes y evolución". Escuela de Organización Industrial (EOI), Madrid 
 </summary>
-* **Evento**: 
-* **Organiza**: 
+* **Evento**: Seminario dentro del Máster en Economía Digital e Industrias Creativas,
 * **Fecha**:  05/Mayo/2012 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Lugar**: Escuela de Organización Industrial (EOI), Madrid 
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2012-05-05-Impresora-3D-EOI/2012-05-05-Impresoras-3D-EOI.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2012-05-05:Impresoras_3D_Open-source:_or%C3%ADgenes_y_evoluci%C3%B3n)
 </details>
 
 <details markdown="block">
-<summary>(2012)
+<summary>(2012) "PrintBots: Robots Libres e Imprimibles". Escuela Técnica Superior de Ingenieros Industriales, UPM, Madrid
 </summary>
-* **Evento**: 
-* **Organiza**: 
+* **Evento**: Cybertech-2012
 * **Fecha**:  26/Abril/2012 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Lugar**: Escuela Técnica Superior de Ingenieros Industriales, UPM, Madrid
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2012-04-26-cybertech/PrintBots-cybertech.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2012-04-26:Cybertech:PrintBots:Robots_Libres_e_Imprimibles)
 </details>
 
 <details markdown="block">
-<summary>(2012)
+<summary>(2012) "PrintBots: Robots Libres e Imprimibles". MadridBot 2012.  
 </summary>
-* **Evento**: 
-* **Organiza**: 
+* **Evento**: VIII edición de MadridBot
 * **Fecha**:  28/Marzo/2012 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Lugar**: I.E.S. "Antonio Machado Alcalá de Henares (Madrid) 
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2012-03-28-printbots-madridbot/2012-03-28-PrintBots-Madridbot.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2012-03-28:Madridbot:PrintBots:Robots_Libres_e_Imprimibles)
 </details>
 
 <details markdown="block">
@@ -693,6 +693,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -703,6 +704,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -713,6 +715,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -723,6 +726,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -733,6 +737,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -743,6 +748,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
