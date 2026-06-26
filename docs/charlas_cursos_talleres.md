@@ -1109,13 +1109,42 @@ MediaLab Prado (Más información)
 * [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf5/index.html)
 </details>
 
+<details markdown="block">
+<summary>(2004) "Diseño de Robots Ápodos: Cube Revolutions".  Universidad Pontificia de Salamanca en Madrid. UPSAM
+</summary>
+* **Evento**: IV Semana de la Ciencia en Madrid
+* **Fecha**:  24/Nov/2004 
+* **Lugar**: Universidad Pontificia de Salamanca en Madrid. UPSAM
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf4/download/upsam-cube-rev.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf4/index.html)
+</details>
+
+<details markdown="block">
+<summary>(2004) "Robótica en la Universidad (II)".  Universidad Pontificia de Salamanca en Madrid. UPSAM
+</summary>
+* **Evento**: IV Semana de la Ciencia en Madrid
+* **Fecha**:  22/Nov/2004 
+* **Lugar**: Universidad Pontificia de Salamanca en Madrid. UPSAM
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf3/download/ruedas-upsam-nov-2004.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf3/index.html)
+</details>
+
+<details markdown="block">
+<summary>(2004) "Robótica en la Universidad".  Universidad Pontificia de Salamanca en Madrid. UPSAM 
+</summary>
+* **Evento**: IV Semana de la Ciencia en Madrid
+* **Fecha**:  17/Nov/2004 
+* **Lugar**: Universidad Pontificia de Salamanca en Madrid. UPSAM
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf2/download/upsam-robots.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf2/index.html)
+</details>
 
 <details markdown="block">
 <summary>(2004)
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  4/Nov/2004 
 * **Lugar**: 
 * [Transparencias (PDF)]()
 * [Más información]()
@@ -1126,9 +1155,10 @@ MediaLab Prado (Más información)
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  22/Sep/2004 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1136,9 +1166,10 @@ MediaLab Prado (Más información)
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  13/Sep/2004 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1146,9 +1177,10 @@ MediaLab Prado (Más información)
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  13/Sep/2004 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1156,9 +1188,10 @@ MediaLab Prado (Más información)
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  07/Mayo/2004 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1166,9 +1199,10 @@ MediaLab Prado (Más información)
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  07/Mayo/2004 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1176,9 +1210,10 @@ MediaLab Prado (Más información)
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  07/Mayo/2004 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1186,9 +1221,10 @@ MediaLab Prado (Más información)
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  29/Abril/2004 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1196,9 +1232,10 @@ MediaLab Prado (Más información)
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  25/Abril/2004 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1206,39 +1243,10 @@ MediaLab Prado (Más información)
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  15/Enero/2004 
 * **Lugar**: 
 * [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2004)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2004)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2004)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
