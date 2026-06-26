@@ -1213,119 +1213,68 @@ MediaLab Prado (Más información)
 * **Lugar**: UPSAM
 </details>
 
-
 <details markdown="block">
-<summary>(2002)
+<summary>🟢(2002) "Microcontroladores PIC y CAN BUS". Seminario de Microcontroladores PIC. Euroform. UAM
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: Euroform
+* **Fecha**:  Julio, 2002 
+* **Lugar**: Escuela Politécnica Superior. UAM. Madrid 
 </details>
 
 <details markdown="block">
-<summary>(2001)
+<summary>(2001)  "Microbótica: Robótica al alcance de todos". EUIT, UPM. Madrid 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: Sfera'01. IX jornadas sobre la tecnología y el hombre
+* **Fecha**:  Mayo,2001 
+* **Lugar**: EUIT, UPM
 </details>
 
 <details markdown="block">
-<summary>(2001)
+<summary>(2001) "Microbótica y hardware abierto".  URJC
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**:  26/Octubre/2003 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: II Workshop Hispano-Luso de Agentes Físicos
+* **Fecha**:  Marzo,2001
+* **Lugar**: URJC
+</details>
+
+
+<details markdown="block">
+<summary>(2000) "Aplicaciones de los sistemas digitales". Seminario de Microbótica en la ETSIT UPM 
+</summary>
+* **Fecha**:  Marzo,2000 
+* **Lugar**: ETSIT UPM
 </details>
 
 <details markdown="block">
-<summary>(2001)
+<summary>(1999) "Microbótica: robótica al alcance de todos". EUITT de la UPM, Madrid. 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**:  Septiembre/2003 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: SFERA '99: VIII jornadas sobre la tecnología y el hombre
+* **Fecha**: Marzo,1999 
+* **Lugar**: EUITT de la UPM
 </details>
 
 <details markdown="block">
-<summary>(2000)
+<summary>(1997) "Robótica Académica". UAM 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**:  10/Septiembre/2003 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Fecha**:  Diciembre, 1997 
+* **Lugar**: Escuela Politécnica Superior. UAM
 </details>
 
 <details markdown="block">
-<summary>(2000)
+<summary>(1996) "Demostración de sistemas de control". Rama de estudiantes del IEEE. ETSIT UPM. Madrid 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: I ciclo de conferencias de robótica.
+* **Fecha**: Marzo,1996 
+* **Lugar**: ETSIT, UPM
 </details>
 
 <details markdown="block">
-<summary>(1999)
+<summary>(1995) "Sistemas digitales y lógica programable". . ETSI Telecomunicación. UPM. Madrid 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**:  2/Agosto/2003 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: Jornadas de formación del Ministerio de Educación y Ciencia (MEC)
+* **Fecha**:  Julio,1995 
+* **Lugar**: ETSIT, UPM
 </details>
-
-<details markdown="block">
-<summary>(1997)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(1996)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**:  18/Junio/2003 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(1995)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-
-🚧 TODO 🚧
 
 # Ponencias en congresos Nacionales
 
@@ -1575,6 +1524,22 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * **Lugar**: Escuela Politécnica Superior. UAM
 * [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/doctorado/cube-reloaded/download/tea-presentacion.pdf)
 * [Más información](http://www.iearobotics.com/personal/juan/doctorado/tea/tea.html)
+</details>
+
+<details markdown="block">
+<summary>(2001) "Diseño y Construcción de un Robot Articulado que emula modelos animales: Aplicación a un gusano". ETSI Telecomunicación. UPM. Madrid 
+</summary>
+* **Evento**: Lectura del proyecto fin de carrera
+* **Fecha**: 4/Mayo/2001 
+* **Lugar**: ETSI Telecomunicación. UPM. Madrid 
+* [Más información](http://www.iearobotics.com/personal/juan/proyectos/cube-2.0/cube.html)
+</details>
+
+<details markdown="block">
+<summary>(2000) "Microbótica: robótica al alcance de todos". Primer concurso de micro-robots de la Universidad de Alcalá
+</summary>
+* **Fecha**: Mayo,2000 
+* **Lugar**: Escuela Politécnica Superior. UAH
 </details>
 
 
