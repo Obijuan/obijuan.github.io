@@ -964,75 +964,67 @@ MediaLab Prado (Más información)
 * [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf27/index.html)
 </details>
 
-
 <details markdown="block">
-<summary>(2006)
+<summary>(2006) "Robótica Modular y Locomoción". UCA 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Evento**: III Jornadas de robótica en la UCA
+* **Fecha**:  21/Nov/2006 
+* **Lugar**: Escuela Superior de Ingeniería de la Universidad de Cádiz
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf26/download/robotica-modular-locomocion-JRUCA2006.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf26/index.html)
 </details>
 
 <details markdown="block">
-<summary>(2006)
+<summary>(2006) "La Granja de Micro-Robots". Party-Quijote. Ciudad Real
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Fecha**:  8/Julio/2006 
+* **Lugar**:  Pabellón de ferias y congresos de Ciudad Real
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf24/download/Granja-micro-robots.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf24/index.html)
 </details>
 
 <details markdown="block">
-<summary>(2006)
+<summary>(2006) "Modular Robotics and Locomotion".  TAMS group. FB Informatik. Universidad de Hamburgo (Alemania) 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Evento**: Seminario para alumnos de la Facultad de Informática.
+* **Fecha**:  15/Mayo/2006 
+* **Lugar**: TAMS group. FB Informatik. Universidad de Hamburgo (Alemania) 
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf23/download/modular-robotics-tams-may-2006.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf23/index.html)
 </details>
 
 <details markdown="block">
-<summary>(2006)
+<summary>(2006) "Modular Robotics and Locomotion".  FB Informatik. Universidad de Hamburgo (Alemania)
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Evento**: Seminario para investigadores del TAMS.
+* **Fecha**:  18/Abril/2006 
+* **Lugar**: TAMS group. FB Informatik. Universidad de Hamburgo (Alemania) 
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf22/download/modular-robotics-tams-april-2006.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf22/index.html)
 </details>
 
 <details markdown="block">
-<summary>(2006)
+<summary>🟢(2006) " Robótica Modular y Locomoción: Robots Cube Revolutions y Multicube". URJC
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Evento**: Curso de doctorado de Robótica. URJC
+* **Fecha**:  19/Enero/2006 
+* **Lugar**: Salón de actos. Edificio departamental II. URJC
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf21/download/robotica-modular-urjc-2006.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf21/index.html)
 </details>
 
-<details markdown="block">
-<summary>(2006)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-</details>
 
 <details markdown="block">
-<summary>(2006)
+<summary>(2005)
 </summary>
 * **Evento**: 
 * **Organiza**: 
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1043,6 +1035,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1053,6 +1046,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1063,6 +1057,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1073,6 +1068,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1083,6 +1079,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1093,6 +1090,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1103,6 +1101,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1113,6 +1112,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1123,6 +1123,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1133,6 +1134,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1143,6 +1145,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1153,6 +1156,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1163,6 +1167,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1173,16 +1178,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2005)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1193,6 +1189,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1585,6 +1582,16 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * **Lugar**: Málaga
 * [Transparencias (PDF)](http://www.iearobotics.com/downloads/papers/ICM09_Passive%20suckers.pdf)
 * [Más información](http://www.iearobotics.com/wiki/index.php?title=Paper:ICM09-passive-suckers)
+</details>
+
+<details markdown="block">
+<summary>(2006) "Locomotion Capabilities of a Modular Robot with Eight Pitch-Yaw-Connecting Modules". 9th International Conference on Climbing and Walking Robots. CLAWAR 2006. Brussels 
+</summary>
+* **Evento**: 9th International Conference on Climbing and Walking Robots. CLAWAR 2006
+* **Fecha**:  13/Sep/2006 
+* **Lugar**:  Royal Military Academy. Brussels
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/publicaciones/art14/download/clawar-2006-hypercube.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf25/index.html)
 </details>
 
 # Talleres
