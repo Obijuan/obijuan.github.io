@@ -964,38 +964,6 @@ MediaLab Prado (Más información)
 * [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf27/index.html)
 </details>
 
-<details markdown="block">
-<summary>(2007)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2007)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2007)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
 
 <details markdown="block">
 <summary>(2006)
