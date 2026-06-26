@@ -1025,7 +1025,7 @@ MediaLab Prado (Más información)
 </details>
 
 <details markdown="block">
-<summary>(2005) "Demostraciones de Robots articulados". UCA 
+<summary>🟢(2005) "Demostraciones de Robots articulados". UCA 
 </summary>
 * **Evento**: Semana de la ciencia y la tecnología. II Jornadas de robótica en la UCA.
 * **Fecha**:  10/Nov/2005 
