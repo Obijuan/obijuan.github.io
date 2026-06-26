@@ -1630,69 +1630,176 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 </details>
 
 <details markdown="block">
-<summary>(2010) 
+<summary>(2010) Jugando con Robots modulares. Taller de robots modulares. Campus científico de Verano. Universidad Carlos III de Madrid 
 </summary>
-* **Organiza**: 
 * **Fecha**: 22/Julio/2010 
-* **Lugar**: 
-* **Duración**: 
-* [Mas información]()
+* **Lugar**: Universidad Carlos III 
+* **Duración**: 2h
+* [Mas información](http://www.iearobotics.com/wiki/index.php?title=Campus_cient%C3%ADfico_2010:Taller_de_robots_modulares)
 </details>
 
 <details markdown="block">
-<summary>(2010) 
+<summary>(2010)  Taller de robótica básico en las IV Jornadas de Inicialización a la Universidad (UAM 2010) 
 </summary>
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* **Duración**: 
-* [Mas información]()
+* **Fecha**:  29/Junio/2010 
+* **Lugar**: Escuela Politécnica Superior. UAM
+* **Duración**: 10h
+* [Mas información](http://www.iearobotics.com/wiki/index.php?title=IV_Jornadas_de_Iniciaci%C3%B3n_a_la_Universidad)
 </details>
 
 <details markdown="block">
-<summary>(2010) 
+<summary>(2010)  VI Taller de robótica en la Universidad Autónoma de Madrid. UAM
 </summary>
 * **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* **Duración**: 
-* [Mas información]()
+* **Fecha**:  10/Feb/2009 
+* **Lugar**: Escuela Politécnica Superior. UAM
+* **Duración**: 10h
+* [Mas información](http://www.iearobotics.com/wiki/index.php?title=VI_Taller_de_Rob%C3%B3tica_UAM_2010)
 </details>
 
 <details markdown="block">
-<summary>(2010) 
+<summary>(2009)  V Taller de robótica en la Universidad Autónoma de Madrid.  UAM
 </summary>
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* **Duración**: 
-* [Mas información]()
+* **Fecha**:  27/Julio/2009 
+* **Lugar**: Escuela Politécnica Superior. UAM
+* **Duración**: 10h
+* [Mas información](http://www.iearobotics.com/wiki/index.php?title=V_Taller_de_Rob%C3%B3tica_UAM_2009)
 </details>
 
 <details markdown="block">
-<summary>(2010) 
+<summary>(2009) Curso de microcontroladores PIC: Arquitectura, Recursos y Programación. Administración Pública. Madrid. 
 </summary>
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* **Duración**: 
-* [Mas información]()
+* **Fecha**:  01/Jun/2009 
+* **Duración**: 10h
+* [Mas información](http://www.iearobotics.com/wiki/index.php?title=Programaci%C3%B3n_del_PIC16_en_C)
 </details>
-
 
 <details markdown="block">
-<summary>(2017) 
+<summary>🟢(2008)  IV Taller de iniciación a la robótica. Universidad Autónoma de Madrid. 10 horas 
 </summary>
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* **Duración**: 
-* [Mas información]()
+* **Fecha**: 01/Jul/2008 
+* **Lugar**: Escuela Plitécnica Superior. UAM
+* **Duración**: 10h
+* [Mas información](http://www.iearobotics.com/wiki/index.php?title=Taller_Rob%C3%B3tica_UAM_2008)
 </details>
 
+<details markdown="block">
+<summary>🟢(2007)  III Taller de iniciación a la robótica Universidad Autónoma de Madrid. UAM. 10 horas 
+</summary>
+* **Fecha**:  2/Jul/2007 
+* **Lugar**: Escuela Plitécnica Superior. UAM
+* **Duración**: 10h
+* [Mas información](http://www.iearobotics.com/talleres/generico-v14/index.html)
+</details>
 
+<details markdown="block">
+<summary>🟢(2007)  II Taller de iniciación a la robótica en la Universidad Autónoma de Madrid. UAM. 10 horas 
+</summary>
+* **Organiza**: 
+* **Fecha**:  12/Feb/2007 
+* **Lugar**: Escuela Plitécnica Superior. UAM
+* **Duración**: 10h
+* [Mas información](http://www.iearobotics.com/talleres/uam-feb-2007/index.html)
+</details>
 
-🚧 TODO 🚧
+<details markdown="block">
+<summary>🟢(2006) II Taller de iniciación a la robótica CampusBot. Campus Party. Valencia. 10 horas. 
+</summary>
+* **Organiza**: 
+* **Fecha**:  25/Jul/2006 
+* **Lugar**: Valencia
+* **Duración**: 10h
+* [Mas información](http://www.iearobotics.com/talleres/generico-v13/index.html)
+</details>
+
+<details markdown="block">
+<summary>🟢(2006)  Taller de iniciación a la robótica en La Universidad Autónoma de Madrid. 10 horas. 
+</summary>
+* **Organiza**: 
+* **Fecha**:  14/feb/2006 
+* **Lugar**: Escuela Politécnica superior. UAM
+* **Duración**: 10h
+* [Mas información](http://www.iearobotics.com/talleres/uam-2006/index.html)
+</details>
+
+<details markdown="block">
+<summary>🟢(2005)  I Taller de iniciación a la robótica en la Universidad de Cadiz. 10 horas. 
+</summary>
+* **Fecha**:  9/nov/2005 
+* **Lugar**: Escuela Superior de Ingeniería. UCA
+* **Duración**: 10h
+* [Mas información](http://www.iearobotics.com/talleres/uca-2005/index.html)
+</details>
+
+<details markdown="block">
+<summary>🟢(2005)  I Taller de iniciación a la robótica en CampusBot. Campus Party. Valencia. 10 horas. 
+</summary>
+* **Organiza**: 
+* **Fecha**:   26/Jul/2005 
+* **Lugar**: Valencia
+* **Duración**: 10h
+* [Mas información](http://www.iearobotics.com/talleres/campusbot-2005/index.html)
+</details>
+
+<details markdown="block">
+<summary>(2003)  I Taller de robótica en la UAX. Universidad Alfonso X el sabio. 10 horas. 
+</summary>
+* **Fecha**:  Nov/2003 
+* **Lugar**: UAX
+* **Duración**: 10h
+* [Mas información](http://www.iearobotics.com/concursos/uax-2003/uax.html)
+</details>
+
+<details markdown="block">
+<summary>(2001)  I Taller de Microbótica en la Universidad Pontificia de Salamanca en Madrid. UPSAM. 
+</summary>
+* **Fecha**:  Mayo/2001 
+* **Lugar**: UPSAM
+* **Duración**: 10
+</details>
+
+<details markdown="block">
+<summary>(2000)  I Taller de robótica en la Universidad Antonio de Nebrija. 
+</summary>
+* **Fecha**:  Junio/2000 
+* **Lugar**: Universidad Antonio de Nebrija
+* **Duración**: 10h 
+</details>
+
+<details markdown="block">
+<summary>(2000)  III Taller de microbótica. E.T.S.I Telecomunicación. Madrid. 
+</summary>
+* **Organiza**: 
+* **Fecha**:  Marzo/2000 
+* **Lugar**: ETSI Telecomucacion. UPM
+* **Duración**: 10h
+</details>
+
+<details markdown="block">
+<summary>(1998)  II Taller de Microbótica en la la ETSI de Telecomunicaciones. Madrid. 10 horas 
+</summary>
+* **Fecha**:  Marzo/1998 
+* **Lugar**: ETSI Telecomucacion. UPM
+* **Duración**: 10h
+</details>
+
+<details markdown="block">
+<summary>(1997) I Taller de Robótica-Mecatrónica en la Escuela Politécnica Superior de la Universidad Autónoma de Madrid. 40 horas 
+</summary>
+* **Fecha**:  Julio/1997 
+* **Lugar**: Escuela Politécnica Superio. UAM
+* **Duración**: 10h
+</details>
+
+<details markdown="block">
+<summary>(1997)  I Taller de Microbótica en la la ETSI de Telecomunicaciones. Madrid. 10 horas 
+</summary>
+* **Organiza**: 
+* **Fecha**:  Julio/1997 
+* **Lugar**: ETSI Telecomucacion. UPM
+* **Duración**: 10h
+</details>
+
 
 # Otros
 
