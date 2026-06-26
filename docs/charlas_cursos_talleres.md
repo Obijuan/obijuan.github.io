@@ -1484,7 +1484,6 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 )
 </details>
 
-
 <details markdown="block">
 <summary>(2018) Diseño de sistemas digitales en Verilog usando FPGAs Libres. Centro territorial de innovación y formación, Madrid (CTIF) 
 </summary>
@@ -1585,6 +1584,100 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * [Mas información](https://github.com/FPGAwars/workshops/wiki/2017-02-24:-IV-Jornadas-de-Inform%C3%A1tica-Universidad-de-Almer%C3%ADa)
 </details>
 
+<details markdown="block">
+<summary>(2013)  Let's build a modular snake robot. Microbotics summer Workshop. ETSIT. Universidad de Malaga 
+</summary>
+* **Fecha**:  02/Julio/2013 
+* **Lugar**: ETSIT. Universidad de Malaga
+* **Duración**: 6
+* [Mas información](http://www.iearobotics.com/wiki/index.php?title=2013-07-02:Let%27s_build_a_modular_snake_robot)
+</details>
+
+<details markdown="block">
+<summary>(2013) Taller de construcción de Prusas i2. ControlMad, Madrid 
+</summary>
+* **Fecha**:  22/Marzo/2013 
+* **Lugar**: ControlMad
+* **Duración**: 20h
+* [Mas información](http://www.iearobotics.com/wiki/index.php?title=2013-03-22:Taller_Prusa_i2)
+</details>
+
+<details markdown="block">
+<summary>(2012) Mini-taller de introducción a OpenScad. OSHWDEM, Coruña 
+</summary>
+* **Fecha**: 17/Nov/2012
+* **Lugar**:  OSHWDEM-2012, Coruña
+* **Duración**: 1h
+* [Mas información](http://www.iearobotics.com/wiki/index.php?title=2012-11-17:Taller_Openscad:OSHWDEM)
+</details>
+
+<details markdown="block">
+<summary>(2011) Diseño e Impresión de Piezas 3D con herramientas Open Source. Seminarios dentro del máster de robótica de la UC3M 
+</summary>
+* **Fecha**: 10/Nov/2011
+* **Lugar**: Escuela Politécnica Superior. Campus de Leganés. UC3M
+* **Duración**: 15h
+* [Mas información]( Diseño e Impresión de Piezas 3D con herramientas Open Source. Seminarios dentro del máster de robótica de la UC3M )
+</details>
+
+<details markdown="block">
+<summary>(2011) Training on modular snake robots. National Robotics & Intelligent Systems Center. King Abdulaziz City for Science and Technology (KACST). Riyadh. Saudi Arabia 
+</summary>
+* **Fecha**:  05/March/2011 
+* **Lugar**: National Robotics & Intelligent Systems Center. King Abdulaziz City for Science and Technology (KACST). Riyadh, Saudi Arabia 
+* **Duración**: 30h
+* [Mas información](http://www.iearobotics.com/wiki/index.php?title=Training_on_modular_robots:_Saudi-arabia_March-5th-2011)
+</details>
+
+<details markdown="block">
+<summary>(2010) 
+</summary>
+* **Organiza**: 
+* **Fecha**: 22/Julio/2010 
+* **Lugar**: 
+* **Duración**: 
+* [Mas información]()
+</details>
+
+<details markdown="block">
+<summary>(2010) 
+</summary>
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* **Duración**: 
+* [Mas información]()
+</details>
+
+<details markdown="block">
+<summary>(2010) 
+</summary>
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* **Duración**: 
+* [Mas información]()
+</details>
+
+<details markdown="block">
+<summary>(2010) 
+</summary>
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* **Duración**: 
+* [Mas información]()
+</details>
+
+<details markdown="block">
+<summary>(2010) 
+</summary>
+* **Organiza**: 
+* **Fecha**: 
+* **Lugar**: 
+* **Duración**: 
+* [Mas información]()
+</details>
 
 
 <details markdown="block">
