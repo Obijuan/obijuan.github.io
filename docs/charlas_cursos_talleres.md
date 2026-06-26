@@ -1463,6 +1463,58 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 # Talleres
 
 <details markdown="block">
+<summary>(2022) MicroTaller FPGAs. URJC.
+</summary>
+* **Evento**: Jornadas de puertas abiertas
+* **Fecha**:  20-Mayo-2022
+* **Lugar**: Escuela de Ingeniería de Fuenlabrada. Campus de Fuenlabrada
+* **Duración**: 15 minutos
+* [Mas información](https://github.com/myTeachingURJC/2022-MicroTaller-FPGA-URJC-jornadas-abiertas
+)
+</details>
+
+<details markdown="block">
+<summary>(2019) I Taller de FPGAs Libres en la ETSIT-URJC
+</summary>
+* **Organiza**: Oficina de Conocimiento y Cultura Libres (OfiLibre) de la URJC
+* **Fecha**: 10-oct-2019
+* **Lugar**: Escuela de Ingeniería de Fuenlabrada. Campus de Fuenlabrada
+* **Duración**: 8h
+* [Mas información](https://github.com/myTeachingURJC/2019-I-Taller-FPGAs-Libres-ETSIT-URJC/wiki
+)
+</details>
+
+
+<details markdown="block">
+<summary>(2018) Diseño de sistemas digitales en Verilog usando FPGAs Libres. Centro territorial de innovación y formación, Madrid (CTIF) 
+</summary>
+* **Fecha**: 08 de Mayo de 2018
+* **Lugar**: CTIF Madrid Capital
+* **Duración**: 21h
+* [Mas información](https://github.com/Obijuan/CTIF-Madrid-2018-FPGAs-Libres/wiki
+)
+</details>
+
+<details markdown="block">
+<summary>(2018) Introducción al diseño e impresion 3D con FreeCAD. Centro territorial de innovación y formación, Madrid (CTIF) 
+</summary>
+* **Fecha**: 06 Febrero 2018
+* **Lugar**:  CTIF Madrid Capital
+* **Duración**: 21h
+* [Mas información](https://github.com/Obijuan/CTIF-Madrid-2018-FreeCAD/wiki)
+</details>
+
+<details markdown="block">
+<summary>(2017) Taller de "Electrónica digital para makers, con FPGAs libres". Makespace Madrid
+</summary>
+* **Organiza**: [Makespace Madrid](https://makespacemadrid.org/)
+* **Fecha**: 8-Julio-2017
+* **Lugar**: Makespace Madrid
+* **Duración**: 2h
+* [Mas información](https://github.com/FPGAwars/workshops/wiki/2017_07_08:-Makespace-Madrid)
+</details>
+
+<details markdown="block">
 <summary>(2017) Taller de Electrónica digital con FPGAs Libres . Cursos de Verano. Universidad de Cantabria 
 </summary>
 * **Fecha**: 6/Julio/2017 
@@ -1507,44 +1559,33 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 </details>
 
 <details markdown="block">
-<summary>(2017) 
+<summary>(2017)  Frikeando con Icestudio y FPGAs libres (Nivel: iniciación). Hackerspace Valencia. Universidad Politécnica de Valencia
 </summary>
-* **Organiza**: 
 * **Fecha**:   04/Marzo/2017 
-* **Lugar**: 
-* **Duración**: 
-* [Mas información]()
+* **Lugar**:  FabLab Valencia, UPV
+* **Duración**:  2h
+* [Mas información](https://github.com/FPGAwars/workshops/wiki/2017_03_04:-Fablab-Valencia)
 </details>
 
 <details markdown="block">
-<summary>(2017) 
+<summary>(2017)  Taller de diseño hardware con FPGAs libres. IV Jornadas de Informática de la Universidad de Almería.Escuela Superior de Ingeniería, Universidad de Almería 
 </summary>
-* **Organiza**: 
 * **Fecha**:   24/Feb/2017 
-* **Lugar**: 
-* **Duración**: 
-* [Mas información]()
-</details>
-
-<details markdown="block">
-<summary>(2017) 
-</summary>
-* **Organiza**: 
-* **Fecha**:    10/Enero/2017 
-* **Lugar**: 
-* **Duración**: 
-* [Mas información]()
-</details>
-
-<details markdown="block">
-<summary>(2017) Taller de "Electrónica digital para makers, con FPGAs libres". Makespace Madrid
-</summary>
-* **Organiza**: [Makespace Madrid](https://makespacemadrid.org/)
-* **Fecha**: 8-Julio-2017
-* **Lugar**: Makespace Madrid
+* **Lugar**: Escuela Superior de Ingeniería, Universidad de Almería
 * **Duración**: 2h
-* [Mas información](https://github.com/FPGAwars/workshops/wiki/2017_07_08:-Makespace-Madrid)
+* [Mas información](https://github.com/FPGAwars/workshops/wiki/2017-02-24:-IV-Jornadas-de-Inform%C3%A1tica-Universidad-de-Almer%C3%ADa)
 </details>
+
+<details markdown="block">
+<summary>(2017)  Curso de Introducción al diseño e impresión 3D con FreeCAD. Centro territorial de innovación y formación, Madrid (CTIF) 
+</summary>
+* **Fecha**: 10/Enero/2017 
+* **Lugar**: Centro territorial de innovación y formación, Madrid (CTIF) 
+* **Duración**: 21h
+* [Mas información](https://github.com/FPGAwars/workshops/wiki/2017-02-24:-IV-Jornadas-de-Inform%C3%A1tica-Universidad-de-Almer%C3%ADa)
+</details>
+
+
 
 <details markdown="block">
 <summary>(2017) 
