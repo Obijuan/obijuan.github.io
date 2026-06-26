@@ -895,6 +895,76 @@ MediaLab Prado (Más información)
 </details>
 
 <details markdown="block">
+<summary>(2007) "Granja de Micro-Robots”. Nebrija Lan Party. Madrid
+</summary>
+* **Evento**:  Nebrija Lan Party.
+* **Fecha**:  5/Mayo/2007 
+* **Lugar**:  Colegio Mayor Universitario Antonio de Nebrija (Macrid).
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf34/download/Granja-Nebrija.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf34/index.html)
+</details>
+
+<details markdown="block">
+<summary>(2007) "Granja de Micro-Robots”. EbroParty. Miranda de Ebro
+</summary>
+* **Evento**: EbroPzrty
+* **Fecha**:  28/Abril/2007 
+* **Lugar**: Pabellón Multifuncional de Bayas. Miranda de Ebro (Burgos)
+* [Transparencias (PDF)]()
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf33/index.html)
+</details>
+
+<details markdown="block">
+<summary>(2007) "Robótica Modular libre". Universidad Jaume I (UJI)
+</summary>
+* **Evento**: iParty9.
+* **Fecha**:  15/Abril/2007 
+* **Lugar**: Universidad Jaume I (UJI), Castellón de la plana
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf31/download/robotica-modular-libre-iparty9.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf31/index.html
+)
+</details>
+
+<details markdown="block">
+<summary>(2007) "Robótica Modular y Locomoción".SICFIMA 2007. UPM
+</summary>
+* **Evento**: Sicfima 2007
+* **Fecha**:  26/Mar/2007 
+* **Lugar**: Facultad de Informática. UPM
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf30/download/robotica-modular-locomocion-sicfima.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf30/index.html)
+</details>
+
+<details markdown="block">
+<summary>(2007) "Robótica Modular y Locomoción". Madridbot
+</summary>
+* **Evento**: MadridBot
+* **Fecha**:  22/Mar/2007 
+* **Lugar**: I.E.S. Joan Miró. San Sebastián de los Reyes. Madrid
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf29/download/robotica-modular-locomocion-madridbot.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf29/index.html)
+</details>
+
+<details markdown="block">
+<summary>(2007) "La granja de micro-robots". Málaga
+</summary>
+* **Evento**: I Jornadas de ARDE
+* **Fecha**:  18/Mar/2007 
+* **Lugar**: Centro de arte contemporáneo de Málaga
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf28/index.html)
+</details>
+
+<details markdown="block">
+<summary>(2007) "Hardware libre: conociendo las tripas". UAM
+</summary>
+* **Evento**: Jornadas de Software Libre en la UAM
+* **Fecha**:  7/Mar/2007
+* **Lugar**: Escuela politécnica Superior. UAM
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf27/download/hardware-libre-uam-mar-2007.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf27/index.html)
+</details>
+
+<details markdown="block">
 <summary>(2007)
 </summary>
 * **Evento**: 
@@ -913,6 +983,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -923,76 +994,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2007)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2007)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2007)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2007)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2007)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2007)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2007)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
