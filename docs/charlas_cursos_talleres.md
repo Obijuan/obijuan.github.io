@@ -736,7 +736,6 @@ MediaLab Prado (Más información)
 * [Más información](http://www.iearobotics.com/wiki/index.php?title=2011-03-08:Saudi_Arabia:_The_state_of_the_art_research_at_Robotics_Lab)
 </details>
 
-
 <details markdown="block">
 <summary>(2010) "'Robots ápodos Modulares".  ETS Ingenieros Industriales Ciudad Real. UCLM
 </summary>
@@ -786,7 +785,6 @@ MediaLab Prado (Más información)
 * [Transparencias (PDF)](http://www.iearobotics.com/downloads/2010-04-10-robots-modulares-uc3m/2010-04-10-Robots-modulares-Altas-capacidades-UC3M.pdf)
 * [Más información](http://www.iearobotics.com/wiki/index.php?title=2010-04-10:UC3M:Robots_Modulares)
 </details>
-
 
 <details markdown="block">
 <summary>(2009) "'Robots Modulares". Dorkbot Madrid
@@ -859,83 +857,41 @@ MediaLab Prado (Más información)
 </details>
 
 <details markdown="block">
-<summary>(2008)
+<summary>(2008)"Robótica Modular Libre". CD Obregón. Sonara. México
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Evento**: VIII Simposium Internacional de Computación. 
+* **Fecha**: 07/Nov/2008 
+* **Lugar**: Instituto Tecnológico Superior de Cajeme. CD. Obregón. Sonora. México
+* [Transparencias (PDF)](http://www.iearobotics.com/wiki/images/6/67/Robotica_modular_libre_itesca_2008.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2008-11-07:ITESCA:Rob%C3%B3tica_Modular_Libre)
 </details>
 
 <details markdown="block">
-<summary>(2008)
+<summary>🟢(2008) "Demostración de la locomoción de robots ápodos modulares".  Miraflores de la Sierra. Madrid 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Evento**: Cursos de verano (UAM)
+* **Fecha**:  13/Agosto/2008 
+* **Lugar**: Residencia la Cristalera, Miraflores de la Sierra. Madrid 
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2008-08-13:Miraflores:Demostraci%C3%B3n_de_la_locomoci%C3%B3n_de_robots_%C3%A1podos_modulares)
 </details>
 
 <details markdown="block">
-<summary>(2008)
+<summary>(2008) "Demostración de la locomoción de robots ápodos modulares". San Lorenzo del Escorial
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Evento**: Curso de Verano "Non-linear Dynamics and Robots From Neuron to Cognition. San Lorenzo del Escorial
+* **Fecha**:  08/Agosto/2008 
+* **Lugar**: San Lorenzo del Escorial. Madrid.
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2008-08-08:El_Escorial:Demostraci%C3%B3n_de_la_locomoci%C3%B3n_de_robots_%C3%A1podos_modulares)
 </details>
 
 <details markdown="block">
-<summary>(2008)
+<summary>(2008) "Robótica Modular y Locomoción". UAM
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2008)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2008)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2008)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-</details>
-
-<details markdown="block">
-<summary>(2008)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+* **Evento**: Programa para alumnos de altas capacidades de la comunidad de Madrid.
+* **Fecha**:  12/Abril/2008 
+* **Lugar**: Escuela Politécnica Superior. UAM. Madrid
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2008-04-12-UAM-altas-capacidades/robotica-modular_UAM_2008.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2008-04-12:UAM:Rob%C3%B3tica_Modular_y_Locomoci%C3%B3n)
 </details>
 
 <details markdown="block">
@@ -946,6 +902,7 @@ MediaLab Prado (Más información)
 * **Fecha**: 
 * **Lugar**: 
 * [Transparencias (PDF)]()
+* [Más información]()
 </details>
 
 <details markdown="block">
@@ -1688,5 +1645,22 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * [Repositorio](https://github.com/Obijuan/myslides/tree/master/2017-05-11-Austin-Texas-O-Reilly-Open-Source-Award)  
 </details>
 
+<details markdown="block">
+<summary>(2008) "Robótica Modular y Locomoción: Aplicación a Robots Ápodos". Lectura de la Tesis Doctoral de Juan González. Universidad Autónoma de Madrid
+</summary>
+* **Fecha**:  21/Nov/2008 
+* **Lugar**: Escuela Politécnica Superior. Universidad Autónoma de Madrid
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2008-11-08-Tesis-Juan/tesis-JGG-transparencias.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Tesis)
+</details>
+
+<details markdown="block">
+<summary>(2008) "Robótica Modular y Locomoción: Aplicación a Robots Ápodos". Seminario previo a la lectura de tesis. Escuela Politécnica Superior. Universidad Autónoma de Madrid
+</summary>
+* **Fecha**:  08/Octubre/2008 
+* **Lugar**: Escuela Politécnica Superior. UAM
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2008-10-08-uam-seminario-tesis/2008-10-08-UAM-seminario-tesis.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2008-10-08:EPS:Rob%C3%B3tica_Modular_y_Locomoci%C3%B3n:Aplicaci%C3%B3n_a_Robots_%C3%81podos%22)
+</details>
 
 
