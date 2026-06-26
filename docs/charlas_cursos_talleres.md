@@ -546,12 +546,6 @@ MediaLab Prado (Más información)
 * [Repositorio](https://github.com/Obijuan/myslides/tree/master/2016-09-23-Granada-geek)
 </details>
 
--------
-### DESCANSO
-En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último en lo que estaba trabajando: LAS FPGAS LIBRES
-
---------
-
 <details markdown="block">
 <summary>(2014) "Makers, S.A". Fundación Telefónica
 </summary>
@@ -825,69 +819,43 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 </details>
 
 <details markdown="block">
-<summary>(2009)
+<summary>(2009) "'Live modular robots!". Robotics Innovation Center. DFKI Bremen
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Fecha**:  16/Junio/2009 
+* **Lugar**:  Robotics Innovation Center. DFKI Bremen
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/slides/2009-06-16-Live_modular_robots.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2009-06-16:Bremen:Live_modular_robots)
 </details>
 
 <details markdown="block">
-<summary>(2009)
+<summary>(2009) "Robótica Modular y Locomoción". URJC
 </summary>
-* **Evento**: 
+* **Evento**: Máster de Sistemas Telemáticos e Informáticos. Universidad Rey Juan Carlos. Madrid.
 * **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Fecha**: 06/Mayo/2009 
+* **Lugar**: Universidad Reay Juan Carlos. Campus de Móstoles. Madrid
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/slides/Robotica_modular_urjc-2009.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2009-05-06:URJC:Rob%C3%B3tica_Modular)
 </details>
 
 <details markdown="block">
-<summary>(2009)
+<summary>(2009) "Demostración de Robots Modulares". Madridbot 2009. 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: Madridbot 2009
+* **Fecha**:  25/Marzo/2009 
+* **Lugar**: IES Antonio Machado. Alcalá de Henares
+* [Transparencias (PDF)](http://www.iearobotics.com/wiki/images/d/d9/Robot-modulares-madribot-09.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2009-03-25:MadridBotE:Demostraci%C3%B3n_de_Robots_Modulares)
 </details>
 
 <details markdown="block">
-<summary>(2009)
+<summary>(2009) "Robótica Modular y Locomoción". Uned. Madrid
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2009)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2009)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**:  III Jornadas de robótica de ARDE
+* **Fecha**:  21/Marzo/2009 
+* **Lugar**: Uned. Madrid
+* [Transparencias (PDF)](http://www.iearobotics.com/wiki/images/2/24/Robotica_gusanil_arde_2009.pdf)
+* [Más información]([Uned. Madrid](http://www.iearobotics.com/wiki/index.php?title=2009-03-21:ARDE:Rob%C3%B3tica_Modular))
 </details>
 
 <details markdown="block">
@@ -1672,6 +1640,25 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * [Más información](http://www.iearobotics.com/wiki/index.php?title=Paper:ICRA-2010-Workshop-on-modular-robots)  
 </details>
 
+<details markdown="block">
+<summary>(2009) "A New Application of Modular Robots on Analysis of Caterpillar-like Locomotion". Málaga
+</summary>
+* **Evento**: IEEE International Conference on Mechatronics 2009
+* **Fecha**:  17/Abril/2009 
+* **Lugar**: Málaga
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/slides/ICM09-caterpillar-slides.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=Paper:ICM09-caterpillar)
+</details>
+
+<details markdown="block">
+<summary>(2009) "A Novel Passive Adhesion Principle and Application for an Inspired Climbing Caterpillar Robot". 
+</summary>
+* **Evento**: IEEE International Conference on Mechatronics 2009
+* **Fecha**:  17/Abril/2009 
+* **Lugar**: Málaga
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/papers/ICM09_Passive%20suckers.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=Paper:ICM09-passive-suckers)
+</details>
 
 # Talleres
 
