@@ -1180,91 +1180,37 @@ MediaLab Prado (Más información)
 </details>
 
 <details markdown="block">
-<summary>(2003)
+<summary>(2003) "Charla/taller en el Chat, sobre Microcontroladores PIC y Linux". IRC
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Organiza**: Grupo Linups
+* **Fecha**:  26/Octubre/2003 
+* **Lugar**: Canal #linups, en el servidor irc.debian.org
+* [Transparencias (PDF)](http://www.iearobotics.com/proyectos/charlas-irc/pic-linux/download/log-26-oct-2003.pdf)
+* [Más información](http://www.iearobotics.com/proyectos/charlas-irc/pic-linux/log-26-oct-2003.html)
 </details>
 
 <details markdown="block">
-<summary>(2003)
+<summary>(2003) "OpenHardware". UAM
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: Curso de Verano "Linux, un entorno abierto", de la UAM
+* **Fecha**:  2/Agosto/2003 
+* **Lugar**: Residencia la Cristalera. Miraflores de la sierra
 </details>
 
 <details markdown="block">
-<summary>(2003)
+<summary>(2003) "Robótica al alcance de todos". Universidad Alfonso X el Sabio 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: II Jornadas de Robótica. UAX
+* **Fecha**:  Mayo,2003 
+* **Lugar**: UAX
 </details>
 
 <details markdown="block">
-<summary>(2003)
+<summary>(2003) "Robótica y Linux". UPSAM 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2003)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2003)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2003)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2003)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: II Jornadas de Software Libre en la UPSAM
+* **Fecha**:  Abril,2003 
+* **Lugar**: UPSAM
 </details>
 
 
@@ -1295,7 +1241,7 @@ MediaLab Prado (Más información)
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  26/Octubre/2003 
 * **Lugar**: 
 * [Transparencias (PDF)]()
 * [Más información]()
@@ -1306,7 +1252,7 @@ MediaLab Prado (Más información)
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  Septiembre/2003 
 * **Lugar**: 
 * [Transparencias (PDF)]()
 * [Más información]()
@@ -1317,7 +1263,7 @@ MediaLab Prado (Más información)
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  10/Septiembre/2003 
 * **Lugar**: 
 * [Transparencias (PDF)]()
 * [Más información]()
@@ -1339,7 +1285,7 @@ MediaLab Prado (Más información)
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  2/Agosto/2003 
 * **Lugar**: 
 * [Transparencias (PDF)]()
 * [Más información]()
@@ -1361,7 +1307,7 @@ MediaLab Prado (Más información)
 </summary>
 * **Evento**: 
 * **Organiza**: 
-* **Fecha**: 
+* **Fecha**:  18/Junio/2003 
 * **Lugar**: 
 * [Transparencias (PDF)]()
 * [Más información]()
@@ -1462,6 +1408,16 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf11/index.html)
 </details>
 
+<details markdown="block">
+<summary>(2003) "Tarjeta entrenadora para FPGA, basada en hardware abierto". I seminario de Hispabot. Universidad de Alcalá de Henares
+</summary>
+* **Evento**: I seminario de Hispabot
+* **Fecha**:  Mayo,2003 
+* **Lugar**: Escuela Politécnica Superior. UAH
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/publicaciones/art1/jps-hispabot.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/publicaciones/art1/index.html)
+</details>
+
 🚧 TODO 🚧
 
 # Ponencias en congresos internacionales
@@ -1548,6 +1504,25 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * [Mas información](https://github.com/FPGAwars/workshops/wiki/2017_07_08:-Makespace-Madrid)
 </details>
 
+<details markdown="block">
+<summary>(2003) "Hardware libre: clasificación y desarrollo de hardware reconfigurable en entornos GNU/Linux". URJC
+</summary>
+* **Evento**: VI Congreso de Hispalinux
+* **Fecha**:  Septiembre/2003 
+* **Lugar**: Universidad Rey Juan Carlos I
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/publicaciones/art4/pres-hardware-libre.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/publicaciones/art4/index.html)
+</details>
+
+<details markdown="block">
+<summary>(2003) "Alternativas Hardware para la Locomoción de un Robot Ápodo". Escuela Politécnica Superior. UAM
+</summary>
+* **Evento**: III Jornadas sobre Computación Reconfigurable y Aplicaciones, JCRA03
+* **Fecha**:  10/Septiembre/2003 
+* **Lugar**: Escuela Politécnica Superior. UAM
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/publicaciones/art2/cube-jcra-pres.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/publicaciones/art2/index.html)
+</details>
 
 🚧 TODO 🚧
 
@@ -1590,6 +1565,16 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 * **Lugar**:  Escuela Politécnica. Universidad de Alcalá (UAH).
 * [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/conferencias/conf14/download/hispabot-04-cube-revolutions.pdf)
 * [Más información](http://www.iearobotics.com/personal/juan/conferencias/conf14/index.html)
+</details>
+
+<details markdown="block">
+<summary>(2003)  "Diseño de Robots ápodos". Escuela Politécnica Superior. Universidad Autónoma de Madrid
+</summary>
+* **Evento**: Trabajo de Iniciación a la investigación
+* **Fecha**:  18/Junio/2003 
+* **Lugar**: Escuela Politécnica Superior. UAM
+* [Transparencias (PDF)](http://www.iearobotics.com/personal/juan/doctorado/cube-reloaded/download/tea-presentacion.pdf)
+* [Más información](http://www.iearobotics.com/personal/juan/doctorado/tea/tea.html)
 </details>
 
 
