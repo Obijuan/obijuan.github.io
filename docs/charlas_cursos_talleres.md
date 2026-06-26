@@ -645,7 +645,7 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 </details>
 
 <details markdown="block">
-<summary>(2012) "PrintBots: Robots Libres e Imprimibles". Universidad de Málaga 
+<summary>🟢(2012) "PrintBots: Robots Libres e Imprimibles". Universidad de Málaga 
 </summary>
 * **Evento**: Ciclo de conferencias del la rama de estudiantes del IEEE
 * **Organiza**: Rama de estudiantes del IEEE
@@ -686,79 +686,60 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 </details>
 
 <details markdown="block">
-<summary>(2011)
+<summary>(2011) "Diseño de piezas con OpenScad".  UC3M 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: Sesión 2 del seminario: "Diseño e Impresión de Piezas 3D con herramientas Open Source", del máster de robótica y Automática de la UC3M 
+* **Fecha**: 17/Nov/2011 
+* **Lugar**: Escuela Politécnica superior, u3cm. Campus de Leganés
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_de_piezas_con_OpenScad)
 </details>
 
 <details markdown="block">
-<summary>(2011)
+<summary>(2011) "Printbots: Robots Libres e Imprimibles", UC3M
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: Sesión 1 del seminario: "Diseño e Impresión de Piezas 3D con herramientas Open Source. UC3M-2011", del máster de robótica y Automática de la UC3M 
+* **Fecha**:  10/Nov/2011 
+* **Lugar**: Escuela Politécnica superior, u3cm. Campus de Leganés
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2011-11-10-Master-3D-uc3m/PrintBots-Master-3D-uc3m.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2011-10-11:Master:Printbots:Robots_Libres_e_imprimibles)
 </details>
 
 <details markdown="block">
-<summary>(2011)
+<summary>🟢(2011) "Robots Libres e Imprimibles". Latinoware, Foz do Iguazu. Brasil 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: : VIII Conferencia Latino-Americana de Software Libre
+* **Fecha**:  20/Oct/2011 
+* **Lugar**: Parque Tecnológico Itaipu, Foz do Iguaçu, Brasil.
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2011-10-20-Latinoware-robots-libres-e-imprimibles/2011-10-20-Latinoware-Robots-libres-imprimibles.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2011-10-20:Latinoware:Robots_Libres_e_imprimibles)
 </details>
 
 <details markdown="block">
-<summary>(2011)
+<summary>(2011)  "Robots Libres e Imprimibles". OSHWCon, Madrid 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Evento**: OSHWCon: Convención de Open Source Hardware, Electrónica y Robótica
+* **Fecha**: 24/Sep/2011 
+* **Lugar**:  Centro de formación Padre Piquer. Madrid
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2011-09-24-OSHWCon/2011-09-24-OSHWcon-Robots-libres-imprimibles.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2011-09-24:OSHWCon:Robots_Libres_e_imprimibles)
 </details>
 
 <details markdown="block">
-<summary>(2011)
+<summary>🟢(2011) "Advanced Course on ModularRobot and Lego-Type Robot". Riyadh, Saudi Arabia 
 </summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Fecha**: 08/March/2011 
+* **Lugar**: National Robotics & Intelligent Systems Center. King Abdulaziz City for Science and Technology (KACST). Riyadh, Saudi Arabia 
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2011-03-05-Training-modular-snake-robots/2011-03-08-Modular-snake-robots.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2011-03-08:Saudi_Arabia:_Modular_Snake_Robots)
 </details>
 
 <details markdown="block">
-<summary>(2011)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
-</details>
-
-<details markdown="block">
-<summary>(2011)
-</summary>
-* **Evento**: 
-* **Organiza**: 
-* **Fecha**: 
-* **Lugar**: 
-* [Transparencias (PDF)]()
+<summary>(2011)  "'The state of the art research at Robotics Lab in Carlos III University of Madrid". National Robotics & Intelligent Systems Center. King Abdulaziz City for Science and Technology (KACST). Riyadh, Saudi Arabia 
+</summary> 
+* **Fecha**: 08/March/2011 
+* **Lugar**: National Robotics & Intelligent Systems Center. King Abdulaziz City for Science and Technology (KACST). Riyadh, Saudi Arabia 
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2011-03-05-Training-modular-snake-robots/RoboticsLab-research.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2011-03-08:Saudi_Arabia:_The_state_of_the_art_research_at_Robotics_Lab)
 </details>
 
 <details markdown="block">
@@ -1667,6 +1648,18 @@ Así, en un primer momento se planteó la posibilidad de usar ARM, sin embargo, 
 </details>
 
 🚧 TODO 🚧
+
+# Ponencias en congresos internacionales
+
+<details markdown="block">
+<summary>(2011) "A New Open Source 3D-printable Mobile Robotic Platform for Education". AMiRE 2001. Germany 
+</summary>
+* **Evento**: AMiRE 2011: 6th International Symposium on Autonomous Minirobots for Research and Edutainment
+* **Fecha**:  23/May/2011 
+* **Lugar**: Cognitive Interaction Technology Center of Excellence. Bielefeld University. Germany 
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2011-05-23-amire11/2011-05-23-Amire-miniskybot.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=Paper:2011-Amire-Miniskybot)
+</details>
 
 # Talleres
 
