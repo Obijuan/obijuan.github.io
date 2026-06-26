@@ -645,14 +645,14 @@ En 2014 y 2015 dejé de dar charlas. Volví en el 2016 para presentar lo último
 </details>
 
 <details markdown="block">
-<summary>(2012)
+<summary>(2012) "PrintBots: Robots Libres e Imprimibles". Universidad de Málaga 
 </summary>
-* **Evento**: 
-* **Organiza**: 
+* **Evento**: Ciclo de conferencias del la rama de estudiantes del IEEE
+* **Organiza**: Rama de estudiantes del IEEE
 * **Fecha**:  15/Mayo/2012 
-* **Lugar**: 
-* [Transparencias (PDF)]()
-* [Más información]()
+* **Lugar**:  Escuela Técnica Superior de Ingenieros de Telecomunicación, Universidad de Málaga 
+* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2012-05-15-IEEE-Malaga-Printbots/PrintBots-Malaga-IEEE.pdf)
+* [Más información](http://www.iearobotics.com/wiki/index.php?title=2012-05-15-Printbots:Robots-Libres_e_Imprimibles)
 </details>
 
 <details markdown="block">
