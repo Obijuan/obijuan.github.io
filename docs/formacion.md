@@ -56,5 +56,9 @@ layout: default
 * Centro: [Escuela Técnica Superior de Ingenieros de Telecomunicación](https://www.etsit.upm.es/) (ETSIT) de la Universidad Politécnica de Madrid (UPM)
 * Titulación de **6 años**
 * Proyecto final de carrera: [Diseño y Construcción de un robot articulado que emula modelos animales: Aplicación a un gusano](http://www.iearobotics.com/personal/juan/proyectos/cube-2.0/cube.html)  
-
 </details>
+
+# Cursos
+
+* 🥇[RISC-V Community Challenge with HaDes-V](https://www.credly.com/badges/9d9c0b64-5846-4172-b172-3752144590a6). Linux fundation
+  
