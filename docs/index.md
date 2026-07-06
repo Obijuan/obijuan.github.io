@@ -42,7 +42,15 @@ layout: home
 * [![](images/linkedin.png)][Linkedin]
 * [![](images/logo-X.png)][X/Twitter]  
 
+## Insignias
 
+* [Scout report](https://gitfut.com/Obijuan)
+
+![](images/Obijuan-gitfut.png)  
+
+* 🥇[RISC-V Community Challenge with HaDes-V](https://www.credly.com/badges/9d9c0b64-5846-4172-b172-3752144590a6). Linux fundation
+  
+![alt text](images/risc-v-community-challenge-with-hades-v-gold-2026.png)
 
 ## Aplicaciones
 
