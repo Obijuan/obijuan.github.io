@@ -69,8 +69,9 @@ storage devices for logging </summary>
 </details>
 
 <details markdown="block">
-<summary>(2011) Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot </summary>
-* Urziceanu Ionut, Pablo Varona, Francisco de Borja Rodriguez, Juan Gonzalez-Gomez, Fernando Hererro Carron, Mircea Nitulescu (2011), ["Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot"](https://ace.ucv.ro/analele/2011_vol2/14_Urziceanu_Ionut.pdf). Annals of the University of Craiova, International journal. Series: Automation, Computers, Electronics and Mechatronics, 2011, Vol 8(36), no. 2, pp. 82-92.  ISSN: 18410626
+<summary>(2011) 🚩🚩(CNCSIS, B+) Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot </summary>
+* Urziceanu Ionut, Pablo Varona, Francisco de Borja Rodriguez, Juan Gonzalez-Gomez, Fernando Hererro Carron, Mircea Nitulescu (2011), ["Design and implementation of a bio-inspired locomotion controller for a differential wheeled robot"](https://ace.ucv.ro/analele/2011_vol2/14_Urziceanu_Ionut.pdf). Annals of the University of Craiova, International journal. Series: Automation, Computers, Electronics and Mechatronics, 2011, Vol 8(36), no. 2, pp. 82-92.  ISSN: 1841-0626
+* Categoria B+, 2011 CNCSIS, codigo 11
 * https://ace.ucv.ro/anale/
 * No indexada en JCR
 </details>
@@ -78,7 +79,6 @@ storage devices for logging </summary>
 <details markdown="block">
 <summary>(2009) ⭐(JCR, Q4) Design and Realization of a Novel Modular Climbing Caterpillar Using Low-Frequency Vibrating Passive Suckers</summary>
 * Zhang, H., Wang, W., González-Gómez, J., & Zhang, J. (2009). ["Design and Realization of a Novel Modular Climbing Caterpillar Using Low-Frequency Vibrating Passive Suckers"](https://doi.org/10.1163/156855309X442990). Advanced Robotics, 23(7–8), 889–906. doi: 10.1163/156855309X442990
-
   * JCR Abreviation: ADV ROBOTICS
   * JIF (2009): 0.629
   * ISSN: 0169-1864
@@ -97,6 +97,14 @@ storage devices for logging </summary>
   * JIF Ranking: 2/73 (Sport sciences)
   * Q1
   * Número de citas: 6
+</details>
+
+<details markdown="block">
+  <summary>(2006) 🚩🚩(GII-GRIN-SCIE B-) Evaluation of a Locomotion Algorithm for Worm-Like Robots on FPGA-Embedded Processors</summary>  
+* Gonzalez-Gomez, J., Gonzalez, I., Gomez-Arribas, F., Boemo, E. (2006). ["Evaluation of a Locomotion Algorithm for Worm-Like Robots on FPGA-Embedded Processors"](https://link.springer.com/chapter/10.1007/11802839_4). In: Bertels, K., Cardoso, J.M.P., Vassiliadis, S. (eds) Reconfigurable Computing: Architectures and Applications. ARC 2006. Lecture Notes in Computer Science, vol 3985. Springer, Berlin, Heidelberg. doi: 10.1007/11802839_4
+  * ISSN: 0302-9743
+  * Tasa de aceptación: 23.4%
+  * GII-GRIN-SCIE Conference Rating: B- (LiveSHINE)
 </details>
 
 ## Capítulos de libro
