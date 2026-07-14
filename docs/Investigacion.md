@@ -38,10 +38,9 @@ layout: default
 
 <details markdown="block">
 <summary>(2026) ⭐(JCR, Q3) User-space library rootkits revisited: Are user-space detection mechanisms futile? </summary>
-* Enrique Soriano-Salvador, Gorka Guardiola Múzquiz, Juan González Gómez ["User-space library rootkits revisited: Are user-space detection mechanisms futile?"](https://arxiv.org/abs/2506.07827). Journal of Computer Virology and Hacking Techniques (En prensa)
+* Enrique Soriano-Salvador, Gorka Guardiola Múzquiz, Juan González Gómez ["User-space library rootkits revisited: Are user-space detection mechanisms futile?"](https://doi.org/10.1007/s11416-026-00639-8). Journal of Computer Virology and Hacking Techniques
   * Abreviatura JCR: J COMPUT VIROL HACK
-  * e-ISSN: todo
-  * JIF (2025): todo
+  * ISSN: 2263-8733
   * JIF Ranking: 171 / 229. Computer Science, Information Systems / Computer Science, Software Engineering
   * Q3 / T2 (2025)
 </details>
