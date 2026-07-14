@@ -121,12 +121,6 @@ storage devices for logging </summary>
 
 
 <details markdown="block">
-<summary>(2011) A Distributed Neural Controller for Locomotion in Linear Modular Robotic Configurations </summary>
-* A Ranganath, J Gonzalez-Gomez, LM Lorente (2011), ["A Distributed Neural Controller for Locomotion in Linear Modular Robotic Configurations"](https://www.avinashranganath.com/files/DistributedNeuralControllerForLocomotionInLinearModularRoboticConfigurations.pdf), Book chapter (VII), ISBN: 978-84-7484-238-8. Centro de automática y Robótica CSIC-UPM, pp. 129-144.
-* ISBN: 978-84-7484-238-8
-</details>
-
-<details markdown="block">
 <summary>(2010) A Bio-Inspired Small-Sized Wall-Climbing Caterpillar Robot </summary>
 * H. Zhang, W. Wang, J. Gonzalez-Gomez, and J. Zhang, ["A Bio-Inspired Small-Sized Wall-Climbing Caterpillar Robot"](https://www.intechopen.com/chapters/10181), Mechatronic Systems Applications. InTech, Mar. 01, 2010. doi: 10.5772/8918
   * [Citas según google scholar: 11](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=9336606143984759468)
@@ -341,6 +335,11 @@ storage devices for logging </summary>
 * Este congreso NO está indexado en CORE
 </details>
 
+<details markdown="block">
+<summary>(2011) A Distributed Neural Controller for Locomotion in Linear Modular Robotic Configurations </summary>
+* A Ranganath, J Gonzalez-Gomez, LM Lorente (2011), ["A Distributed Neural Controller for Locomotion in Linear Modular Robotic Configurations"](https://www.avinashranganath.com/files/DistributedNeuralControllerForLocomotionInLinearModularRoboticConfigurations.pdf), Book chapter (VII), ISBN: 978-84-7484-238-8. Centro de automática y Robótica CSIC-UPM, pp. 129-144.
+* ISBN: 978-84-7484-238-8
+</details>
 
 <details markdown="block">
 <summary>(2010) Toward the sense of touch in snake modular robots for search and rescue operations </summary>
@@ -348,8 +347,6 @@ storage devices for logging </summary>
   * [Citas según google scholar: 36](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=2817297044232205007)
   * No indexado en CORE
 </details>
-
-
 
 <details markdown="block">
   <summary>(2006) Locomotion Capabilities of a Modular Robot with Eight Pitch-Yaw-Connecting Modules</summary>
