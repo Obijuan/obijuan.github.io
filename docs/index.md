@@ -89,6 +89,7 @@ layout: home
 
 ## Tutoriales
 
+* [Tutorial de Siliwiz: Construcción de un MOSFET desde 0](https://github.com/Obijuan/Learn-open-silicon/wiki/Tutorial-de-Siliwiz). Ejemplo de uso de Siliwiz para construir un Mosfet N, simularlo y exportar el modelo 3D a FreeCAD
 * [Electrónica Digital para makers con FPGAs Libres]. Aprende electrónica digital desde 0 con **Icestudio** en FPGAs Libres
 * [Diseño Digital para FPGAs, con herramientas libres]. Aprende a diseñar circuitos digitales con **Verilog** en FPGAs Libres
 * [Tutoriales de FreeCad]. Aprende a diseñar en 3D para impresoras 3D
