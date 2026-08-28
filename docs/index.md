@@ -90,6 +90,7 @@ layout: home
 ## Tutoriales
 
 * [Viaje al centro de los chips](https://github.com/Obijuan/Learn-open-silicon/wiki).   Notas y documentacion sobre el nivel más bajo de los circuitos: **transistores en silicio**  (🚧 En construcción 🚧)
+* [Tutorial de Magic](https://obijuan.github.io/Tutorial-Magic/). Ejemplo de uso de Magic para la Construcción de un MOSFET desde 0, simularlo y generar el fichero de fabricación gds 
 * [Tutorial de Siliwiz: Construcción de un MOSFET desde 0](https://obijuan.github.io/Tutorial-Siliwiz). Ejemplo de uso de Siliwiz para construir un Mosfet N, simularlo y exportar el modelo 3D a FreeCAD
 * [Electrónica Digital para makers con FPGAs Libres]. Aprende electrónica digital desde 0 con **Icestudio** en FPGAs Libres
 * [Diseño Digital para FPGAs, con herramientas libres]. Aprende a diseñar circuitos digitales con **Verilog** en FPGAs Libres
