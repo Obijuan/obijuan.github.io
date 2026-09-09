@@ -162,6 +162,13 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 * [Mis diseños 2D](https://github.com/Obijuan/my2Ddesigns/wiki)  
 * [Mis presentaciones](https://github.com/Obijuan/myslides/wiki)  
 
+## Otros
+
+| Nombre | Descripción |
+|--------|-------------|
+| [iearobotics-site](https://obijuan.github.io/iearobotics-site/) | Migración de las páginas estáticas de iearobotics.com, para preservarlas para el futuro (Legacy)
+| [Wikirobotics](https://obijuan.github.io/iearobotics-site/wiki/) | Migración de la Wiki de Iearobotics como páginas estáticas, para preservarlas (Legacy)
+| Blog. Iearobotics | Migración del Blog como páginas estáticas, para preservarlas (Legacy)
 
 ## Enlaces
 * [Mi cuenta GitLab en la URJC](https://gitlab.etsit.urjc.es/obijuan1)  
