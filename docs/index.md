@@ -89,7 +89,7 @@ layout: home
 
 ## Tutoriales
 
-* [Viaje al centro de los chips](https://github.com/Obijuan/Learn-open-silicon/wiki).   Notas y documentacion sobre el nivel más bajo de los circuitos: **transistores en silicio**  (🚧 En construcción 🚧)
+* [Viaje al centro de los chips](https://obijuan.github.io/Learn-open-silicon/).   Notas y documentacion sobre el nivel más bajo de los circuitos: **transistores en silicio**  (🚧 En construcción 🚧)
 * [Tutorial de Magic](https://obijuan.github.io/Tutorial-Magic/). Ejemplo de uso de Magic para la Construcción de un MOSFET desde 0, simularlo y generar el fichero de fabricación gds 
 * [Tutorial de Siliwiz: Construcción de un MOSFET desde 0](https://obijuan.github.io/Tutorial-Siliwiz). Ejemplo de uso de Siliwiz para construir un Mosfet N, simularlo y exportar el modelo 3D a FreeCAD
 * [Electrónica Digital para makers con FPGAs Libres]. Aprende electrónica digital desde 0 con **Icestudio** en FPGAs Libres
@@ -128,6 +128,7 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 
 | Nombre                  | Descripción |
 |-------------------------|-------------|
+| [Learn-open-silicon](https://github.com/Obijuan/Learn-open-silicon/wiki) | Notas y experimentos sobre el diseño de chips a bajo nivel |
 | [Experimentos con Magic](https://github.com/Obijuan/Learn-open-silicon/wiki/Log)  | Notas sobre el uso de la herramienta Magic para crear circuitos ASIC
 | [Learn-System-Verilog](https://github.com/Obijuan/Learn-System-Verilog/wiki) | Notas y experimentos sobre System Verilog. Implementación del HADES-V con FPGAs libres |
 | [Learn-zxspectrum-basic](https://github.com/Obijuan/Learn-zxspectrum-basic/wiki) | Aprendiendo el lenguaje Basic del ordenador retro zx-spectrum, y algunas otras cosas por el camino |
