@@ -176,6 +176,7 @@ Los Logs son las **notas en sucio**, escritas en un lenguaje coloquial y persona
 * [Mi página en la URJC](https://gestion2.urjc.es/pdi/ver/juan.gonzalez.gomez)   
 * [Mi página en IEARobotics](https://obijuan.github.io/iearobotics-site/wiki/Juan_Gonzalez_Main.html)  
 * [IEARobotics (legacy)](https://obijuan.github.io/iearobotics-site/wiki/)
+* [Mis notas](https://github.com/Obijuan/My_notes/wiki)  
 
 <!------------- Enlaces de referencia -------------->
 <!--- Redes sociales -->
