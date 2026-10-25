@@ -15,6 +15,11 @@ color_scheme: dark
 
 # External navigation links
 nav_external_links:
+  - title: Blog
+    url: https://obijuan.github.io/Blog/blog/
+    hide_icon: false
+    opens_in_new_tab: false
+
   - title: FPGAwars (Web)
     url: https://fpgawars.github.io/
     hide_icon: false # set to true to hide the external link icon - defaults to false
@@ -23,7 +28,9 @@ nav_external_links:
   - title: FPGAwars (Grupo)
     url: https://groups.google.com/g/fpga-wars-explorando-el-lado-libre
     hide_icon: false
-    opens_in_new_tab:
+    opens_in_new_tab: false
+
+  
 
 
 google_site_verification: "NVyVRIB_wl6IKTp0B1399JHdOdVzYMGu6tJ3CoRD-Uo"
