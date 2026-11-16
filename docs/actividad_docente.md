@@ -636,7 +636,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 * **Centro**: [Escuela Politécnica Superior](https://www.uc3m.es/eps/inicio)
 * **Departamento**: [Ingeniería de Sistemas y Automática](https://www.uc3m.es/departamento-ingenieria-sistemas-automatica/inicio)
 * **Puesto**: Profesor visitante  
-* [Más información en IeaRobotics](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Docencia)  
+* [Más información en IeaRobotics](https://obijuan.github.io/iearobotics-site/wiki/Juan_Gonzalez_Docencia.html)  
 
 
 ### Curso 2011-2012
@@ -683,7 +683,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 <summary>Seminario: Diseño e Impresión de Piezas 3D con herramientas Open Source</summary>
 * Máster en Robótica y Automatización
 * Primer cuatrimestre
-* [Más información](http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_e_Impresi%C3%B3n_de_Piezas_3D_con_herramientas_Open_Source._UC3M-2011)
+* [Más información](https://obijuan.github.io/iearobotics-site/wiki/Dise%C3%B1o_de_piezas_con_OpenScad.html)
 * Horas impartidas: 15h  
 </details>
 
@@ -777,15 +777,15 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
   * Créditos: 6
   * Teoría (50h)
   * Más información:
-    * [Caso de estudio 1: Robots móviles](http://www.iearobotics.com/wiki/index.php?title=Curso_2010._Asignatura_de_Rob%C3%B3tica._UC3M._Robots_m%C3%B3viles)
-    * [Caso de estudio 2: Robots modulares](http://www.iearobotics.com/wiki/index.php?title=Curso_2010._Asignatura_de_Rob%C3%B3tica._UC3M._Robots_modulares)  
+    * [Caso de estudio 1: Robots móviles](https://obijuan.github.io/iearobotics-site/wiki/Curso%202010._Asignatura_de_Rob%C3%B3tica._UC3M._Robots_m%C3%B3viles.html)
+    * [Caso de estudio 2: Robots modulares](https://obijuan.github.io/iearobotics-site/wiki/Curso_2010._Asignatura_de_Rob%C3%B3tica._UC3M._Robots_modulares.html)  
 </details>
 
 
 ## Universidad Autónoma de Madrid (UAM)
 * **Centro**: [Escuela Politécnica Superior](http://www.eps.uam.es/)
 * **Departamento**: Ingeniería Informática
-* [Más información en IeaRobotics](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Docencia)  
+* [Más información en IeaRobotics](https://obijuan.github.io/iearobotics-site/wiki/Juan_Gonzalez_Docencia.html)  
 
 ### Curso 2008-2009
 * **Plaza**: Profesor Ayudante
@@ -932,7 +932,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
 * **Centro**: Facultad de Informática
 * **Departamento**: Electrónica y Comunicaciones
 * **Puesto**: Profesor Colaborador a tiempo parcial
-* [Más información en IeaRobotics](http://www.iearobotics.com/wiki/index.php?title=Juan_Gonzalez:Docencia)  
+* [Más información en IeaRobotics](https://obijuan.github.io/iearobotics-site/wiki/Juan_Gonzalez_Docencia.html)  
 
 ### Curso 2003-2004
 <details markdown="block">
@@ -953,7 +953,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
   * Asignatura Troncal
   * Créditos: 7.5
   * Grupo: ET16
-  * Apuntes: [Circuitos y sistemas digitales. Apuntes de Clase](http://www.iearobotics.com/personal/juan/docencia/apuntes-ssdd-0.3.7.pdf)  
+  * Apuntes: [Circuitos y sistemas digitales. Apuntes de Clase](https://obijuan.github.io/iearobotics-site/personal/juan/docencia/apuntes-ssdd-0.3.7.pdf)  
 </details>
 
 <details markdown="block">
@@ -983,7 +983,7 @@ Teoría de la Señal y Comunicaciones y Sistemas Telemáticos y Computación
   * Asignatura Troncal
   * Créditos: 7.5
   * Grupo: EM12
-  * Apuntes: [Circuitos y sistemas digitales. Apuntes de Clase](http://www.iearobotics.com/personal/juan/docencia/apuntes-ssdd-0.3.7.pdf)  
+  * Apuntes: [Circuitos y sistemas digitales. Apuntes de Clase](https://obijuan.github.io/iearobotics-site/personal/juan/docencia/apuntes-ssdd-0.3.7.pdf)   
 </details>
 
 <details markdown="block">
