@@ -565,8 +565,8 @@ MediaLab Prado (Más información)
 * **Fecha**:  21/Septiembre/2013 
 * **Lugar**: LAVA, Laboratorio de las artes de Valladolid
 * [Vídeo en youtube](https://www.youtube.com/watch?v=94_uaafCR0w)  
-* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2013-09-21-TEDx-Valladolid/yo-maker-TEDx-final.pdf)
-* [Más información](http://www.iearobotics.com/wiki/index.php?title=2013-09-21:_Yo,Maker._TEDx_Valladolid)
+* [Transparencias (PDF)](https://obijuan.github.io/iearobotics-site/downloads/2013-09-21-TEDx-Valladolid/yo-maker-TEDx-final.pdf)
+* [Más información](https://obijuan.github.io/iearobotics-site/wiki/2013-09-21_Yo_Maker_TEDx_Valladolid.html)
 </details>
 
 <details markdown="block">
@@ -575,8 +575,8 @@ MediaLab Prado (Más información)
 * **Evento**: Microbotics Summer Workshop
 * **Fecha**:  02/Julio/2013
 * **Lugar**: Escuela Tecnica Superior de Ingenieros de Telecomunicación. Universidad de Malaga 
-* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2013-07-02-modular-robot-malaga/2013-07-01-Modular-snake-robots-Malaga.pdf)
-* [Más información](http://www.iearobotics.com/wiki/index.php?title=2013-07-02:Let%27s_build_a_modular_snake_robot)
+* [Transparencias (PDF)](https://obijuan.github.io/iearobotics-site/downloads/2013-07-02-modular-robot-malaga/2013-07-01-Modular-snake-robots-Malaga.pdf)
+* [Más información](https://obijuan.github.io/iearobotics-site/wiki/2013-07-02_Let's_build_a_modular_snake_robot.html)
 </details>
 
 <details markdown="block">
@@ -585,7 +585,7 @@ MediaLab Prado (Más información)
 * **Evento**: Programa de Enriquecimiento Educativo de la Comunidad de Madrid.
 * **Fecha**:  06/Abril/2013
 * **Lugar**: IES Juan de la Cierva
-* [Más información](http://www.iearobotics.com/wiki/index.php?title=2013-04-06:Introducci%C3%B3n_a_los_robots_imprimibles_y_al_dise%C3%B1o_con_openscad)
+* [Más información](https://obijuan.github.io/iearobotics-site/wiki/2013-04-06_Introducci%C3%B3n_a_los_robots_imprimibles_y_al_dise%C3%B1o_con_openscad.html)
 </details>
 
 <details markdown="block">
@@ -594,8 +594,8 @@ MediaLab Prado (Más información)
 * **Evento**: Semana de la robótica Alcabot-Hispabot.
 * **Fecha**:  05/Abril/2013 
 * **Lugar**: Escuela Politécnica Superior. UAH
-* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2013-04-11-alcabot/2013-03-05-uah-printbots.pdf)
-* [Más información](http://www.iearobotics.com/wiki/index.php?title=2013-04-05:Semana_Rob%C3%B3tica_Alcabot-Hispabot:_Fabricaci%C3%B3n_personal_de_robots)
+* [Transparencias (PDF)](https://obijuan.github.io/iearobotics-site/downloads/2013-04-11-alcabot/2013-03-05-uah-printbots.pdf)
+* [Más información](https://obijuan.github.io/iearobotics-site/wiki/2013-04-05_Semana_Rob%C3%B3tica_Alcabot-Hispabot_Fabricaci%C3%B3n_personal_de_robots.html)
 </details>
 
 <details markdown="block">
@@ -604,8 +604,8 @@ MediaLab Prado (Más información)
 * **Evento**:  eTopia Maker Show,
 * **Fecha**:   23/Feb/2013 
 * **Lugar**:  Edificio seminario del Ayuntamiento de Zaragoza
-* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2013-02-23-emaker-zaragoza/2013-02-23-emaker-zaragoza.pdf)
-* [Más información](http://www.iearobotics.com/wiki/index.php?title=2013-02-23:Maker_Show_Zaragoza:_Robots_libres_e_imprimibles)
+* [Transparencias (PDF)](https://obijuan.github.io/iearobotics-site/downloads/2013-02-23-emaker-zaragoza/2013-02-23-emaker-zaragoza.pdf)
+* [Más información](https://obijuan.github.io/iearobotics-site/wiki/2013-02-23_Maker_Show_Zaragoza_Robots_libres_e_imprimibles.html)
 </details>
 
 <details markdown="block">
@@ -614,8 +614,8 @@ MediaLab Prado (Más información)
 * **Evento**: OSHWDEM
 * **Fecha**: 17/Nov/2012
 * **Lugar**: Centro Cultural Ágora de A Coruña
-* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2012-11-17-oshdem/printbots/2012-11-15-oshwdem-printbots.pdf)
-* [Más información](http://www.iearobotics.com/wiki/index.php?title=2012-11-17:OSHWDEM:_Robots_libres_e_imprimibles)
+* [Transparencias (PDF)](https://obijuan.github.io/iearobotics-site/downloads/2012-11-17-oshdem/printbots/2012-11-15-oshwdem-printbots.pdf)
+* [Más información](https://obijuan.github.io/iearobotics-site/wiki/2012-11-17_OSHWDEM_Robots_libres_e_imprimibles.html)
 </details>
 
 <details markdown="block">
@@ -625,8 +625,8 @@ MediaLab Prado (Más información)
 * **Organiza**: 
 * **Fecha**: 21/Sep/2012 
 * **Lugar**: Centro de Formación Padre Piquer. Madrid
-* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2012-09-21-oshwcon/2012-09-21-oshwcon-printbots.pdf)
-* [Más información](http://www.iearobotics.com/wiki/index.php?title=2012-09-23:_Robots_libres_e_imprimibles)
+* [Transparencias (PDF)](https://obijuan.github.io/iearobotics-site/downloads/2012-09-21-oshwcon/2012-09-21-oshwcon-printbots.pdf)
+* [Más información](https://obijuan.github.io/iearobotics-site/wiki/2012-09-23_Robots_libres_e_imprimibles.html)
 </details>
 
 <details markdown="block">
@@ -635,7 +635,7 @@ MediaLab Prado (Más información)
 * **Evento**: Exposición Robocity 2012
 * **Fecha**:  7-8/Junio/2012
 * **Lugar**: Escuela Superior de Ingenieros Industriales de la UPM
-* [Más información](http://www.iearobotics.com/wiki/index.php?title=2012-06-7:_Printbots_y_robots_modualres_en_Robocity_2012)
+* [Más información](https://obijuan.github.io/iearobotics-site/wiki/2012-06-7_Printbots_y_robots_modualres_en_Robocity_2012.html)
 </details>
 
 <details markdown="block">
@@ -645,8 +645,8 @@ MediaLab Prado (Más información)
 * **Organiza**: Rama de estudiantes del IEEE
 * **Fecha**:  15/Mayo/2012 
 * **Lugar**:  Escuela Técnica Superior de Ingenieros de Telecomunicación, Universidad de Málaga 
-* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2012-05-15-IEEE-Malaga-Printbots/PrintBots-Malaga-IEEE.pdf)
-* [Más información](http://www.iearobotics.com/wiki/index.php?title=2012-05-15-Printbots:Robots-Libres_e_Imprimibles)
+* [Transparencias (PDF)](https://obijuan.github.io/iearobotics-site/downloads/2012-05-15-IEEE-Malaga-Printbots/PrintBots-Malaga-IEEE.pdf)
+* [Más información](https://obijuan.github.io/iearobotics-site/wiki/2012-05-15-Printbots_Robots-Libres_e_Imprimibles.html)
 </details>
 
 <details markdown="block">
@@ -655,8 +655,8 @@ MediaLab Prado (Más información)
 * **Evento**: Seminario dentro del Máster en Economía Digital e Industrias Creativas,
 * **Fecha**:  05/Mayo/2012 
 * **Lugar**: Escuela de Organización Industrial (EOI), Madrid 
-* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2012-05-05-Impresora-3D-EOI/2012-05-05-Impresoras-3D-EOI.pdf)
-* [Más información](http://www.iearobotics.com/wiki/index.php?title=2012-05-05:Impresoras_3D_Open-source:_or%C3%ADgenes_y_evoluci%C3%B3n)
+* [Transparencias (PDF)](https://obijuan.github.io/iearobotics-site/downloads/2012-05-05-Impresora-3D-EOI/2012-05-05-Impresoras-3D-EOI.pdf)
+* [Más información](https://obijuan.github.io/iearobotics-site/wiki/2012-05-05_Impresoras_3D_Open-source_orígenes_y_evolución.html)
 </details>
 
 <details markdown="block">
@@ -665,8 +665,8 @@ MediaLab Prado (Más información)
 * **Evento**: Cybertech-2012
 * **Fecha**:  26/Abril/2012 
 * **Lugar**: Escuela Técnica Superior de Ingenieros Industriales, UPM, Madrid
-* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2012-04-26-cybertech/PrintBots-cybertech.pdf)
-* [Más información](http://www.iearobotics.com/wiki/index.php?title=2012-04-26:Cybertech:PrintBots:Robots_Libres_e_Imprimibles)
+* [Transparencias (PDF)](https://obijuan.github.io/iearobotics-site/downloads/2012-04-26-cybertech/PrintBots-cybertech.pdf)
+* [Más información](https://obijuan.github.io/iearobotics-site/wiki/2012-04-26_Cybertech_PrintBots_Robots_Libres_e_Imprimibles.html)
 </details>
 
 <details markdown="block">
@@ -675,8 +675,8 @@ MediaLab Prado (Más información)
 * **Evento**: VIII edición de MadridBot
 * **Fecha**:  28/Marzo/2012 
 * **Lugar**: I.E.S. "Antonio Machado Alcalá de Henares (Madrid) 
-* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2012-03-28-printbots-madridbot/2012-03-28-PrintBots-Madridbot.pdf)
-* [Más información](http://www.iearobotics.com/wiki/index.php?title=2012-03-28:Madridbot:PrintBots:Robots_Libres_e_Imprimibles)
+* [Transparencias (PDF)](https://obijuan.github.io/iearobotics-site/downloads/2012-03-28-printbots-madridbot/2012-03-28-PrintBots-Madridbot.pdf)
+* [Más información](https://obijuan.github.io/iearobotics-site/2012-03-28_Madridbot_PrintBots_Robots_Libres_e_Imprimibles.html)
 </details>
 
 <details markdown="block">
@@ -685,7 +685,7 @@ MediaLab Prado (Más información)
 * **Evento**: Sesión 2 del seminario: "Diseño e Impresión de Piezas 3D con herramientas Open Source", del máster de robótica y Automática de la UC3M 
 * **Fecha**: 17/Nov/2011 
 * **Lugar**: Escuela Politécnica superior, u3cm. Campus de Leganés
-* [Más información](http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_de_piezas_con_OpenScad)
+* [Más información](https://obijuan.github.io/iearobotics-site/wiki/Diseño_de_piezas_con_OpenScad.html)
 </details>
 
 <details markdown="block">
@@ -694,8 +694,8 @@ MediaLab Prado (Más información)
 * **Evento**: Sesión 1 del seminario: "Diseño e Impresión de Piezas 3D con herramientas Open Source. UC3M-2011", del máster de robótica y Automática de la UC3M 
 * **Fecha**:  10/Nov/2011 
 * **Lugar**: Escuela Politécnica superior, u3cm. Campus de Leganés
-* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2011-11-10-Master-3D-uc3m/PrintBots-Master-3D-uc3m.pdf)
-* [Más información](http://www.iearobotics.com/wiki/index.php?title=2011-10-11:Master:Printbots:Robots_Libres_e_imprimibles)
+* [Transparencias (PDF)](https://obijuan.github.io/iearobotics-site/downloads/2011-11-10-Master-3D-uc3m/PrintBots-Master-3D-uc3m.pdf)
+* [Más información](https://obijuan.github.io/iearobotics-site/wiki/2011-10-11_Master_Printbots_Robots_Libres_e_imprimibles.html)
 </details>
 
 <details markdown="block">
