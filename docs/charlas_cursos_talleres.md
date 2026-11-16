@@ -554,8 +554,8 @@ MediaLab Prado (Más información)
 * **Fecha**: 21-Enero-2014
 * **Lugar**: Espacio fundación telefónica. Madrid
 * [Vídeo de las jornadas en Youtube](https://www.youtube.com/watch?v=K5bXp8KYFwA)
-* [Transparencias (PDF)](http://www.iearobotics.com/downloads/2014-01-21-Enero-telefonica-makersa/2014-01-21-bq-maker-sa-telefonica.pdf)
-* [Más información](http://www.iearobotics.com/wiki/index.php?title=2014-01-21:_Makers,_S.A)
+* [Transparencias (PDF)](https://obijuan.github.io/iearobotics-site/downloads/2014-01-21-Enero-telefonica-makersa/2014-01-21-bq-maker-sa-telefonica.pdf)
+* [Más información](https://obijuan.github.io/iearobotics-site/wiki/2014-01-21_Makers_S.A.html)
 </details>
 
 <details markdown="block">
